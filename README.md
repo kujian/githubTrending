@@ -1,38 +1,38 @@
-# 20180912 Github 前端趋势榜
+# 20180913 Github 前端趋势榜
 
 [Github 前端开发日报](http://caibaojian.com/c/news)栏目数据来自[Github热榜](http://news.caibaojian.com/)（我开发的爬虫），每日分享HTML、CSS、JavaScript、Vue等开源项目，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/githubTrending)
 ## JavaScript
 
-* [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) （🍉 Next-gen database for powerful React and React Native apps that scales to 10,000s of records and remains fast ⚡️）
-* [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) （Tools of The Trade, from Hacker News.）
 * [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) （List of date-fns or native functions which you can use to replace moment.js + ESLint Plugin）
-* [mariusandra/pigeon-maps](https://github.com/mariusandra/pigeon-maps) （ReactJS Maps without external dependencies）
-* [sindresorhus/ky](https://github.com/sindresorhus/ky) （Tiny and elegant HTTP client based on the browser Fetch API）
-* [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) （100 Days of ML Coding）
+* [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) （🍉 Next-gen database for powerful React and React Native apps that scales to 10,000s of records and remains fast ⚡️）
+* [zziz/pwc](https://github.com/zziz/pwc) （Papers with code. Sorted by stars. Updated weekly.）
+* [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) （? The perfect Front-End Checklist for modern websites and meticulous developers）
+* [byoungd/English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) （可能是让你受益匪浅的英语进阶指南）
+* [dawnlabs/carbon](https://github.com/dawnlabs/carbon) （🎨 Create and share beautiful images of your source code）
 * [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) （📚 Computer Science Learning Notes）
-* [AurelienLourot/ghuser.io](https://github.com/AurelienLourot/ghuser.io) （<img class="emoji" title=":octocat:" alt=":octocat:" src="https://assets-cdn.github.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"> Better GitHub profiles）
+* [mariusandra/pigeon-maps](https://github.com/mariusandra/pigeon-maps) （ReactJS Maps without external dependencies）
+* [date-fns/date-fns](https://github.com/date-fns/date-fns) （⏳ Modern JavaScript date utility library ⌛️）
+* [sindresorhus/ky](https://github.com/sindresorhus/ky) （Tiny and elegant HTTP client based on the browser Fetch API）
+* [mweststrate/immer](https://github.com/mweststrate/immer) （Create the next immutable state by mutating the current one）
 * [vuejs/vue](https://github.com/vuejs/vue) （
         A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
       ）
-* [date-fns/date-fns](https://github.com/date-fns/date-fns) （⏳ Modern JavaScript date utility library ⌛️）
-* [sctb/lumen](https://github.com/sctb/lumen) （A Lisp for Lua and JavaScript）
-* [facebook/react](https://github.com/facebook/react) （A declarative, efficient, and flexible JavaScript library for building user interfaces.）
-* [lusakasa/sqorn](https://github.com/lusakasa/sqorn) （A Javascript library for building SQL queries）
 * [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) （Algorithms and data structures implemented in JavaScript with explanations and links to further readings）
-* [axios/axios](https://github.com/axios/axios) （Promise based HTTP client for the browser and node.js）
-* [wilk/microjob](https://github.com/wilk/microjob) （A tiny wrapper for turning Node.js worker threads into easy-to-use routines for heavy CPU loads.）
+* [getgauge/taiko](https://github.com/getgauge/taiko) （A node.js library to automate chrome/chromium browser）
+* [facebook/react](https://github.com/facebook/react) （A declarative, efficient, and flexible JavaScript library for building user interfaces.）
 * [facebook/create-react-app](https://github.com/facebook/create-react-app) （Create React apps with no build configuration.）
-* [GtOkAi/ligar-cobranca](https://github.com/GtOkAi/ligar-cobranca) （Ligue automaticamente para empresas de cobrança e deixe uma voz falando "Alô?" sem parar.）
-* [sdras/project-explorer](https://github.com/sdras/project-explorer) （🎋A CLI tool to create an annotated tree visualization of any project）
-* [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) （💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.）
-* [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) （? 免费的计算机编程类中文书籍，欢迎投稿）
-* [alibaba/ice](https://github.com/alibaba/ice) （基于 React 的海量可复用区块，极速构建中后台应用）
-* [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) （? The perfect Front-End Checklist for modern websites and meticulous developers）
-* [netgusto/nodebook](https://github.com/netgusto/nodebook) （Nodebook - Minimalist Node REPL with web UI）
-* [facebook/react-native](https://github.com/facebook/react) （
-        A framework for building native apps with React.
+* [wilk/microjob](https://github.com/wilk/microjob) （A tiny wrapper for turning Node.js worker threads into easy-to-use routines for heavy CPU loads.）
+* [axa-group/nlp.js](https://github.com/axa-group/nlp.js) （An NLP library built in node over Natural, with entity extraction, sentiment analysis, automatic language identify, and so more）
+* [storybooks/storybook](https://github.com/storybooks/storybook) （
+        UI Component Dev Environment for React
       ）
+* [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) （? 免费的计算机编程类中文书籍，欢迎投稿）
+* [sctb/lumen](https://github.com/sctb/lumen) （A Lisp for Lua and JavaScript）
+* [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) （💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.）
+* [AurelienLourot/ghuser.io](https://github.com/AurelienLourot/ghuser.io) （<img class="emoji" title=":octocat:" alt=":octocat:" src="https://assets-cdn.github.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"> Better GitHub profiles）
+* [netgusto/nodebook](https://github.com/netgusto/nodebook) （Nodebook - Minimalist Node REPL with web UI）
 * [GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer) （Headless Chrome Node API）
+* [alibaba/ice](https://github.com/alibaba/ice) （基于 React 的海量可复用区块，极速构建中后台应用）
 * [airbnb/javascript](https://github.com/airbnb/javascript) （
         JavaScript Style Guide
       ）
@@ -40,114 +40,130 @@
         基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
       ）
 * [iview/iview-admin](https://github.com/iview/iview-admin) （Vue 2.0 admin management system template based on iView）
-* [youzan/vant](https://github.com/youzan/vant) （A Vue.js 2.0 Mobile UI at YouZan）
-* [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin) （An elegant dashboard built by vue）
+* [alibaba/weex-ui](https://github.com/alibaba/weex-ui) （🏄 A rich interaction, lightweight, high performance UI library based on Weex.）
 * [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) （A simple &amp; beautiful tool for pictures uploading built by electron-vue）
+* [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin) （An elegant dashboard built by vue）
+* [youzan/vant](https://github.com/youzan/vant) （A Vue.js 2.0 Mobile UI at YouZan）
 
 ## Vue
 
-* [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) （
-        vue2 admin / a management system template
+* [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) （
+        The web management system solution based on Vue2 and Element-UI.
       ）
 * [ElemeFE/element](https://github.com/ElemeFE/element) （
         A Vue.js 2.0 UI Toolkit for Web
       ）
-* [lusaxweb/vuesax](https://github.com/lusaxweb/vuesax) （Frontend vue Components）
+* [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) （
+        vue2 admin / a management system template
+      ）
 * [iview/iview](https://github.com/iview/iview) （
         A high quality UI Toolkit with both Vue.js 2.0 and 1.0
+      ）
+* [lusaxweb/vuesax](https://github.com/lusaxweb/vuesax) （Frontend vue Components）
+* [mbj36/vue-burger-menu](https://github.com/mbj36/vue-burger-menu) （🍔 An off-canvas sidebar Vue component - <a href="https://vue-burger-menu.netlify.com/" rel="nofollow">https://vue-burger-menu.netlify.com/</a>）
+* [EasyTuan/nuxt-elm](https://github.com/EasyTuan/nuxt-elm) （基于nuxt构建的高仿饿了么（2018版））
+* [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) （An enterprise-class UI components based on Ant Design and Vue. 🐜）
+* [airyland/vux](https://github.com/airyland/vux) （
+        Mobile web UI Components based on Vue and WeUI (Vue@2.x)
       ）
 * [ElemeFE/mint-ui](https://github.com/ElemeFE/mint-ui) （
         Mobile UI elements for Vue.js
       ）
-* [godlikedeveloper/mobile-music](https://github.com/godlikedeveloper/mobile-music) （网易云音乐接口+vue全家桶开发一款移动端音乐webApp）
-* [airyland/vux](https://github.com/airyland/vux) （
-        Mobile web UI Components based on Vue and WeUI (Vue@2.x)
-      ）
-* [mbj36/vue-burger-menu](https://github.com/mbj36/vue-burger-menu) （🍔 An off-canvas sidebar Vue component - <a href="https://vue-burger-menu.netlify.com/" rel="nofollow">https://vue-burger-menu.netlify.com/</a>）
-* [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) （
-        The web management system solution based on Vue2 and Element-UI.
-      ）
-* [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) （An enterprise-class UI components based on Ant Design and Vue. 🐜）
-* [DivanteLtd/vue-storefront](https://github.com/DivanteLtd/vue-storefront) （Vue.js Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento2 supported. Always Open Source, MIT license. Join us as contributor (contributors@vuestorefront.io).）
+* [heyushuo/mpvue-shop](https://github.com/heyushuo/mpvue-shop) （基于mpvue的网易严选商城(域名备案中后台代码已上线腾讯云,近期上线小程序)）
+* [cookieY/Yearning](https://github.com/cookieY/Yearning) （基于Inception的可视化web端sql审核平台）
+* [jbaysolutions/vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) （A draggable and resizable grid layout, for Vue.js.）
+* [coreui/coreui-free-vue-admin-template](https://github.com/coreui/coreui-free-vue-admin-template) （CoreUI Vue is free Vue admin template based on Bootstrap 4）
 * [museui/muse-ui](https://github.com/museui/muse-ui) （
         Material Design UI library for Vuejs 2.0
       ）
-* [vuetifyjs/vuetifyjs.com](https://github.com/vuetifyjs/vuetifyjs.com) （Vuetifyjs.com documentation）
+* [epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin) （Vue.js admin dashboard）
 * [vuematerial/vue-material](https://github.com/vuematerial/vue-material) （
         Material design for Vue.js
       ）
-* [NightCatSama/vue-slider-component](https://github.com/NightCatSama/vue-slider-component) （Can use the slider in vue1.x and vue2.x（vue滑块组件））
-* [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar) （A lightweight, dependency-free plugin for building attributed calendars in Vue.js）
 
 ## HTML
 
 * [mciastek/sal](https://github.com/mciastek/sal) （🚀 Performance focused, lightweight scroll animation library 🚀）
+* [Theropord/CVE-2018-8420](https://github.com/Theropord/CVE-2018-8420) （Trashy.css - The throwaway CSS library with no `class`.）
 * [google/styleguide](https://github.com/google/styleguide) （
         Style guides for Google-originated open-source projects
       ）
-* [mathiasbynens/small](https://github.com/mathiasbynens/small) （Smallest possible syntactically valid files of different types）
-* [Paul-Browne/lazyestload.js](https://github.com/Paul-Browne/lazyestload.js) （load images only when they are in (and remain in) the viewport）
+* [facebookresearch/fastText](https://github.com/facebookresearch/fastText) （Library for fast text representation and classification.）
 * [portainer/portainer](https://github.com/portainer/portainer) （
         Simple management UI for Docker
       ）
-* [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) （Curated list of Unix binaries that can be exploited to bypass system security restrictions）
+* [mathiasbynens/small](https://github.com/mathiasbynens/small) （Smallest possible syntactically valid files of different types）
 * [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) （
         swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
       ）
-* [timarney/react-app-rewired](https://github.com/timarney/react-app-rewired) （Override create-react-app webpack configs without ejecting）
-* [pure-css/pure](https://github.com/pure-css/pure) （A set of small, responsive CSS modules that you can use in every web project.）
-* [leizongmin/js-xss](https://github.com/leizongmin/js-xss) （Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist）
-* [Microsoft/dotnet](https://github.com/Microsoft/dotnet) （
-        dotnet is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
+* [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) （Curated list of Unix binaries that can be exploited to bypass system security restrictions）
+* [KhronosGroup/glTF](https://github.com/KhronosGroup/glTF) （glTF – Runtime 3D Asset Delivery）
+* [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template) （
+        When all you need is a really simple HTML email template.
       ）
+* [google/WebFundamentals](https://github.com/google/WebFundamentals) （
+        Best practices for modern web development
+      ）
+* [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) （
+        StuQ 技能图谱
+      ）
+* [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) （
+        30 Day Vanilla JS Challenge
+      ）
+* [uikit/uikit](https://github.com/uikit/uikit) （A lightweight and modular front-end framework for developing fast and powerful web interfaces）
+* [Paul-Browne/lazyestload.js](https://github.com/Paul-Browne/lazyestload.js) （load images only when they are in (and remain in) the viewport）
+* [dixonandmoe/rellax](https://github.com/dixonandmoe/rellax) （
+        Lightweight, vanilla javascript parallax library
+      ）
+* [a11yproject/a11yproject.com](https://github.com/a11yproject/a11yproject.com) （A community–driven effort to make web accessibility easier.）
+* [caspar-chen/swagger-ui-layer](https://github.com/caspar-chen/swagger-ui-layer) （基于swagger的漂亮的接口文档）
 * [google/fonts](https://github.com/google/fonts) （Font files available from Google Fonts）
-* [gcushen/hugo-academic](https://github.com/gcushen/hugo-academic) （
-        The personal website framework for Hugo. Demo at
-      ）
-* [PipelineAI/pipeline](https://github.com/PipelineAI/pipeline) （PipelineAI: The Standard Runtime For Every Real-Time Machine Learning and AI Prediction in the Enterprise）
-* [HomoEfficio/dev-tips](https://github.com/HomoEfficio/dev-tips) （개발하다 마주쳤던 작은 문제들과 해결 방법 정리）
-* [radareorg/r2con2018](https://github.com/radareorg/r2con2018) （Source for theguardian.com）
-* [tensorflow/model-analysis](https://github.com/tensorflow/model-analysis) （Model analysis tools for TensorFlow）
-* [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) （CoreUI is free bootstrap admin template with Angular2, AngularJS, React.js &amp; Vue.js support.）
+* [zurb/foundation-sites](https://github.com/zurb/foundation-sites) （The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.）
 * [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) （
         Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。
       ）
-* [rewardone/OSCPRepo](https://github.com/rewardone/OSCPRepo) （A list of commands, scripts, resources, and more that I have gathered and attempted to consolidate for use as OSCP study material. Commands in 'Usefulcommands' Keepnote. Bookmarks and reading material in 'BookmarkList' Keepnote. Reconscan in scripts folder.）
-* [uikit/uikit](https://github.com/uikit/uikit) （A lightweight and modular front-end framework for developing fast and powerful web interfaces）
 
 ## CSS
 
 * [twbs/bootstrap](https://github.com/twbs/bootstrap) （The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
       ）
-* [saleem-hadad/larecipe](https://github.com/saleem-hadad/larecipe) （🍪 Write gorgeous documentations for your products using Markdown inside your Laravel app.）
+* [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) （
+        An emoji guide for your commit messages. ? 
+      ）
 * [jgthms/bulma](https://github.com/jgthms/bulma) （
         Modern CSS framework based on Flexbox
       ）
+* [primer/primer](https://github.com/primer/primer) （The design system that powers GitHub）
 * [tailwindcss/tailwindcss](https://github.com/tailwindcss/tailwindcss) （A utility-first CSS framework for rapid UI development.）
+* [csstools/sanitize.css](https://github.com/csstools/sanitize.css) （A best-practices CSS foundation）
+* [saleem-hadad/larecipe](https://github.com/saleem-hadad/larecipe) （🍪 Write gorgeous documentations for your products using Markdown inside your Laravel app.）
+* [TalkingData/iview-weapp](https://github.com/TalkingData/iview-weapp) （一套高质量的微信小程序 UI 组件库）
 * [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) （My cheatsheets）
-* [theme-next/hexo-theme-next](https://github.com/theme-next/hexo-theme-next) （Elegant and powerful theme for Hexo.）
+* [ng-alain/ng-alain](https://github.com/ng-alain/ng-alain) （ng-zorro-antd admin panel front-end framework）
+* [framework7io/framework7](https://github.com/framework7io/framework7) （Full featured HTML framework for building iOS &amp; Android apps）
+* [creativetimofficial/argon-design-system](https://github.com/creativetimofficial/argon-design-system) （Argon - Design System for Bootstrap 4 by Creative Tim）
+* [barryclark/jekyll-now](https://github.com/barryclark/jekyll-now) （
+        Build a Jekyll blog in minutes, without touching the command line.
+      ）
+* [Microsoft/vscode-docs](https://github.com/Microsoft/vscode-docs) （Public documentation for Visual Studio Code）
+* [fossasia/codeheat.org](https://github.com/fossasia/codeheat.org) （codeheat.org Website <a href="http://codeheat.org" rel="nofollow">http://codeheat.org</a>）
+* [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) （? A list of applications, alfred workflows and various tools that make my macOS experience even more amazing）
 * [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) （
         Functional css for humans
       ）
-* [framework7io/framework7](https://github.com/framework7io/framework7) （Full featured HTML framework for building iOS &amp; Android apps）
-* [picturepan2/spectre](https://github.com/picturepan2/spectre) （
-        Spectre.css - a lightweight, responsive and modern CSS framework.
-      ）
-* [AlphaConsole/AlphaConsoleElectron](https://github.com/AlphaConsole/AlphaConsoleElectron) （AlphaConsole Electron UI）
-* [Microsoft/vscode-docs](https://github.com/Microsoft/vscode-docs) （Public documentation for Visual Studio Code）
-* [fossasia/codeheat.org](https://github.com/fossasia/codeheat.org) （codeheat.org Website <a href="http://codeheat.org" rel="nofollow">http://codeheat.org</a>）
-* [project-rfs/rfs](https://github.com/project-rfs/rfs) （Automated responsive font sizes）
-* [google/metallb](https://github.com/google/metallb) （A network load-balancer implementation for Kubernetes using BGP and ARP）
-* [fossasia/2017.codeheat.org](https://github.com/fossasia/2017.codeheat.org) （Codeheat 2017 Website <a href="http://2017.codeheat.org" rel="nofollow">http://2017.codeheat.org</a>）
+* [theme-next/hexo-theme-next](https://github.com/theme-next/hexo-theme-next) （Elegant and powerful theme for Hexo.）
 * [fossasia/opentechsummit.cn](https://github.com/fossasia/opentechsummit.cn) （Website for OpenTechSummit China <a href="http://opentechsummit.cn" rel="nofollow">http://opentechsummit.cn</a>）
+* [google/metallb](https://github.com/google/metallb) （A network load-balancer implementation for Kubernetes using BGP and ARP）
 
 ## TypeScript
 
-* [eykhagen/strest](https://github.com/eykhagen/strest) （⚡️ Set up tests for REST in seconds with YAML）
 * [Microsoft/nni](https://github.com/Microsoft/nni) （An open source AutoML toolkit for neural architecture search and hyper-parameter tuning.）
 
 ## Unknow
 
+* [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) （
+        A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+      ）
 * [ethereum/EIPs](https://github.com/ethereum/EIPs) （The Ethereum Improvement Proposal）
 
 
