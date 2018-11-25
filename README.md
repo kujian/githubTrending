@@ -1,4 +1,4 @@
-# 20181124 Github 前端趋势榜
+# 20181125 Github 前端趋势榜
 
 [Github 前端开发日报](http://caibaojian.com/c/news)栏目数据来自[Github热榜](http://news.caibaojian.com/)（我开发的爬虫），每日分享HTML、CSS、JavaScript、Vue等开源项目，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/githubTrending)
 ## JavaScript
@@ -6,149 +6,141 @@
 * [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) （A science fiction desktop running everywhere. Awesome.）
 * [developit/htm](https://github.com/developit/htm) （Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.）
 * [plouc/nivo](https://github.com/plouc/nivo) （nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries）
-* [GoogleChromeLabs/carlo](https://github.com/GoogleChromeLabs/carlo) （Web rendering surface for Node applications）
-* [kitze/twizzy-landing](https://github.com/kitze/twizzy-landing) （The landing page for Twizzy, built with React 16.7）
+* [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) （? Computer Science Learning Notes）
+* [chrisdiana/cms.js](https://github.com/chrisdiana/cms.js) （Client-Side JavaScript Site Generator）
 * [vuejs/vue](https://github.com/vuejs/vue) （
         A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
       ）
-* [kentcdodds/react-testing-library](https://github.com/kentcdodds/react-testing-library) （Simple and complete React DOM testing utilities that encourage good testing practices.）
-* [karanchahal/DoodleMaster](https://github.com/karanchahal/DoodleMaster) （"Don't code your UI, Draw it !"）
-* [lllyasviel/style2paints](https://github.com/lllyasviel/style2paints) （sketch + style = paints ?）
-* [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) （? 33 concepts every JavaScript developer should know.）
+* [GoogleChromeLabs/carlo](https://github.com/GoogleChromeLabs/carlo) （Web rendering surface for Node applications）
+* [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) （
+        A book series on JavaScript. @YDKJS on twitter.
+      ）
+* [PACTCare/Dweb.page](https://github.com/PACTCare/Dweb.page) （Dweb.page – Your Gateway to the Distributed Web）
 * [facebook/react](https://github.com/facebook/react) （A declarative, efficient, and flexible JavaScript library for building user interfaces.）
-* [chrisdiana/cms.js](https://github.com/chrisdiana/cms.js) （Client-Side JavaScript Site Generator）
-* [stephentian/33-js-concepts](https://github.com/stephentian/33-js-concepts) （? 每个 JavaScript 工程师都应懂的33个概念 <a class="user-mention" href="https://github.com/leonardomso">@leonardomso</a>）
-* [facebook/create-react-app](https://github.com/facebook/create-react-app) （Create React apps with no build configuration.）
+* [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) （? 33 concepts every JavaScript developer should know.）
+* [kitze/twizzy-landing](https://github.com/kitze/twizzy-landing) （The landing page for Twizzy, built with React 16.7）
+* [karanchahal/DoodleMaster](https://github.com/karanchahal/DoodleMaster) （"Don't code your UI, Draw it !"）
+* [axios/axios](https://github.com/axios/axios) （Promise based HTTP client for the browser and node.js）
+* [lllyasviel/style2paints](https://github.com/lllyasviel/style2paints) （sketch + style = paints ?）
 * [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) （Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.）
-* [harijoe/serverless-boilerplate](https://github.com/harijoe/serverless-boilerplate) （Minimal yet super-functional serverless boilerplate）
-* [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) （? 免费的计算机编程类中文书籍，欢迎投稿）
+* [kentcdodds/react-testing-library](https://github.com/kentcdodds/react-testing-library) （Simple and complete React DOM testing utilities that encourage good testing practices.）
 * [nodejs/node](https://github.com/nodejs/node) （
         Node.js JavaScript runtime ✨??✨
 
       ）
-* [axios/axios](https://github.com/axios/axios) （Promise based HTTP client for the browser and node.js）
-* [somebee/imba](https://github.com/somebee/imba) （The new programming language for web apps）
-* [goldfire/howler.js](https://github.com/goldfire/howler.js) （Javascript audio library for the modern web.）
-* [tensorspace-team/tensorspace](https://github.com/tensorspace-team/tensorspace) （Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js）
-* [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) （
-        A completely customizable framework for building rich text editors.
-      ）
-* [storybooks/storybook](https://github.com/storybooks/storybook) （
-        UI Component Dev Environment for React
+* [airbnb/javascript](https://github.com/airbnb/javascript) （
+        JavaScript Style Guide
       ）
 * [GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer) （Headless Chrome Node API）
+* [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) （⚛️?? Blazing fast static site generator for React）
+* [facebook/create-react-app](https://github.com/facebook/create-react-app) （Create React apps with no build configuration.）
+* [stephentian/33-js-concepts](https://github.com/stephentian/33-js-concepts) （? 每个 JavaScript 工程师都应懂的33个概念 <a class="user-mention" href="https://github.com/leonardomso">@leonardomso</a>）
+* [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) （? 免费的计算机编程类中文书籍，欢迎投稿）
+* [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) （Algorithms and data structures implemented in JavaScript with explanations and links to further readings）
+* [zeit/next.js](https://github.com/zeit/next.js) （
+        Framework for server-rendered React apps
+      ）
+* [d3/d3](https://github.com/d3/d3) （
+        Bring data to life with SVG, Canvas and HTML. ???
+
+      ）
 * [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm) （
         基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
       ）
+* [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) （A simple &amp; beautiful tool for pictures uploading built by electron-vue）
 * [iview/iview-admin](https://github.com/iview/iview-admin) （Vue 2.0 admin management system template based on iView）
 * [youzan/vant](https://github.com/youzan/vant) （A Vue.js 2.0 Mobile UI at YouZan）
-* [tensorflow/tfjs-examples](https://github.com/tensorflow/tfjs-examples) （Examples built with TensorFlow.js）
 
 ## Vue
 
-* [dcloudio/uni-app](https://github.com/dcloudio/uni-app) （使用 Vue.js 开发跨平台应用的前端框架）
-* [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) （
-        vue2 admin / a management system template
-      ）
-* [DivanteLtd/vue-storefront](https://github.com/DivanteLtd/vue-storefront) （Vue.js Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento2 supported. Always Open Source, MIT license. Join us as contributor (contributors@vuestorefront.io).）
 * [ElemeFE/element](https://github.com/ElemeFE/element) （
         A Vue.js 2.0 UI Toolkit for Web
       ）
-* [iview/iview](https://github.com/iview/iview) （
-        A high quality UI Toolkit with both Vue.js 2.0 and 1.0
+* [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) （
+        vue2 admin / a management system template
       ）
-* [bailicangdu/vue2-manage](https://github.com/bailicangdu/vue2-manage) （
-        基于 vue + element-ui 的后台管理系统
-      ）
+* [dcloudio/uni-app](https://github.com/dcloudio/uni-app) （使用 Vue.js 开发跨平台应用的前端框架）
 * [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) （An enterprise-class UI components based on Ant Design and Vue. ?）
-* [buefy/buefy](https://github.com/buefy/buefy) （Lightweight UI components for Vue.js based on Bulma）
-* [overtrue/yike.io](https://github.com/overtrue/yike.io) （一刻社区前端源码）
-* [bmfe/eros](https://github.com/bmfe/eros) （?一套 Vue 代码，两端原生应用。(或许可以叫我 Weex/Vue-native)）
+* [DivanteLtd/vue-storefront](https://github.com/DivanteLtd/vue-storefront) （Vue.js Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento2 supported. Always Open Source, MIT license. Join us as contributor (contributors@vuestorefront.io).）
 * [tookit/vue-material-admin](https://github.com/tookit/vue-material-admin) （A vue material design admin template）
-* [xyxiao001/vue-cropper](https://github.com/xyxiao001/vue-cropper) （A simple picture clipping plugin for vue）
+* [vuematerial/vue-material](https://github.com/vuematerial/vue-material) （
+        Material design for Vue.js
+      ）
 
 ## HTML
 
 * [valentinxxx/nginxconfig.io](https://github.com/valentinxxx/nginxconfig.io) （nginx config generator）
-* [portainer/portainer](https://github.com/portainer/portainer) （
-        Simple management UI for Docker
-      ）
 * [fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) （吴恩达老师的机器学习课程个人笔记）
+* [phodal/github](https://github.com/phodal/github) （GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest.）
 * [google/styleguide](https://github.com/google/styleguide) （
         Style guides for Google-originated open-source projects
       ）
-* [reduxjs/react-redux](https://github.com/reduxjs/react-redux) （Official React bindings for Redux）
-* [alibaba/alpha](https://github.com/alibaba/alpha) （Alpha是一个基于PERT图构建的Android异步启动框架，它简单，高效，功能完善。 在应用启动的时候，我们通常会有很多工作需要做，为了提高启动速度，我们会尽可能让这些工作并发进行。但这些工作之间可能存在前后依赖的关系，所以我们又需要想办法保证他们执行顺序的正确性。Alpha就是为此而设计的，使用者只需定义好自己的task，并描述它依赖的task，将它添加到Project中。框架会自动并发有序地执行这些task，并将执行的结果抛出来。）
-* [pmeenan/http2priorities](https://github.com/pmeenan/http2priorities) （Test Page for HTTP/2 prioritization (server and browser)）
-* [colorswall/CSS-file-icons](https://github.com/colorswall/CSS-file-icons) （Pure CSS icons for popular file extensions）
 * [almasaeed2010/AdminLTE](https://github.com/almasaeed2010/AdminLTE) （
         AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x
       ）
-* [pure-css/pure](https://github.com/pure-css/pure) （A set of small, responsive CSS modules that you can use in every web project.）
-* [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) （CTF Wiki Online）
-* [30-seconds/30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) （A curated collection of useful CSS snippets.）
+* [reduxjs/react-redux](https://github.com/reduxjs/react-redux) （Official React bindings for Redux）
 * [facebookresearch/fastText](https://github.com/facebookresearch/fastText) （Library for fast text representation and classification.）
-* [nndl/nndl.github.io](https://github.com/nndl/nndl.github.io) （《神经网络与深度学习》 Neural Network and Deep Learning）
-* [timarney/react-app-rewired](https://github.com/timarney/react-app-rewired) （Override create-react-app webpack configs without ejecting）
-* [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) （
-        swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
+* [30-seconds/30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) （A curated collection of useful CSS snippets.）
+* [Polymer/polymer](https://github.com/Polymer/polymer) （
+        Build modern apps using web components
       ）
+* [solid/solid](https://github.com/solid/solid) （
+        Solid - Re-decentralizing the web (project directory)
+      ）
+* [portainer/portainer](https://github.com/portainer/portainer) （
+        Simple management UI for Docker
+      ）
+* [vacuumlabs/adalite](https://github.com/vacuumlabs/adalite) （A lightweight wallet for Cardano cryptocurrency）
+* [froala/design-blocks](https://github.com/froala/design-blocks) （A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.）
+* [walkccc/CLRS](https://github.com/walkccc/CLRS) （Solutions to Introduction to Algorithms 3rd）
+* [a11yproject/a11yproject.com](https://github.com/a11yproject/a11yproject.com) （A community–driven effort to make web accessibility easier.）
+* [sciactive/pnotify](https://github.com/sciactive/pnotify) （Beautiful JavaScript notifications with Web Notifications support.）
 * [tc39/ecma262](https://github.com/tc39/ecma262) （
         Status, process, and documents for ECMA262
       ）
-* [ionic-team/capacitor](https://github.com/ionic-team/capacitor) （Build cross-platform Native Progressive Web Apps for iOS, Android, and the web ⚡️）
-* [kubernetes/website](https://github.com/kubernetes/website) （Kubernetes website and documentation repo:）
-* [uikit/uikit](https://github.com/uikit/uikit) （A lightweight and modular front-end framework for developing fast and powerful web interfaces）
-* [fossasia/gci18.fossasia.org](https://github.com/fossasia/gci18.fossasia.org) （FOSSASIA Google Code-In Website 2018 <a href="https://gci18.fossasia.org" rel="nofollow">https://gci18.fossasia.org</a>）
 * [octocat/Spoon-Knife](https://github.com/octocat/Spoon-Knife) （
         This repo is for demonstration purposes only.
       ）
+* [zeit/now-github-starter](https://github.com/zeit/now-github-starter) （Starter project to demonstrate a project whose pull requests get automatically deployed）
+* [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) （✨ Build a beautiful and simple website in literally minutes. Demo at <a href="http://deanattali.com/beautiful-jekyll" rel="nofollow">http://deanattali.com/beautiful-jekyll</a>）
 
 ## CSS
 
 * [nakov/practical-cryptography-for-developers-book](https://github.com/nakov/practical-cryptography-for-developers-book) （Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Elliptic Curves, Digital Signatures）
-* [ajinabraham/CMSScan](https://github.com/ajinabraham/CMSScan) （CMS Scanner: Scan Wordpress, Drupal, Joomla, vBulletin websites for Security issues）
-* [jgthms/bulma](https://github.com/jgthms/bulma) （
-        Modern CSS framework based on Flexbox
-      ）
 * [twbs/bootstrap](https://github.com/twbs/bootstrap) （The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
       ）
-* [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) （My cheatsheets）
-* [tailwindcss/tailwindcss](https://github.com/tailwindcss/tailwindcss) （A utility-first CSS framework for rapid UI development.）
-* [Grsmto/simplebar](https://github.com/Grsmto/simplebar) （Custom scrollbars vanilla javascript library with native scroll, done simple, lightweight, easy to use and cross-browser.）
-* [Microsoft/TypeScript-Node-Starter](https://github.com/Microsoft/TypeScript-Node-Starter) （
-        A starter template for TypeScript and Node with a detailed README describing how to use the two together.
-      ）
-* [sdd-manifesto/manifesto](https://github.com/sdd-manifesto/manifesto) （The Software Defined Delivery Manifesto）
-* [BcRikko/NES.css](https://github.com/BcRikko/NES.css) （NES-style CSS Framework | ファミコン風CSSフレームワーク[WIP]）
-* [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) （? A list of applications, alfred workflows and various tools that make my macOS experience even more amazing）
-* [picturepan2/spectre](https://github.com/picturepan2/spectre) （
-        Spectre.css - a lightweight, responsive and modern CSS framework.
-      ）
-* [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) （
-        
-<img class="emoji" title=":octocat:" alt=":octocat:" src="https://assets-cdn.github.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"> Dark GitHub style
+* [jgthms/bulma](https://github.com/jgthms/bulma) （
+        Modern CSS framework based on Flexbox
       ）
 * [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) （
         A boilerplate for Node.js web applications
       ）
-* [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) （
-        An emoji guide for your commit messages. ? 
+* [ajinabraham/CMSScan](https://github.com/ajinabraham/CMSScan) （CMS Scanner: Scan Wordpress, Drupal, Joomla, vBulletin websites for Security issues）
+* [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) （My cheatsheets）
+* [Grsmto/simplebar](https://github.com/Grsmto/simplebar) （Custom scrollbars vanilla javascript library with native scroll, done simple, lightweight, easy to use and cross-browser.）
+* [picturepan2/spectre](https://github.com/picturepan2/spectre) （
+        Spectre.css - a lightweight, responsive and modern CSS framework.
+      ）
+* [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) （
+        Custom Jupyter Notebook Themes
+      ）
+* [sdd-manifesto/manifesto](https://github.com/sdd-manifesto/manifesto) （The Software Defined Delivery Manifesto）
+* [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) （
+        
+<img class="emoji" title=":octocat:" alt=":octocat:" src="https://assets-cdn.github.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"> Dark GitHub style
       ）
 * [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) （
         
 ? A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server.
       ）
-* [primer/primer](https://github.com/primer/primer) （The design system that powers GitHub）
-* [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) （
-        Functional css for humans
+* [Microsoft/TypeScript-Node-Starter](https://github.com/Microsoft/TypeScript-Node-Starter) （
+        A starter template for TypeScript and Node with a detailed README describing how to use the two together.
       ）
-* [cozuya/secret-hitler](https://github.com/cozuya/secret-hitler) （A web adaptation of the social deduction board game Secret Hitler. <a href="https://secrethitler.io" rel="nofollow">https://secrethitler.io</a>）
-* [AnomalyInnovations/serverless-stack-com](https://github.com/AnomalyInnovations/serverless-stack-com) （
-        Source for Serverless-Stack.com
-      ）
-* [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) （
-        Custom Jupyter Notebook Themes
+
+## Unknow
+
+* [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) （
+        A curated list of awesome Flutter frameworks, libraries, and softwares
       ）
 
 
