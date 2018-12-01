@@ -1,156 +1,144 @@
-# 20181130 Github 前端趋势榜
+# 20181201 Github 前端趋势榜
 
 [Github 前端开发日报](http://caibaojian.com/c/news)栏目数据来自[Github热榜](http://news.caibaojian.com/)（我开发的爬虫），每日分享HTML、CSS、JavaScript、Vue等开源项目，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/githubTrending)
 ## JavaScript
 
-* [afshinea/stanford-cs-230-deep-learning](https://github.com/afshinea/stanford-cs-230-deep-learning) （VIP cheatsheets for Stanford's CS 230 Deep Learning）
-* [knsv/mermaid](https://github.com/knsv/mermaid) （Generation of diagram and flowchart from text in a similar manner as markdown）
-* [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) （An interactive git visualization to challenge and educate!）
+* [Bo0oM/fuzz.txt](https://github.com/Bo0oM/fuzz.txt) （Potentially dangerous files）
+* [olifolkerd/tabulator](https://github.com/olifolkerd/tabulator) （Interactive Tables and Data Grids for JavaScript）
+* [withspectrum/spectrum](https://github.com/withspectrum/spectrum) （Simple, powerful online communities.）
 * [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) （A science fiction desktop running everywhere. Awesome.）
+* [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) （An interactive git visualization to challenge and educate!）
 * [bvaughn/progress-estimator](https://github.com/bvaughn/progress-estimator) （Logs a progress bar and estimation for how long a Promise will take to complete）
-* [feross/thanks](https://github.com/feross/thanks) （? Give thanks to the open source maintainers you depend on! ✨）
+* [piotte13/SIMD-Visualiser](https://github.com/piotte13/SIMD-Visualiser) （A tool to graphically visualize SIMD code）
 * [vuejs/vue](https://github.com/vuejs/vue) （
         A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
       ）
-* [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) （? 33 concepts every JavaScript developer should know.）
+* [iamadamdev/bypass-paywalls-firefox](https://github.com/iamadamdev/bypass-paywalls-firefox) （Bypass Paywalls for Firefox）
+* [knsv/mermaid](https://github.com/knsv/mermaid) （Generation of diagram and flowchart from text in a similar manner as markdown）
 * [zeit/ncc](https://github.com/zeit/ncc) （Like gcc, for Node.js）
 * [facebook/react](https://github.com/facebook/react) （A declarative, efficient, and flexible JavaScript library for building user interfaces.）
-* [NervJS/taro](https://github.com/NervJS/taro) （京东多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信小程序、H5、React Native 等的应用。）
-* [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) （Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.）
-* [trojanowski/react-apollo-hooks](https://github.com/trojanowski/react-apollo-hooks) （Use Apollo Client as React hooks）
-* [GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer) （Headless Chrome Node API）
-* [GoogleChromeLabs/carlo](https://github.com/GoogleChromeLabs/carlo) （Web rendering surface for Node applications）
-* [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) （Algorithms and data structures implemented in JavaScript with explanations and links to further readings）
 * [facebook/create-react-app](https://github.com/facebook/create-react-app) （Create React apps with no build configuration.）
+* [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) （? 33 concepts every JavaScript developer should know.）
+* [feross/thanks](https://github.com/feross/thanks) （? Give thanks to the open source maintainers you depend on! ✨）
+* [GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer) （Headless Chrome Node API）
+* [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) （Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.）
 * [axios/axios](https://github.com/axios/axios) （Promise based HTTP client for the browser and node.js）
-* [piotte13/SIMD-Visualiser](https://github.com/piotte13/SIMD-Visualiser) （A tool to graphically visualize SIMD code）
-* [facebook/react-native](https://github.com/facebook/react) （
-        A framework for building native apps with React.
-      ）
-* [neodon/learndb](https://github.com/neodon/learndb) （Repo with source code to go with lessons on learndb.net）
+* [NervJS/taro](https://github.com/NervJS/taro) （京东多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信小程序、H5、React Native 等的应用。）
 * [storybooks/storybook](https://github.com/storybooks/storybook) （
         UI Component Dev Environment for React
       ）
+* [trojanowski/react-apollo-hooks](https://github.com/trojanowski/react-apollo-hooks) （Use Apollo Client as React hooks）
+* [GoogleChromeLabs/carlo](https://github.com/GoogleChromeLabs/carlo) （Web rendering surface for Node applications）
 * [airbnb/javascript](https://github.com/airbnb/javascript) （
         JavaScript Style Guide
       ）
-* [d3/d3](https://github.com/d3/d3) （
-        Bring data to life with SVG, Canvas and HTML. ???
-
-      ）
-* [mui-org/material-ui](https://github.com/mui-org/material-ui) （React components that implement Google's Material Design.）
+* [zulip/zulip-mobile](https://github.com/zulip/zulip-mobile) （The Zulip app for Android and iOS.）
+* [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) （Browser extension that simplifies the GitHub interface and adds useful features）
 * [nodejs/node](https://github.com/nodejs/node) （
         Node.js JavaScript runtime ✨??✨
 
       ）
 * [youzan/vant](https://github.com/youzan/vant) （A Vue.js 2.0 Mobile UI at YouZan）
-* [iview/iview-admin](https://github.com/iview/iview-admin) （Vue 2.0 admin management system template based on iView）
 * [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) （A simple &amp; beautiful tool for pictures uploading built by electron-vue）
-* [tensorflow/tfjs-examples](https://github.com/tensorflow/tfjs-examples) （Examples built with TensorFlow.js）
+* [iview/iview-admin](https://github.com/iview/iview-admin) （Vue 2.0 admin management system template based on iView）
 
 ## Vue
 
 * [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) （
         vue2 admin / a management system template
       ）
-* [fy0/Icarus](https://github.com/fy0/Icarus) （A opensource forum project write with python3 aiohttp and vue.js，临时测试站：<a href="https://t.myrpg.cn" rel="nofollow">https://t.myrpg.cn</a>）
 * [dcloudio/uni-app](https://github.com/dcloudio/uni-app) （使用 Vue.js 开发跨平台应用的前端框架）
 * [ElemeFE/element](https://github.com/ElemeFE/element) （
         A Vue.js 2.0 UI Toolkit for Web
       ）
-* [iview/iview](https://github.com/iview/iview) （
-        A high quality UI Toolkit with both Vue.js 2.0 and 1.0
-      ）
+* [fy0/Icarus](https://github.com/fy0/Icarus) （A opensource forum project write with python3 aiohttp and vue.js，临时测试站：<a href="https://t.myrpg.cn" rel="nofollow">https://t.myrpg.cn</a>）
 * [airyland/vux](https://github.com/airyland/vux) （
         Mobile web UI Components based on Vue and WeUI (Vue@2.x)
       ）
-* [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) （An enterprise-class UI components based on Ant Design and Vue. ?）
-* [gothinkster/vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app) （An exemplary real-world application built with Vue.js, Vuex, axios and different other technologies. This is a good example to discover Vue for beginners.）
-* [hinesboy/mavonEditor](https://github.com/hinesboy/mavonEditor) （mavonEditor - A markdown editor based on Vue that supports a variety of personalized features）
-* [mescroll/mescroll](https://github.com/mescroll/mescroll) （精致的下拉刷新和上拉加载 js框架.支持vue,完美运行于移动端和主流PC浏览器 (JS framework for pull-refresh and pull-up-loading)）
-* [buefy/buefy](https://github.com/buefy/buefy) （Lightweight UI components for Vue.js based on Bulma）
-* [euvl/vue-js-modal](https://github.com/euvl/vue-js-modal) （
-        
-? Simple to use, highly customizable, mobile friendly Vue.js 2.0+ modal. <a href="http://vue-js-modal.yev.io/">http://vue-js-modal.yev.io/</a>
+* [iview/iview](https://github.com/iview/iview) （
+        A high quality UI Toolkit with both Vue.js 2.0 and 1.0
       ）
+* [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) （An enterprise-class UI components based on Ant Design and Vue. ?）
+* [vuematerial/vue-material](https://github.com/vuematerial/vue-material) （
+        Material design for Vue.js
+      ）
+* [DivanteLtd/vue-storefront](https://github.com/DivanteLtd/vue-storefront) （Vue.js Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento2 supported. Always Open Source, MIT license. Join us as contributor (contributors@vuestorefront.io).）
+* [buefy/buefy](https://github.com/buefy/buefy) （Lightweight UI components for Vue.js based on Bulma）
+* [dcloudio/hello-uniapp](https://github.com/dcloudio/hello-uniapp) （uni-app框架演示示例）
+* [gothinkster/vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app) （An exemplary real-world application built with Vue.js, Vuex, axios and different other technologies. This is a good example to discover Vue for beginners.）
 * [antonreshetov/vue-eva-icons](https://github.com/antonreshetov/vue-eva-icons) （Is a pack of more than 480 beautiful open source Eva icons as Vue components）
-* [Armour/vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template) （&#x1f596; A vue + typescript minimal admin template）
 
 ## HTML
 
 * [rampatra/wedding-website](https://github.com/rampatra/wedding-website) （Our Wedding Website &#x1f46b;）
-* [valentinxxx/nginxconfig.io](https://github.com/valentinxxx/nginxconfig.io) （nginx config generator）
 * [almasaeed2010/AdminLTE](https://github.com/almasaeed2010/AdminLTE) （
         AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x
       ）
 * [fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) （吴恩达老师的机器学习课程个人笔记）
-* [google/styleguide](https://github.com/google/styleguide) （
-        Style guides for Google-originated open-source projects
-      ）
-* [portainer/portainer](https://github.com/portainer/portainer) （
-        Simple management UI for Docker
-      ）
-* [reduxjs/react-redux](https://github.com/reduxjs/react-redux) （Official React bindings for Redux）
-* [NJUPT-coding-gay/NCTF2018](https://github.com/NJUPT-coding-gay/NCTF2018) （Official repository of NJUPT CTF 2018）
-* [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) （
-        30 Day Vanilla JS Challenge
-      ）
-* [facebookresearch/fastText](https://github.com/facebookresearch/fastText) （Library for fast text representation and classification.）
-* [electron/electron-api-demos](https://github.com/electron/electron-api-demos) （
-        Explore the Electron APIs
-      ）
-* [tc39/ecma262](https://github.com/tc39/ecma262) （
-        Status, process, and documents for ECMA262
-      ）
-* [uikit/uikit](https://github.com/uikit/uikit) （A lightweight and modular front-end framework for developing fast and powerful web interfaces）
-* [phodal/github](https://github.com/phodal/github) （GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest.）
+* [flutterchina/flutter-in-action](https://github.com/flutterchina/flutter-in-action) （《Flutter实战》电子书）
 * [primefaces/primeng](https://github.com/primefaces/primeng) （
         UI Components for Angular
       ）
-* [apachecn/home](https://github.com/apachecn/home) （ApacheCN 开源组织）
+* [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) （CTF Wiki Online）
+* [facebookresearch/fastText](https://github.com/facebookresearch/fastText) （Library for fast text representation and classification.）
+* [iliakan/javascript-tutorial-en](https://github.com/iliakan/javascript-tutorial-en) （
+        Modern JavaScript Tutorial 
+      ）
+* [maeligg/console.love](https://github.com/maeligg/console.love) （A collection of funny, quirky and lovely console messages from around the web）
+* [Polymer/polymer](https://github.com/Polymer/polymer) （
+        Build modern apps using web components
+      ）
+* [network-automation/linklight](https://github.com/network-automation/linklight) （Training Course for Ansible Network Automation）
+* [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) （SVG icons for popular brands）
+* [electron/electron-api-demos](https://github.com/electron/electron-api-demos) （
+        Explore the Electron APIs
+      ）
+* [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) （OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)）
+* [reduxjs/react-redux](https://github.com/reduxjs/react-redux) （Official React bindings for Redux）
+* [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) （
+        30 Day Vanilla JS Challenge
+      ）
+* [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) （CoreUI is free bootstrap admin template with Angular2, AngularJS, React.js &amp; Vue.js support.）
+* [uikit/uikit](https://github.com/uikit/uikit) （A lightweight and modular front-end framework for developing fast and powerful web interfaces）
+* [portainer/portainer](https://github.com/portainer/portainer) （
+        Simple management UI for Docker
+      ）
+* [fossasia/gci18.fossasia.org](https://github.com/fossasia/gci18.fossasia.org) （FOSSASIA Google Code-In Website 2018 <a href="https://gci18.fossasia.org" rel="nofollow">https://gci18.fossasia.org</a>）
 
 ## CSS
 
 * [BcRikko/NES.css](https://github.com/BcRikko/NES.css) （NES-style CSS Framework | ファミコン風CSSフレームワーク[WIP]）
 * [cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101) （Learn how to bring animation to your web projects）
-* [daneden/animate.css](https://github.com/daneden/animate.css) （
-        A cross-browser library of CSS animations. As easy to use as an easy thing.
+* [twbs/bootstrap](https://github.com/twbs/bootstrap) （The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
       ）
 * [jgthms/bulma](https://github.com/jgthms/bulma) （
         Modern CSS framework based on Flexbox
       ）
-* [tiaanduplessis/wenk](https://github.com/tiaanduplessis/wenk) （&#x1f609; Lightweight pure CSS tooltip for the greater good）
+* [daneden/animate.css](https://github.com/daneden/animate.css) （
+        A cross-browser library of CSS animations. As easy to use as an easy thing.
+      ）
 * [LiangJunrong/document-library](https://github.com/LiangJunrong/document-library) （jsliang 的文档库. 里面包含了所有的前端文章，例如 vue、react,、angular、微信小程序、设计模式等……）
-* [twbs/bootstrap](https://github.com/twbs/bootstrap) （The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-      ）
-* [nakov/practical-cryptography-for-developers-book](https://github.com/nakov/practical-cryptography-for-developers-book) （Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Elliptic Curves, Digital Signatures）
 * [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) （? Iconic font aggregator, collection, and patcher: 39 patched fonts (87k+ variations). Includes popular glyph collections such as Font Awesome &amp; fonts such as Hack）
+* [nakov/practical-cryptography-for-developers-book](https://github.com/nakov/practical-cryptography-for-developers-book) （Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Elliptic Curves, Digital Signatures）
 * [l-hammer/You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) （CSS Tricks for web developer）
-* [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) （
-        A boilerplate for Node.js web applications
-      ）
-* [xtyxtyx/sorry](https://github.com/xtyxtyx/sorry) （在线制作`sorry 为所欲为`的gif）
-* [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) （My cheatsheets）
-* [theme-next/hexo-theme-next](https://github.com/theme-next/hexo-theme-next) （Elegant and powerful theme for Hexo.）
-* [fossasia/fossasia.org](https://github.com/fossasia/fossasia.org) （FOSSASIA Website <a href="http://fossasia.org" rel="nofollow">http://fossasia.org</a>）
-* [IanLunn/Hover](https://github.com/IanLunn/Hover) （
-        A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
-      ）
-* [vinceliuice/vimix-gtk-themes](https://github.com/vinceliuice/vimix-gtk-themes) （
-        Vimix is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell etc.
-      ）
+* [Microsoft/vscode-docs](https://github.com/Microsoft/vscode-docs) （Public documentation for Visual Studio Code）
 * [Microsoft/TypeScript-Node-Starter](https://github.com/Microsoft/TypeScript-Node-Starter) （
         A starter template for TypeScript and Node with a detailed README describing how to use the two together.
       ）
-* [aws-samples/aws-appsync-chat-starter-react](https://github.com/aws-samples/aws-appsync-chat-starter-react) （GraphQL starter progressive web application (PWA) with Realtime, Offline and AI/ML functionality using AWS AppSync）
-* [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) （
-        
-? A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server.
+* [tiaanduplessis/wenk](https://github.com/tiaanduplessis/wenk) （&#x1f609; Lightweight pure CSS tooltip for the greater good）
+* [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) （
+        A boilerplate for Node.js web applications
       ）
 * [picturepan2/spectre](https://github.com/picturepan2/spectre) （
         Spectre.css - a lightweight, responsive and modern CSS framework.
       ）
-* [aws-samples/eks-workshop](https://github.com/aws-samples/eks-workshop) （AWS Workshop tutorials for EKS）
+* [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) （My cheatsheets）
+* [fossasia/2019.fossasia.org](https://github.com/fossasia/2019.fossasia.org) （FOSSASIA Summit 2019 <a href="https://2019.fossasia.org" rel="nofollow">https://2019.fossasia.org</a>）
+* [theme-next/hexo-theme-next](https://github.com/theme-next/hexo-theme-next) （Elegant and powerful theme for Hexo.）
+* [FabianLauer/chrome-vs-code](https://github.com/FabianLauer/chrome-vs-code) （A web browser integrated in VS Code editor tabs. ☢️ experimental ☢️）
+* [ciar4n/imagehover.css](https://github.com/ciar4n/imagehover.css) （Pure CSS Image Hover Effect Library）
+* [Requarks/wiki](https://github.com/Requarks/wiki) （Wiki.js | A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown）
+* [primer/primer](https://github.com/primer/primer) （The design system that powers GitHub）
 
 ## TypeScript
 
