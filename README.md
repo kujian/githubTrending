@@ -1,154 +1,139 @@
-# 20181213 Github 前端趋势榜
+# 20181214 Github 前端趋势榜
 
 [Github 前端开发日报](http://caibaojian.com/c/news)栏目数据来自[Github热榜](http://news.caibaojian.com/)（我开发的爬虫），每日分享HTML、CSS、JavaScript、Vue等开源项目，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/githubTrending)
 ## JavaScript
 
 * [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) （⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time）
-* [MrRio/jsPDF](https://github.com/MrRio/jsPDF) （Client-side JavaScript PDF generation for everyone.）
-* [zziz/pwc](https://github.com/zziz/pwc) （Papers with code. Sorted by stars. Updated weekly.）
-* [lucagez/Debucsser](https://github.com/lucagez/Debucsser) （CSS debugging tool with an unpronounceable name）
 * [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) （Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.）
+* [MrRio/jsPDF](https://github.com/MrRio/jsPDF) （Client-side JavaScript PDF generation for everyone.）
+* [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) （The best way to write secure and reliable applications. Write nothing; deploy nowhere.）
+* [zziz/pwc](https://github.com/zziz/pwc) （Papers with code. Sorted by stars. Updated weekly.）
 * [vuejs/vue](https://github.com/vuejs/vue) （
         A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
       ）
-* [didi/mpx](https://github.com/didi/mpx) （An enhanced miniprogram framework with data reactivity and deep optimizition.）
 * [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) （深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为15个章节，近20万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06）
-* [oussamahamdaoui/forgJs](https://github.com/oussamahamdaoui/forgJs) （ForgJs is a javascript lightweight object validator. Go check the Quick start section and start coding with love）
-* [commitizen/cz-cli](https://github.com/commitizen/cz-cli) （The commitizen command line utility.）
+* [lucagez/Debucsser](https://github.com/lucagez/Debucsser) （CSS debugging tool with an unpronounceable name）
+* [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) （An interactive git visualization to challenge and educate!）
 * [facebook/react](https://github.com/facebook/react) （A declarative, efficient, and flexible JavaScript library for building user interfaces.）
-* [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) （&#x1f386;Interactive Online Platform that Visualizes Algorithms from Code）
+* [aquanlerou/WeHalo](https://github.com/aquanlerou/WeHalo) （WeHalo 简约风 的微信小程序版博客✨）
 * [lovell/sharp](https://github.com/lovell/sharp) （
         High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images. Uses the libvips library.
       ）
-* [GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer) （Headless Chrome Node API）
-* [30-seconds/30-seconds-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews) （A curated collection of common interview questions to help you prepare for your next interview.）
 * [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) （? 33 concepts every JavaScript developer should know.）
+* [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) （Algorithms and data structures implemented in JavaScript with explanations and links to further readings）
+* [NervJS/taro](https://github.com/NervJS/taro) （京东多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信小程序、H5、React Native 等的应用。）
+* [facebook/create-react-app](https://github.com/facebook/create-react-app) （Create React apps with no build configuration.）
+* [oussamahamdaoui/forgJs](https://github.com/oussamahamdaoui/forgJs) （ForgJs is a javascript lightweight object validator. Go check the Quick start section and start coding with love）
+* [axios/axios](https://github.com/axios/axios) （Promise based HTTP client for the browser and node.js）
+* [GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer) （Headless Chrome Node API）
+* [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) （&#x1f386;Interactive Online Platform that Visualizes Algorithms from Code）
+* [gaearon/overreacted.io](https://github.com/gaearon/overreacted.io) （ignore me）
 * [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) （⚛️?? Blazing fast static site generator for React）
-* [mrdoob/three.js](https://github.com/mrdoob/three.js) （
-        JavaScript 3D library.
-      ）
+* [didi/mpx](https://github.com/didi/mpx) （An enhanced miniprogram framework with data reactivity and deep optimizition.）
 * [facebook/react-native](https://github.com/facebook/react) （
         A framework for building native apps with React.
       ）
-* [airbnb/javascript](https://github.com/airbnb/javascript) （
-        JavaScript Style Guide
+* [mrdoob/three.js](https://github.com/mrdoob/three.js) （
+        JavaScript 3D library.
       ）
-* [NervJS/taro](https://github.com/NervJS/taro) （京东多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信小程序、H5、React Native 等的应用。）
-* [axios/axios](https://github.com/axios/axios) （Promise based HTTP client for the browser and node.js）
-* [facebook/create-react-app](https://github.com/facebook/create-react-app) （Create React apps with no build configuration.）
-* [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) （A science fiction desktop running everywhere. Awesome.）
 * [nodejs/node](https://github.com/nodejs/node) （
         Node.js JavaScript runtime ✨??✨
 
       ）
-* [youzan/vant](https://github.com/youzan/vant) （A Vue.js 2.0 Mobile UI at YouZan）
-* [iview/iview-admin](https://github.com/iview/iview-admin) （Vue 2.0 admin management system template based on iView）
-* [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) （A simple &amp; beautiful tool for pictures uploading built by electron-vue）
-* [tensorflow/tfjs-examples](https://github.com/tensorflow/tfjs-examples) （Examples built with TensorFlow.js）
-
-## Vue
-
-* [ElemeFE/element](https://github.com/ElemeFE/element) （
-        A Vue.js 2.0 UI Toolkit for Web
+* [zeit/next.js](https://github.com/zeit/next.js) （
+        Framework for server-rendered React apps
       ）
-* [iview/iview](https://github.com/iview/iview) （
-        A high quality UI Toolkit with both Vue.js 2.0 and 1.0
-      ）
-* [dcloudio/uni-app](https://github.com/dcloudio/uni-app) （使用 Vue.js 开发跨平台应用的前端框架）
-* [wuyawei/Vchat](https://github.com/wuyawei/Vchat) （Vchat — 从头到脚，撸一个在线聊天的web应用（vue + node + mongodb）持续更新中 ···）
-* [airyland/vux](https://github.com/airyland/vux) （
-        Mobile web UI Components based on Vue and WeUI (Vue@2.x)
-      ）
-* [buefy/buefy](https://github.com/buefy/buefy) （Lightweight UI components for Vue.js based on Bulma）
-* [macrozheng/mall-admin-web](https://github.com/macrozheng/mall-admin-web) （mall-admin-web是一个电商后台管理系统的前端项目，基于Vue+Element实现。 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能。）
-* [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) （An enterprise-class UI components based on Ant Design and Vue. ?）
-* [mescroll/mescroll](https://github.com/mescroll/mescroll) （精致的下拉刷新和上拉加载 js框架.支持vue,完美运行于移动端和主流PC浏览器 (JS framework for pull-refresh and pull-up-loading)）
-* [lusaxweb/vuesax](https://github.com/lusaxweb/vuesax) （Frontend vue Components）
-* [euvl/vue-js-modal](https://github.com/euvl/vue-js-modal) （
-        
-? Simple to use, highly customizable, mobile friendly Vue.js 2.0+ modal. <a href="http://vue-js-modal.yev.io/">http://vue-js-modal.yev.io/</a>
-      ）
-* [tookit/vue-material-admin](https://github.com/tookit/vue-material-admin) （A vue material design admin template）
-* [didi/mand-mobile](https://github.com/didi/mand-mobile) （? A mobile UI toolkit, based on Vue.js 2, designed for financial scenes.）
-* [epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin) （Vue.js admin dashboard）
 
 ## HTML
 
 * [valentinxxx/nginxconfig.io](https://github.com/valentinxxx/nginxconfig.io) （nginx config generator）
-* [flutterchina/flutter-in-action](https://github.com/flutterchina/flutter-in-action) （《Flutter实战》电子书）
 * [google/styleguide](https://github.com/google/styleguide) （
         Style guides for Google-originated open-source projects
       ）
-* [hookmaster/frida-all-in-one](https://github.com/hookmaster/frida-all-in-one) （《FRIDA操作手册》by <a class="user-mention" href="https://github.com/hluwa">@hluwa</a> <a class="user-mention" href="https://github.com/r0ysue">@r0ysue</a>）
 * [froala/design-blocks](https://github.com/froala/design-blocks) （A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.）
-* [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) （
-        swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
-      ）
-* [iliakan/javascript-tutorial-en](https://github.com/iliakan/javascript-tutorial-en) （
-        Modern JavaScript Tutorial 
-      ）
-* [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) （
-        30 Day Vanilla JS Challenge
-      ）
-* [timarney/react-app-rewired](https://github.com/timarney/react-app-rewired) （Override create-react-app webpack configs without ejecting）
+* [flutterchina/flutter-in-action](https://github.com/flutterchina/flutter-in-action) （《Flutter实战》电子书）
 * [almasaeed2010/AdminLTE](https://github.com/almasaeed2010/AdminLTE) （
         AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x
       ）
-* [alphapapa/unpackaged.el](https://github.com/alphapapa/unpackaged.el) （A collection of useful Emacs Lisp code that isn't substantial enough to be packaged）
-* [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) （OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)）
-* [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) （Rust 程序设计语言（第二版））
-* [expressjs/expressjs.com](https://github.com/expressjs/expressjs.com) （A web tool for converting BIP39 mnemonic codes）
-* [Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) （
-        My Blog / Jekyll Themes / PWA
+* [ionic-team/ionicons](https://github.com/ionic-team/ionicons) （
+        The premium icon font for Ionic
       ）
-* [portainer/portainer](https://github.com/portainer/portainer) （
-        Simple management UI for Docker
+* [primefaces/primeng](https://github.com/primefaces/primeng) （
+        UI Components for Angular
+      ）
+* [tc39/ecma262](https://github.com/tc39/ecma262) （
+        Status, process, and documents for ECMA262
+      ）
+* [brentvollebregt/auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe) （Converts .py to .exe using a simple graphical interface）
+* [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) （
+        30 Day Vanilla JS Challenge
+      ）
+* [w3c/css-houdini-drafts](https://github.com/w3c/css-houdini-drafts) （Mirror of <a href="https://hg.css-houdini.org/drafts" rel="nofollow">https://hg.css-houdini.org/drafts</a>）
+* [ckeditor/ckeditor-dev](https://github.com/ckeditor/ckeditor-dev) （
+        The development repository of CKEditor.
       ）
 * [gcushen/hugo-academic](https://github.com/gcushen/hugo-academic) （
         The personal website framework for Hugo. Demo at
       ）
-* [uikit/uikit](https://github.com/uikit/uikit) （A lightweight and modular front-end framework for developing fast and powerful web interfaces）
-* [fossasia/gci18.fossasia.org](https://github.com/fossasia/gci18.fossasia.org) （FOSSASIA Google Code-In Website 2018 <a href="https://gci18.fossasia.org" rel="nofollow">https://gci18.fossasia.org</a>）
+* [portainer/portainer](https://github.com/portainer/portainer) （
+        Simple management UI for Docker
+      ）
+* [google/fonts](https://github.com/google/fonts) （Font files available from Google Fonts）
+* [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) （
+        swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
+      ）
+* [jlord/patchwork](https://github.com/jlord/patchwork) （
+        All the Git-it Workshop completers! 
+      ）
+* [octocat/Spoon-Knife](https://github.com/octocat/Spoon-Knife) （
+        This repo is for demonstration purposes only.
+      ）
+* [zeit/now-github-starter](https://github.com/zeit/now-github-starter) （Starter project to demonstrate a project whose pull requests get automatically deployed）
 
 ## CSS
 
 * [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) （NES-style CSS Framework | ファミコン風CSSフレームワーク）
-* [mdbootstrap/bootstrap-material-design](https://github.com/mdbootstrap/bootstrap-material-design) （
-        Material Design for Bootstrap - Powerful and free UI KIT for Bootstrap 4 and 3
-      ）
-* [CodyHouse/codyhouse-framework](https://github.com/CodyHouse/codyhouse-framework) （Create your design system.）
-* [twbs/bootstrap](https://github.com/twbs/bootstrap) （The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-      ）
 * [jgthms/bulma](https://github.com/jgthms/bulma) （
         Modern CSS framework based on Flexbox
       ）
+* [twbs/bootstrap](https://github.com/twbs/bootstrap) （The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+      ）
 * [tailwindcss/tailwindcss](https://github.com/tailwindcss/tailwindcss) （A utility-first CSS framework for rapid UI development.）
-* [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) （? Iconic font aggregator, collection, and patcher: 39 patched fonts (87k+ variations). Includes popular glyph collections such as Font Awesome &amp; fonts such as Hack）
 * [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) （
         
 <img class="emoji" title=":octocat:" alt=":octocat:" src="https://assets-cdn.github.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"> Dark GitHub style
       ）
-* [fossasia/2019.fossasia.org](https://github.com/fossasia/2019.fossasia.org) （FOSSASIA Summit 2019 <a href="https://2019.fossasia.org" rel="nofollow">https://2019.fossasia.org</a>）
-* [LiangJunrong/document-library](https://github.com/LiangJunrong/document-library) （jsliang 的文档库. 里面包含了所有的前端文章，例如 vue、react,、angular、微信小程序、设计模式等……）
-* [Requarks/wiki](https://github.com/Requarks/wiki) （Wiki.js | A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown）
-* [udacity/course-collaboration-travel-plans](https://github.com/udacity/course-collaboration-travel-plans) （?Jalpc -- A flexible Jekyll theme, 3 steps to build your website.）
-* [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) （My cheatsheets）
-* [cozuya/secret-hitler](https://github.com/cozuya/secret-hitler) （A web adaptation of the social deduction board game Secret Hitler. <a href="https://secrethitler.io" rel="nofollow">https://secrethitler.io</a>）
-* [Microsoft/TypeScript-Node-Starter](https://github.com/Microsoft/TypeScript-Node-Starter) （
-        A starter template for TypeScript and Node with a detailed README describing how to use the two together.
-      ）
+* [luangjokaj/wordpressify](https://github.com/luangjokaj/wordpressify) （? A build system designed to automate your WordPress development workflow.）
+* [CodyHouse/codyhouse-framework](https://github.com/CodyHouse/codyhouse-framework) （Create your design system.）
+* [houshanren/hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) （2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone.）
+* [cyanharlow/purecss-pink](https://github.com/cyanharlow/purecss-pink) （HTML/CSS drawing of gel studio lighting. Hand-coded entirely in HTML &amp; CSS.）
 * [framework7io/framework7](https://github.com/framework7io/framework7) （Full featured HTML framework for building iOS &amp; Android apps）
+* [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) （My cheatsheets）
+* [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) （? Iconic font aggregator, collection, and patcher: 39 patched fonts (87k+ variations). Includes popular glyph collections such as Font Awesome &amp; fonts such as Hack）
 * [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) （? A list of applications, alfred workflows and various tools that make my macOS experience even more amazing）
+* [Benjamin-Lee/deep-rules](https://github.com/Benjamin-Lee/deep-rules) （Ten Simple Rules for Deep Learning in Biology）
+* [LiangJunrong/document-library](https://github.com/LiangJunrong/document-library) （jsliang 的文档库. 里面包含了所有的前端文章，例如 vue、react,、angular、微信小程序、设计模式等……）
 * [handong1587/handong1587.github.io](https://github.com/handong1587/handong1587.github.io) （
         A Jekyll-based theme designed for documentation and help systems. See the link for detailed instructions on setting up and configuring everything.
       ）
-* [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) （
-        A collection of loading indicators animated with CSS
+* [theme-next/hexo-theme-next](https://github.com/theme-next/hexo-theme-next) （Elegant and powerful theme for Hexo.）
+* [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) （Switch hosts quickly!）
+* [SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese) （中文版 Apple 官方 Swift 教程《The Swift Programming Language》）
+* [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) （
+        
+? A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server.
+      ）
+* [iann0036/AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) （Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.）
+* [Requarks/wiki](https://github.com/Requarks/wiki) （Wiki.js | A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown）
+* [liorgrossman/darkness](https://github.com/liorgrossman/darkness) （
+         Dark Themes for Popular Websites
       ）
 
 ## TypeScript
 
 * [devhubapp/devhub](https://github.com/devhubapp/devhub) （DevHub: TweetDeck for GitHub - Android, iOS and Web &#x1f449;）
+* [naveedgol/apple-music-web-player](https://github.com/naveedgol/apple-music-web-player) （Apple Music web player）
+* [ionic-team/ionic](https://github.com/ionic-team/ionic) （Build amazing native and progressive web apps with open web technologies. One app running on everything ?）
 
 ## Unknow
 
