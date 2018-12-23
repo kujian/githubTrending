@@ -1,107 +1,69 @@
-# 20181222 Github 前端趋势榜
+# 20181223 Github 前端趋势榜
 
 [Github 前端开发日报](http://caibaojian.com/c/news)栏目数据来自[Github热榜](http://news.caibaojian.com/)（我开发的爬虫），每日分享HTML、CSS、JavaScript、Vue等开源项目，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/githubTrending)
 ## JavaScript
 
-* [developit/htm](https://github.com/developit/htm) （Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.）
-* [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) （? 33 concepts every JavaScript developer should know.）
-* [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) （Algorithms and data structures implemented in JavaScript with explanations and links to further readings）
-* [vuejs/vue](https://github.com/vuejs/vue) （
-        A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-      ）
 * [BoostIO/Boostnote](https://github.com/BoostIO/Boostnote) （
         Boostnote is an open source note-taking app made for progammers just like you?
 
       ）
-* [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) （⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time）
+* [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) （? 33 concepts every JavaScript developer should know.）
+* [developit/htm](https://github.com/developit/htm) （Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.）
+* [swc-project/swc](https://github.com/swc-project/swc) （Super-fast alternative for babel）
+* [vuejs/vue](https://github.com/vuejs/vue) （
+        A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+      ）
+* [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) （Algorithms and data structures implemented in JavaScript with explanations and links to further readings）
 * [facebook/react](https://github.com/facebook/react) （A declarative, efficient, and flexible JavaScript library for building user interfaces.）
 * [strapi/strapi](https://github.com/strapi/strapi) （? Node.js Content Management Framework (headless-CMS) to build powerful API with no effort.）
+* [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) （A science fiction desktop running everywhere. Awesome.）
+* [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) （⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time）
 * [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) （Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.）
-* [dinubs/coolqlcool](https://github.com/dinubs/coolqlcool) （Nextjs server to query websites with GraphQL）
-* [ChrisCavs/rallax.js](https://github.com/ChrisCavs/rallax.js) （Dead simple parallax scrolling.）
-* [facebook/create-react-app](https://github.com/facebook/create-react-app) （Create React apps with no build configuration.）
-* [djyde/Picas](https://github.com/djyde/Picas) （Generate Project Logo with Google Fonts）
-* [egoist/vue-html](https://github.com/egoist/vue-html) （An alternative to Vue template and Vue JSX）
-* [nhnent/tui.calendar](https://github.com/nhnent/tui.calendar) （??A JavaScript calendar that everything you need.）
-* [GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer) （Headless Chrome Node API）
 * [zeit/next.js](https://github.com/zeit/next.js) （
         Framework for server-rendered React apps
       ）
-* [axios/axios](https://github.com/axios/axios) （Promise based HTTP client for the browser and node.js）
+* [raphlinus/spline-research](https://github.com/raphlinus/spline-research) （A repository for research code, papers, interactive visualizers, etc., for spline research）
+* [djyde/Picas](https://github.com/djyde/Picas) （Generate Project Logo with Google Fonts）
+* [facebook/react-native](https://github.com/facebook/react) （
+        A framework for building native apps with React.
+      ）
+* [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) （⚡️ Streaming torrent client for the web）
+* [dinubs/coolqlcool](https://github.com/dinubs/coolqlcool) （Nextjs server to query websites with GraphQL）
 * [airbnb/javascript](https://github.com/airbnb/javascript) （
         JavaScript Style Guide
       ）
-* [ljianshu/Blog](https://github.com/ljianshu/Blog) （一起学前端，个人博客合集，喜欢的请点 star，想订阅请点 watch）
-* [nodejs/node](https://github.com/nodejs/node) （
-        Node.js JavaScript runtime ✨??✨
-
-      ）
-* [iview/iview-admin](https://github.com/iview/iview-admin) （Vue 2.0 admin management system template based on iView）
-* [youzan/vant](https://github.com/youzan/vant) （A Vue.js 2.0 Mobile UI at YouZan）
-
-## Vue
-
-* [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) （
-        vue2 admin / a management system template
-      ）
-* [lampo1024/DncZeus](https://github.com/lampo1024/DncZeus) （DncZeus 是一个基于ASP.NET Core 2 + Vue.js 的前后端分离的通用后台权限(页面访问、操作按钮控制)管理系统框架。后端使用.NET Core 2 + Entity Framework Core构建，UI则是目前流行的基于Vue.js的iView。项目实现了前后端的动态权限管理和控制以及基于JWT的用户令牌认证机制，让前后端的交互更流畅。）
-* [ElemeFE/element](https://github.com/ElemeFE/element) （
-        A Vue.js 2.0 UI Toolkit for Web
-      ）
-* [cxp1539/vue-maoyan](https://github.com/cxp1539/vue-maoyan) （vue-maoyan-web）
-* [dcloudio/uni-app](https://github.com/dcloudio/uni-app) （使用 Vue.js 开发跨平台应用的前端框架）
-* [Justineo/vue-clamp](https://github.com/Justineo/vue-clamp) （Clamping multiline text with ease.）
-* [nikli2009/treno-ui](https://github.com/nikli2009/treno-ui) （Vue 2.x UI Kit）
-* [buefy/buefy](https://github.com/buefy/buefy) （Lightweight UI components for Vue.js based on Bulma）
-* [iview/iview](https://github.com/iview/iview) （
-        A high quality UI Toolkit with both Vue.js 2.0 and 1.0
-      ）
-* [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) （An enterprise-class UI components based on Ant Design and Vue. ?）
-* [macrozheng/mall-admin-web](https://github.com/macrozheng/mall-admin-web) （mall-admin-web是一个电商后台管理系统的前端项目，基于Vue+Element实现。 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能。）
-* [euvl/vue-js-modal](https://github.com/euvl/vue-js-modal) （
-        
-? Simple to use, highly customizable, mobile friendly Vue.js 2.0+ modal. <a href="http://vue-js-modal.yev.io/">http://vue-js-modal.yev.io/</a>
-      ）
-* [airyland/vux](https://github.com/airyland/vux) （
-        Mobile web UI Components based on Vue and WeUI (Vue@2.x)
-      ）
-* [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) （? ? Build fast ? and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.）
-* [liuzhuoling2011/baidupcs-web](https://github.com/liuzhuoling2011/baidupcs-web) （基于vue2+nuxt构建的高仿饿了么（2018版））
-* [vuematerial/vue-material](https://github.com/vuematerial/vue-material) （
-        Material design for Vue.js
-      ）
+* [facebook/create-react-app](https://github.com/facebook/create-react-app) （Create React apps with no build configuration.）
+* [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) （⚛️?? Blazing fast static site generator for React）
+* [egoist/vue-html](https://github.com/egoist/vue-html) （An alternative to Vue template and Vue JSX）
+* [GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer) （Headless Chrome Node API）
+* [tensorflow/tfjs-examples](https://github.com/tensorflow/tfjs-examples) （Examples built with TensorFlow.js）
 
 ## HTML
 
 * [unbug/codelf](https://github.com/unbug/codelf) （
         Organize your GitHub stars and repositories.Search over projects from GitHub, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Project to find real-world usage variable names
       ）
-* [flutterchina/flutter-in-action](https://github.com/flutterchina/flutter-in-action) （《Flutter实战》电子书）
 * [pankod/next-boilerplate](https://github.com/pankod/next-boilerplate) （A well-structured production ready Next.js boilerplate with Typescript, Redux, Express.js, Sass, Css, EnvConfig, Reverse Proxy, Bundle Analyzer.）
+* [tc39/proposal-pipeline-operator](https://github.com/tc39/proposal-pipeline-operator) （A proposal for adding the simple-but-useful pipeline operator to JavaScript.）
+* [flutterchina/flutter-in-action](https://github.com/flutterchina/flutter-in-action) （《Flutter实战》电子书）
 * [fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) （吴恩达老师的机器学习课程个人笔记）
 * [facebookresearch/fastText](https://github.com/facebookresearch/fastText) （Library for fast text representation and classification.）
+* [zurb/foundation-sites](https://github.com/zurb/foundation-sites) （The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.）
+* [mikepound/convolve](https://github.com/mikepound/convolve) （Simple demonstration of separable convolutions）
 * [google/styleguide](https://github.com/google/styleguide) （
         Style guides for Google-originated open-source projects
       ）
-* [KenjiI/javascript-tutorial-ja](https://github.com/KenjiI/javascript-tutorial-ja) （現代の JavaScript チュートリアル）
-* [ericwbailey/accessible-html-content-patterns](https://github.com/ericwbailey/accessible-html-content-patterns) （♿️ The full HTML5 Doctor Element Index as well as common markup patterns for quick reference.）
-* [EdwinVW/pitstop](https://github.com/EdwinVW/pitstop) （This repo contains a sample application based on a Garage Management System for PitStop - a fictitious garage. The primary goal of this sample is to demonstrate several Web-Scale Architecture concepts like: Microservices, CQRS, Event Sourcing, Domain Driven Design (DDD), Eventual Consistency.）
-* [30-seconds/30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) （A curated collection of useful CSS snippets.）
 * [valentinxxx/nginxconfig.io](https://github.com/valentinxxx/nginxconfig.io) （nginx config generator）
-* [UndeadSec/SocialFish](https://github.com/UndeadSec/SocialFish) （Ultimate phishing tool. Socialize with the credentials.）
-* [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) （
-        30 Day Vanilla JS Challenge
+* [uikit/uikit](https://github.com/uikit/uikit) （A lightweight and modular front-end framework for developing fast and powerful web interfaces）
+* [google/fonts](https://github.com/google/fonts) （Font files available from Google Fonts）
+* [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) （
+        Repository for the book "Crafting Interpreters"
       ）
-* [ma77os/InteractiveLandscape](https://github.com/ma77os/InteractiveLandscape) （An exploration of an animated interactive landscape built with three.js.）
-* [gcushen/hugo-academic](https://github.com/gcushen/hugo-academic) （
-        The personal website framework for Hugo. Demo at
+* [portainer/portainer](https://github.com/portainer/portainer) （
+        Simple management UI for Docker
       ）
-* [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) （OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)）
 * [Polymer/polymer](https://github.com/Polymer/polymer) （
         Build modern apps using web components
-      ）
-* [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) （
-        swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
       ）
 * [zeit/now-github-starter](https://github.com/zeit/now-github-starter) （Starter project to demonstrate a project whose pull requests get automatically deployed）
 * [octocat/Spoon-Knife](https://github.com/octocat/Spoon-Knife) （
@@ -110,42 +72,37 @@
 
 ## CSS
 
-* [nhsuk/nhsuk-frontend](https://github.com/nhsuk/nhsuk-frontend) （NHS.UK frontend library - in prerelease for use in prototypes and testing）
 * [twbs/bootstrap](https://github.com/twbs/bootstrap) （The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
       ）
-* [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) （NES-style CSS Framework | ファミコン風CSSフレームワーク）
-* [enquirer/enquirer](https://github.com/enquirer/enquirer) （
-        Intuitive, plugin-based prompt system for node.js. Much faster alternative to Inquirer, with all the same prompt types and more.
-      ）
-* [iann0036/AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) （Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.）
-* [tailwindcss/tailwindcss](https://github.com/tailwindcss/tailwindcss) （A utility-first CSS framework for rapid UI development.）
 * [jgthms/bulma](https://github.com/jgthms/bulma) （
         Modern CSS framework based on Flexbox
       ）
-* [filamentgroup/select-css](https://github.com/filamentgroup/select-css) （Cross-browser styles for consistent select element styling）
+* [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) （NES-style CSS Framework | ファミコン風CSSフレームワーク）
+* [nhsuk/nhsuk-frontend](https://github.com/nhsuk/nhsuk-frontend) （NHS.UK frontend library - in prerelease for use in prototypes and testing）
+* [iann0036/AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) （Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.）
 * [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) （
         
 <img class="emoji" title=":octocat:" alt=":octocat:" src="https://assets-cdn.github.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"> Dark GitHub style
       ）
-* [Requarks/wiki](https://github.com/Requarks/wiki) （Wiki.js | A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown）
-* [iissnan/hexo-theme-next](https://github.com/iissnan/hexo-theme-next) （
-        Elegant theme for Hexo. 
-      ）
-* [CodyHouse/codyhouse-framework](https://github.com/CodyHouse/codyhouse-framework) （Create your design system.）
-* [nakov/practical-cryptography-for-developers-book](https://github.com/nakov/practical-cryptography-for-developers-book) （Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Elliptic Curves, Digital Signatures）
-* [justinmeiners/lc3-vm](https://github.com/justinmeiners/lc3-vm) （Write your own virtual machine for the LC-3 computer!）
-* [AnomalyInnovations/serverless-stack-com](https://github.com/AnomalyInnovations/serverless-stack-com) （
-        Source for Serverless-Stack.com
-      ）
-* [theme-next/hexo-theme-next](https://github.com/theme-next/hexo-theme-next) （Elegant and powerful theme for Hexo.）
 * [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) （
         An emoji guide for your commit messages. ? 
       ）
-* [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) （My cheatsheets）
+* [tailwindcss/tailwindcss](https://github.com/tailwindcss/tailwindcss) （A utility-first CSS framework for rapid UI development.）
+* [iissnan/hexo-theme-next](https://github.com/iissnan/hexo-theme-next) （
+        Elegant theme for Hexo. 
+      ）
+* [udacity/course-collaboration-travel-plans](https://github.com/udacity/course-collaboration-travel-plans) （?Jalpc -- A flexible Jekyll theme, 3 steps to build your website.）
 * [picturepan2/spectre](https://github.com/picturepan2/spectre) （
         Spectre.css - a lightweight, responsive and modern CSS framework.
       ）
+* [theme-next/hexo-theme-next](https://github.com/theme-next/hexo-theme-next) （Elegant and powerful theme for Hexo.）
 * [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) （? A list of applications, alfred workflows and various tools that make my macOS experience even more amazing）
+* [l-hammer/You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) （CSS Tricks for web developer）
+* [apachecn/hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh) （&#x1f4d6; [译] Sklearn 与 TensorFlow 机器学习实用指南）
+* [pathartl/BleemSync](https://github.com/pathartl/BleemSync) （An application manage and launch PlayStation Classic games from USB storage）
+* [nakov/practical-cryptography-for-developers-book](https://github.com/nakov/practical-cryptography-for-developers-book) （Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Elliptic Curves, Digital Signatures）
+* [framework7io/framework7](https://github.com/framework7io/framework7) （Full featured HTML framework for building iOS &amp; Android apps）
+* [ykdojo/editdojo](https://github.com/ykdojo/editdojo) （An app/website for improving your writing skills in any language.）
 
 ## TypeScript
 
