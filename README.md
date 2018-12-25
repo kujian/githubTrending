@@ -1,118 +1,145 @@
-# 20181224 Github 前端趋势榜
+# 20181225 Github 前端趋势榜
 
 [Github 前端开发日报](http://caibaojian.com/c/news)栏目数据来自[Github热榜](http://news.caibaojian.com/)（我开发的爬虫），每日分享HTML、CSS、JavaScript、Vue等开源项目，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/githubTrending)
 ## JavaScript
 
+* [ant-design/ant-design](https://github.com/ant-design/ant-design) （        
+? A UI Design Language
+      ）
 * [swc-project/swc](https://github.com/swc-project/swc) （Super-fast alternative for babel）
+* [e-oj/Magic-Grid](https://github.com/e-oj/Magic-Grid) （A simple, lightweight Javascript library for dynamic grid layouts.）
+* [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) （Peer-to-Peer Databases for the Decentralized Web）
+* [alibaba-fusion/next](https://github.com/alibaba-fusion/next) （A configurable component library for web built on React.）
+* [intika/Librefox](https://github.com/intika/Librefox) （Librefox, patching Firefox for an enforced privacy and security）
+* [TarekRaafat/autoComplete.js](https://github.com/TarekRaafat/autoComplete.js) （Simple autocomplete pure vanilla Javascript library.）
 * [BoostIO/Boostnote](https://github.com/BoostIO/Boostnote) （
         Boostnote is an open source note-taking app made for progammers just like you?
 
       ）
-* [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) （Peer-to-Peer Databases for the Decentralized Web）
-* [intika/Librefox](https://github.com/intika/Librefox) （Librefox, patching Firefox for an enforced privacy and security）
-* [e-oj/Magic-Grid](https://github.com/e-oj/Magic-Grid) （A simple, lightweight Javascript library for dynamic grid layouts.）
-* [BrainJS/brain.js](https://github.com/BrainJS/brain.js) （? Neural networks in JavaScript）
-* [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) （? 33 concepts every JavaScript developer should know.）
-* [TarekRaafat/autoComplete.js](https://github.com/TarekRaafat/autoComplete.js) （Simple autocomplete pure vanilla Javascript library.）
-* [leesipeng/chat-wall-node](https://github.com/leesipeng/chat-wall-node) （微信上墙 年会抽奖/签到/弹幕 服务端+pc）
 * [vuejs/vue](https://github.com/vuejs/vue) （
         A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
       ）
+* [amark/gun](https://github.com/amark/gun) （A realtime, decentralized, offline-first, graph database engine.）
+* [BrainJS/brain.js](https://github.com/BrainJS/brain.js) （? Neural networks in JavaScript）
 * [facebook/react](https://github.com/facebook/react) （A declarative, efficient, and flexible JavaScript library for building user interfaces.）
-* [bui/taiko-web](https://github.com/bui/taiko-web) （Taiko no Tatsujin simulator）
-* [developit/htm](https://github.com/developit/htm) （Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.）
-* [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) （? 免费的计算机编程类中文书籍，欢迎投稿）
-* [strapi/strapi](https://github.com/strapi/strapi) （? Node.js Content Management Framework (headless-CMS) to build powerful API with no effort.）
-* [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) （Algorithms and data structures implemented in JavaScript with explanations and links to further readings）
+* [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) （??‍???‍? An out-of-box UI solution for enterprise applications）
+* [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) （? 33 concepts every JavaScript developer should know.）
 * [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) （Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.）
-* [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) （⚡️ Streaming torrent client for the web）
-* [NervJS/taro](https://github.com/NervJS/taro) （京东多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信小程序、H5、React Native 等的应用。）
+* [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) （Algorithms and data structures implemented in JavaScript with explanations and links to further readings）
+* [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) （⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time）
+* [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) （? 免费的计算机编程类中文书籍，欢迎投稿）
 * [facebook/create-react-app](https://github.com/facebook/create-react-app) （Create React apps with no build configuration.）
+* [strapi/strapi](https://github.com/strapi/strapi) （? Node.js Content Management Framework (headless-CMS) to build powerful API with no effort.）
+* [mui-org/material-ui](https://github.com/mui-org/material-ui) （React components that implement Google's Material Design.）
+* [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) （A science fiction desktop running everywhere. Awesome.）
 * [facebook/react-native](https://github.com/facebook/react) （
         A framework for building native apps with React.
       ）
-* [djyde/Picas](https://github.com/djyde/Picas) （Generate Project Logo with Google Fonts）
-* [mrdoob/three.js](https://github.com/mrdoob/three.js) （
-        JavaScript 3D library.
-      ）
+* [frank-lam/fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) （&#x1f680; Full Stack Developer Tutorial，后台技术栈/架构师成长之路，春招/秋招/校招/面试。<a href="https://frank-lam.github.io/fullstack-tutorial" rel="nofollow">https://frank-lam.github.io/fullstack-tutorial</a>）
+* [iview/iview-admin](https://github.com/iview/iview-admin) （Vue 2.0 admin management system template based on iView）
 * [youzan/vant](https://github.com/youzan/vant) （A Vue.js 2.0 Mobile UI at YouZan）
 * [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) （A simple &amp; beautiful tool for pictures uploading built by electron-vue）
+* [tensorflow/tfjs-examples](https://github.com/tensorflow/tfjs-examples) （Examples built with TensorFlow.js）
 
 ## Vue
 
 * [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) （
         vue2 admin / a management system template
       ）
-* [liuzhuoling2011/baidupcs-web](https://github.com/liuzhuoling2011/baidupcs-web) （基于vue2+nuxt构建的高仿饿了么（2018版））
+* [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) （An enterprise-class UI components based on Ant Design and Vue. ?）
 * [ElemeFE/element](https://github.com/ElemeFE/element) （
         A Vue.js 2.0 UI Toolkit for Web
       ）
-* [iview/iview](https://github.com/iview/iview) （
-        A high quality UI Toolkit with both Vue.js 2.0 and 1.0
-      ）
-* [lampo1024/DncZeus](https://github.com/lampo1024/DncZeus) （DncZeus 是一个基于ASP.NET Core 2 + Vue.js 的前后端分离的通用后台权限(页面访问、操作按钮控制)管理系统框架。后端使用.NET Core 2 + Entity Framework Core构建，UI则是目前流行的基于Vue.js的iView。项目实现了前后端的动态权限管理和控制以及基于JWT的用户令牌认证机制，让前后端的交互更流畅。）
-* [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) （An enterprise-class UI components based on Ant Design and Vue. ?）
+* [liuzhuoling2011/baidupcs-web](https://github.com/liuzhuoling2011/baidupcs-web) （基于vue2+nuxt构建的高仿饿了么（2018版））
 * [dcloudio/uni-app](https://github.com/dcloudio/uni-app) （使用 Vue.js 开发跨平台应用的前端框架）
+* [macrozheng/mall-admin-web](https://github.com/macrozheng/mall-admin-web) （mall-admin-web是一个电商后台管理系统的前端项目，基于Vue+Element实现。 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能。）
+* [Justineo/vue-clamp](https://github.com/Justineo/vue-clamp) （Clamping multiline text with ease.）
+* [sendya/ant-design-pro-vue](https://github.com/sendya/ant-design-pro-vue) （??‍???‍? Use Ant Design Vue like a Pro! Demo: <a href="https://pro.loacg.com" rel="nofollow">https://pro.loacg.com</a> | React: <a href="http://pro.ant.design/" rel="nofollow">http://pro.ant.design/</a>）
+* [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) （? ? Build fast ? and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.）
+* [Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) （Smooth scroll with any amount of data）
 * [vuematerial/vue-material](https://github.com/vuematerial/vue-material) （
         Material design for Vue.js
       ）
-* [airyland/vux](https://github.com/airyland/vux) （
-        Mobile web UI Components based on Vue and WeUI (Vue@2.x)
-      ）
-* [Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) （Smooth scroll with any amount of data）
-* [Justineo/vue-clamp](https://github.com/Justineo/vue-clamp) （Clamping multiline text with ease.）
-* [ebb-io/ebbx](https://github.com/ebb-io/ebbx) （A Vue.js project that powers a certain magical website）
-* [buefy/buefy](https://github.com/buefy/buefy) （Lightweight UI components for Vue.js based on Bulma）
-* [wuyawei/Vchat](https://github.com/wuyawei/Vchat) （Vchat — 从头到脚，撸一个在线聊天的web应用（vue + node + mongodb）持续更新中 ···）
+* [epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin) （Vue.js admin dashboard）
+* [hinesboy/mavonEditor](https://github.com/hinesboy/mavonEditor) （mavonEditor - A markdown editor based on Vue that supports a variety of personalized features）
+* [p1r06u3/opencanary_web](https://github.com/p1r06u3/opencanary_web) （基于opencanary（内网低交互蜜罐）的蜜罐web服务端管理后台|The Web App of opencanary secondary development）
+* [didi/mand-mobile](https://github.com/didi/mand-mobile) （? A mobile UI toolkit, based on Vue.js 2, designed for financial scenes.）
 
 ## HTML
 
 * [unbug/codelf](https://github.com/unbug/codelf) （
         Organize your GitHub stars and repositories.Search over projects from GitHub, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Project to find real-world usage variable names
       ）
+* [iaolo/iA-Fonts](https://github.com/iaolo/iA-Fonts) （Free variable writing fonts from iA）
+* [jjkaufman/wiv.js](https://github.com/jjkaufman/wiv.js) （A library for a more wiggly div）
 * [flutterchina/flutter-in-action](https://github.com/flutterchina/flutter-in-action) （《Flutter实战》电子书）
-* [oh-bear/2life](https://github.com/oh-bear/2life) （&#x1f48c; 双生：遇见另一半的美好：）（React Native））
-* [almasaeed2010/AdminLTE](https://github.com/almasaeed2010/AdminLTE) （
-        AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x
-      ）
+* [zadewg/LIVEBOX-0DAY](https://github.com/zadewg/LIVEBOX-0DAY) （Arcadyan ARV7519RW22-A-L T VR9 1.2 Multiple security vulnerabilities affecting latest firmware release on ORANGE Livebox modems.）
 * [facebookresearch/fastText](https://github.com/facebookresearch/fastText) （Library for fast text representation and classification.）
-* [fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) （吴恩达老师的机器学习课程个人笔记）
 * [google/styleguide](https://github.com/google/styleguide) （
         Style guides for Google-originated open-source projects
       ）
 * [valentinxxx/nginxconfig.io](https://github.com/valentinxxx/nginxconfig.io) （nginx config generator）
-* [pankod/next-boilerplate](https://github.com/pankod/next-boilerplate) （A well-structured production ready Next.js boilerplate with Typescript, Redux, Express.js, Sass, Css, EnvConfig, Reverse Proxy, Bundle Analyzer.）
-* [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) （
-        Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。
+* [YongHaoWu/qianduan-yule-club](https://github.com/YongHaoWu/qianduan-yule-club) （前端娱乐圈大事记 <a href="http://qianduanyule.club/" rel="nofollow">http://qianduanyule.club/</a>）
+* [lipis/flag-icon-css](https://github.com/lipis/flag-icon-css) （
+        
+? A collection of all country flags in SVG — plus the CSS for easier integration
       ）
-* [timarney/react-app-rewired](https://github.com/timarney/react-app-rewired) （Override create-react-app webpack configs without ejecting）
+* [portainer/portainer](https://github.com/portainer/portainer) （
+        Simple management UI for Docker
+      ）
+* [oh-bear/2life](https://github.com/oh-bear/2life) （&#x1f48c; 双生：遇见另一半的美好：）（React Native））
+* [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) （OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)）
+* [ionic-team/capacitor](https://github.com/ionic-team/capacitor) （Build cross-platform Native Progressive Web Apps for iOS, Android, and the web ⚡️）
+* [mdn/learning-area](https://github.com/mdn/learning-area) （Github repo for the MDN Learning Area.）
 * [iliakan/javascript-tutorial-en](https://github.com/iliakan/javascript-tutorial-en) （
         Modern JavaScript Tutorial 
       ）
-* [doocs/coding-interview](https://github.com/doocs/coding-interview) （&#x1f600; 代码面试题集，包括剑指 Offer、编程之美等。）
-* [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) （
-        30 Day Vanilla JS Challenge
+* [KhronosGroup/glTF](https://github.com/KhronosGroup/glTF) （glTF – Runtime 3D Asset Delivery）
+* [Polymer/polymer](https://github.com/Polymer/polymer) （
+        Build modern apps using web components
       ）
-* [apachecn/18.06-linalg-notes](https://github.com/apachecn/18.06-linalg-notes) （MIT-18.06-线性代数-完整笔记）
-* [qiubaiying/qiubaiying.github.io](https://github.com/qiubaiying/qiubaiying.github.io) （BY Blog -&gt;）
-* [jlord/patchwork](https://github.com/jlord/patchwork) （
-        All the Git-it Workshop completers! 
+* [Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) （
+        My Blog / Jekyll Themes / PWA
       ）
-* [octocat/Spoon-Knife](https://github.com/octocat/Spoon-Knife) （
-        This repo is for demonstration purposes only.
-      ）
+* [uikit/uikit](https://github.com/uikit/uikit) （A lightweight and modular front-end framework for developing fast and powerful web interfaces）
 
 ## CSS
 
-* [ng-alain/ng-alain](https://github.com/ng-alain/ng-alain) （ng-zorro-antd admin panel front-end framework）
+* [elenapan/dotfiles](https://github.com/elenapan/dotfiles) （My custom scripts and configuration files）
+* [LiangJunrong/document-library](https://github.com/LiangJunrong/document-library) （jsliang 的文档库. 里面包含了所有的前端文章，例如 vue、react,、angular、微信小程序、设计模式等……）
+* [twbs/bootstrap](https://github.com/twbs/bootstrap) （The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+      ）
+* [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) （NES-style CSS Framework | ファミコン風CSSフレームワーク）
+* [iann0036/AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) （Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.）
+* [SaraVieira/fiddly](https://github.com/SaraVieira/fiddly) （Create beautiful and simple HTML pages from your Readme.md files）
+* [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) （My cheatsheets）
+* [theme-next/hexo-theme-next](https://github.com/theme-next/hexo-theme-next) （Elegant and powerful theme for Hexo.）
+* [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) （? Iconic font aggregator, collection, and patcher: 39 patched fonts (87k+ variations). Includes popular glyph collections such as Font Awesome &amp; fonts such as Hack）
+* [tailwindcss/tailwindcss](https://github.com/tailwindcss/tailwindcss) （A utility-first CSS framework for rapid UI development.）
+* [necolas/normalize.css](https://github.com/necolas/normalize.css) （A collection of HTML element and attribute style-normalizations
+      ）
+* [framework7io/framework7](https://github.com/framework7io/framework7) （Full featured HTML framework for building iOS &amp; Android apps）
+* [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) （
+        
+<img class="emoji" title=":octocat:" alt=":octocat:" src="https://assets-cdn.github.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"> Dark GitHub style
+      ）
+* [apachecn/hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh) （&#x1f4d6; [译] Sklearn 与 TensorFlow 机器学习实用指南）
+* [lucagez/medium.css](https://github.com/lucagez/medium.css) （Compact typography for the web）
+* [Requarks/wiki](https://github.com/Requarks/wiki) （Wiki.js | A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown）
+* [nakov/practical-cryptography-for-developers-book](https://github.com/nakov/practical-cryptography-for-developers-book) （Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Elliptic Curves, Digital Signatures）
+* [iissnan/hexo-theme-next](https://github.com/iissnan/hexo-theme-next) （
+        Elegant theme for Hexo. 
+      ）
+* [udacity/course-collaboration-travel-plans](https://github.com/udacity/course-collaboration-travel-plans) （?Jalpc -- A flexible Jekyll theme, 3 steps to build your website.）
+* [opencv/open_model_zoo](https://github.com/opencv/open_model_zoo) （Open Model Zoo (pre-trained deep learning models and samples)）
+
+## TypeScript
+
+* [ionic-team/ionic](https://github.com/ionic-team/ionic) （Build amazing native and progressive web apps with open web technologies. One app running on everything ?）
 
 ## Unknow
 
 * [i0natan/nodebestpractices](https://github.com/i0natan/nodebestpractices) （The largest Node.JS best practices list. Curated from the top ranked articles and always updated）
-* [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) （
-        
-? Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
-      ）
 
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
