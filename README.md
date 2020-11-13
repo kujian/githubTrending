@@ -5,9 +5,9 @@ Github 前端开发日报栏目数据来自[Github热榜](http://news.caibaojian
 每日存档可以看 [issues](https://github.com/kujian/githubTrending/issues)，或者点击下方的月份查阅。
 
 ## 2020
-
+[全年汇总链接](https://github.com/kujian/githubTrending/tree/master/2020)
 ## 2019
-[全年汇总链接](https://github.com/kujian/githubTrending/tree/master/2018)
+[全年汇总链接](https://github.com/kujian/githubTrending/tree/master/2019)
 
 ## 2018
 [全年汇总链接](https://github.com/kujian/githubTrending/tree/master/2018)
