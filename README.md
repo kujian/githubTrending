@@ -1,30 +1,37 @@
 # Github 前端趋势榜
 
-[Github 前端开发日报](http://caibaojian.com/c/news)栏目数据来自[Github热榜](http://news.caibaojian.com/)（我开发的爬虫），每日分享HTML、CSS、JavaScript、Vue等开源项目，为开发者提供动力，点击Star按钮来关注这个项目，以便让更多人知道它，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/githubTrending)
+Github 前端开发日报栏目数据来自[Github热榜](http://news.caibaojian.com.cn/)（我开发的爬虫），每日分享HTML、CSS、JavaScript、Vue等开源项目，为开发者提供动力，点击Star按钮来关注这个项目，以便让更多人知道它，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/githubTrending)
 
 每日存档可以看 [issues](https://github.com/kujian/githubTrending/issues)，或者点击下方的月份查阅。
 
+## 2020
+
 ## 2019
-[一月](https://github.com/kujian/githubTrending/tree/master/2019/01) | [二月](https://github.com/kujian/githubTrending/tree/master/2019/02) | [三月](https://github.com/kujian/githubTrending/tree/master/2019/03)
+[全年汇总链接](https://github.com/kujian/githubTrending/tree/master/2018)
 
 ## 2018
 [全年汇总链接](https://github.com/kujian/githubTrending/tree/master/2018)
 
 ## 关于我
 
-[前端开发博客](http://caibaojian.com/) 站长，[微博](https://weibo.com/kujian) 粉丝18万，[微信公众号](http://t.cn/EV7pcM1)。
+[前端开发博客](http://caibaojian.com.cn/) 站长，[微博](https://weibo.com/kujian) 粉丝18万，[微信公众号](https://open.weixin.qq.com/qr/code?username=caibaojian_com)。
 
 
-如果你觉得我的分享对你有帮助，不妨考虑打赏我[一杯咖啡](http://caibaojian.com/donation)，以资鼓励。
+如果你觉得我的分享对你有帮助，不妨考虑打赏我一杯咖啡，以资鼓励。
 
 ![打赏](https://upload-images.jianshu.io/upload_images/570843-db4053c67a8c9ea9.png)
 
 ## 推荐
-1. [掘金小册8折优惠，还有全网优惠教程](http://caibaojian.com/goods)
-2. [阿里云1888元优惠券领取](http://caibaojian.com/go/aliyun)
-3. [关注我的微信公众号，领取100本热门电子书](http://t.cn/EV7pcM1)
-4. [关注我的微博，每日分享精彩前端技术](https://weibo.com/kujian)
-5. [加入微信群，每日一道面试题，一周汇总答案给你](http://t.cn/EV7pcM1)
+关注我的微信公众号：[前端开发博客](https://open.weixin.qq.com/qr/code?username=caibaojian_com)，在后台回复以下关键字获取资源：
+
+回复「1024」，领取前端进阶资料，包含小程序、Nodejs、Git等
+回复「Vue」获取 Vue 精选文章
+回复「面试」获取 面试 精选文章
+回复「JS」获取 JavaScript 精选文章
+回复「CSS」获取 CSS 精选文章
+回复「加群」进入500人前端精英群
+回复「电子书」下载我整理的大量前端资源，含面试、Vue实战项目、CSS和JavaScript电子书等。
+回复「知识点」下载高清JavaScript知识点图谱
 
 ## 微信群
 
