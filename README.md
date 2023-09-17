@@ -1,6 +1,6 @@
 # Github 前端趋势榜
 
-Github 前端开发日报栏目数据来自[Github热榜](http://news.caibaojian.com.cn/)（我开发的爬虫），每日分享HTML、CSS、JavaScript、Vue等开源项目，为开发者提供动力，点击Star按钮来关注这个项目，以便让更多人知道它，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/githubTrending)
+Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb.cn/)（我开发的爬虫），每日分享HTML、CSS、JavaScript、Vue等开源项目，为开发者提供动力，点击Star按钮来关注这个项目，以便让更多人知道它，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/githubTrending)
 
 每日存档可以看 [issues](https://github.com/kujian/githubTrending/issues)，或者点击下方的月份查阅。
 
@@ -14,7 +14,7 @@ Github 前端开发日报栏目数据来自[Github热榜](http://news.caibaojian
 
 ## 关于我
 
-[前端开发博客](http://caibaojian.com.cn/) 站长，[微博](https://weibo.com/kujian) 粉丝18万，[微信公众号](https://open.weixin.qq.com/qr/code?username=caibaojian_com)。
+[前端开发博客](https://qdkfweb.cn/) 站长，[微博](https://weibo.com/kujian) 粉丝18万，[微信公众号](https://open.weixin.qq.com/qr/code?username=caibaojian_com)。
 
 
 如果你觉得我的分享对你有帮助，不妨考虑打赏我一杯咖啡，以资鼓励。
