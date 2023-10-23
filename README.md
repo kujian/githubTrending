@@ -4,6 +4,17 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 
 每日存档可以看 [issues](https://github.com/kujian/githubTrending/issues)，或者点击下方的月份查阅。
 
+## [最新Github日报](https://github.com/kujian/githubTrending/issues)
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
+## [最新GitHub项目](https://github.qdkfweb.cn/)
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 2020
 [全年汇总链接](https://github.com/kujian/githubTrending/tree/master/2020)
 ## 2019
