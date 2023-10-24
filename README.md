@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [XRSec/emulator-runner](https://github.qdkfweb.cn/xrsec-emulator-runner/)
-- [dskvr/nostr-watch](https://github.qdkfweb.cn/dskvr-nostr-watch/)
-- [schouffy/gamedev-portfolio](https://github.qdkfweb.cn/schouffy-gamedev-portfolio/)
-- [WanyueKJ/Food-delivery-uniapp](https://github.qdkfweb.cn/wanyuekj-food-delivery-uniapp/)
-- [zfile-dev/zfile-vue](https://github.qdkfweb.cn/zfile-dev-zfile-vue/)
+- [massCodeIO/massCode](https://github.qdkfweb.cn/masscodeio-masscode/)
+- [robotichead/NearBeach](https://github.qdkfweb.cn/robotichead-nearbeach/)
+- [sircharlo/meeting-media-manager](https://github.qdkfweb.cn/sircharlo-meeting-media-manager/)
+- [molgenis/molgenis-emx2](https://github.qdkfweb.cn/molgenis-molgenis-emx2/)
+- [perkx999/IntellifyAI](https://github.qdkfweb.cn/perkx999-intellifyai/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
