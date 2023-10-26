@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [LiuXIn011/rightHouse](https://github.qdkfweb.cn/liuxin011-righthouse/)
-- [lmxdawn/vue-admin-html-java](https://github.qdkfweb.cn/lmxdawn-vue-admin-html-java/)
-- [neeraji2it/paperlesspipeline](https://github.qdkfweb.cn/neeraji2it-paperlesspipeline/)
-- [tictail/bounce.js](https://github.qdkfweb.cn/tictail-bounce-js/)
-- [MilanBhanuka/Sample_Codes](https://github.qdkfweb.cn/milanbhanuka-sample_codes/)
+- [dromara/mayfly-go](https://github.qdkfweb.cn/dromara-mayfly-go/)
+- [MattWatier/zenphoto-infographic](https://github.qdkfweb.cn/mattwatier-zenphoto-infographic/)
+- [jigar-sable/Portfolio-Website](https://github.qdkfweb.cn/jigar-sable-portfolio-website/)
+- [X16Community/x16-docs](https://github.qdkfweb.cn/x16community-x16-docs/)
+- [AcademySoftwareFoundation/OpenPBR](https://github.qdkfweb.cn/academysoftwarefoundation-openpbr/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
