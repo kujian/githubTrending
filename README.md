@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [imzusheng/netease-music-uniapp](https://github.qdkfweb.cn/imzusheng-netease-music-uniapp/)
-- [subframe7536/obsidian-theme-maple](https://github.qdkfweb.cn/subframe7536-obsidian-theme-maple/)
-- [DualSubs/YouTube](https://github.qdkfweb.cn/dualsubs-youtube/)
-- [LinaYorda/OSINTko](https://github.qdkfweb.cn/linayorda-osintko/)
-- [directus-community/agency-os](https://github.qdkfweb.cn/directus-community-agency-os/)
+- [SMU-AWSCloudClub/wad2_workshop](https://github.qdkfweb.cn/smu-awscloudclub-wad2_workshop/)
+- [pevaristo/example-deploy](https://github.qdkfweb.cn/pevaristo-example-deploy/)
+- [Deeptrain-Community/fystart](https://github.qdkfweb.cn/deeptrain-community-fystart/)
+- [creativetimofficial/paper-dashboard-react](https://github.qdkfweb.cn/creativetimofficial-paper-dashboard-react/)
+- [Ehviewer-Overhauled/fdroid-repo](https://github.qdkfweb.cn/ehviewer-overhauled-fdroid-repo/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
