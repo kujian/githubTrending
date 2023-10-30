@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [refact0r/midnight-discord](https://github.qdkfweb.cn/refact0r-midnight-discord/)
+- [sseezov/l5-validator-test-v2](https://github.qdkfweb.cn/sseezov-l5-validator-test-v2/)
+- [Clooos/Bubble-Card](https://github.qdkfweb.cn/clooos-bubble-card/)
 - [SMU-AWSCloudClub/wad2_workshop](https://github.qdkfweb.cn/smu-awscloudclub-wad2_workshop/)
 - [pevaristo/example-deploy](https://github.qdkfweb.cn/pevaristo-example-deploy/)
-- [Deeptrain-Community/fystart](https://github.qdkfweb.cn/deeptrain-community-fystart/)
-- [creativetimofficial/paper-dashboard-react](https://github.qdkfweb.cn/creativetimofficial-paper-dashboard-react/)
-- [Ehviewer-Overhauled/fdroid-repo](https://github.qdkfweb.cn/ehviewer-overhauled-fdroid-repo/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
