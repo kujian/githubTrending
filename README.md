@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [xiaoluoboding/vue-sonner](https://github.qdkfweb.cn/xiaoluoboding-vue-sonner/)
-- [nsnail/NetAdmin](https://github.qdkfweb.cn/nsnail-netadmin/)
-- [Chalarangelo/30-seconds-of-css](https://github.qdkfweb.cn/chalarangelo-30-seconds-of-css/)
-- [jsakamoto/Toolbelt.Blazor.ViewTransition](https://github.qdkfweb.cn/jsakamoto-toolbelt-blazor-viewtransition/)
-- [awerem/awerem-computer](https://github.qdkfweb.cn/awerem-awerem-computer/)
+- [zouzhibin/zb-admin](https://github.qdkfweb.cn/zouzhibin-zb-admin/)
+- [maykbrito/devlinks](https://github.qdkfweb.cn/maykbrito-devlinks/)
+- [honojs/website](https://github.qdkfweb.cn/honojs-website/)
+- [GDSCxGMIT/Giting-LinkedIn](https://github.qdkfweb.cn/gdscxgmit-giting-linkedin/)
+- [w3c/webcodecs](https://github.qdkfweb.cn/w3c-webcodecs/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
