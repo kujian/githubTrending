@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [starknet-edu/starknetbook](https://github.qdkfweb.cn/starknet-edu-starknetbook/)
+- [lwinmoepaing/html-and-css-beginner-to-super-beginner-ebook](https://github.qdkfweb.cn/lwinmoepaing-html-and-css-beginner-to-super-beginner-ebook/)
 - [zouzhibin/zb-admin](https://github.qdkfweb.cn/zouzhibin-zb-admin/)
 - [maykbrito/devlinks](https://github.qdkfweb.cn/maykbrito-devlinks/)
 - [honojs/website](https://github.qdkfweb.cn/honojs-website/)
-- [GDSCxGMIT/Giting-LinkedIn](https://github.qdkfweb.cn/gdscxgmit-giting-linkedin/)
-- [w3c/webcodecs](https://github.qdkfweb.cn/w3c-webcodecs/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
