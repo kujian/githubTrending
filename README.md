@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Peerless-man/vue3-blog](https://github.qdkfweb.cn/peerless-man-vue3-blog/)
-- [ChanceYu/front-end-rss](https://github.qdkfweb.cn/chanceyu-front-end-rss/)
-- [fantastic-admin/basic](https://github.qdkfweb.cn/fantastic-admin-basic/)
-- [digitalinnovationone/js-yugioh-assets](https://github.qdkfweb.cn/digitalinnovationone-js-yugioh-assets/)
-- [Kaldek/rat-ratgdo](https://github.qdkfweb.cn/kaldek-rat-ratgdo/)
+- [ezshine/mp-dashuailaoyuan-public](https://github.qdkfweb.cn/ezshine-mp-dashuailaoyuan-public/)
+- [FhillSlinger/pulsar](https://github.qdkfweb.cn/fhillslinger-pulsar/)
+- [epicentre-msf/beeR](https://github.qdkfweb.cn/epicentre-msf-beer/)
+- [zeeoneofficial/my-rest-api](https://github.qdkfweb.cn/zeeoneofficial-my-rest-api/)
+- [Ctoic/CalHub](https://github.qdkfweb.cn/ctoic-calhub/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
