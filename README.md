@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [koredeycode/StackSync](https://github.qdkfweb.cn/koredeycode-stacksync/)
-- [datacontract/datacontract-specification](https://github.qdkfweb.cn/datacontract-datacontract-specification/)
-- [flybywiresim/aircraft](https://github.qdkfweb.cn/flybywiresim-aircraft/)
-- [nz-m/SocialEcho](https://github.qdkfweb.cn/nz-m-socialecho/)
-- [ezshine/mp-dashuailaoyuan-public](https://github.qdkfweb.cn/ezshine-mp-dashuailaoyuan-public/)
+- [vueschool/ai-chatbot-course](https://github.qdkfweb.cn/vueschool-ai-chatbot-course/)
+- [ratatui-org/ratatui-book](https://github.qdkfweb.cn/ratatui-org-ratatui-book/)
+- [vking34/books](https://github.qdkfweb.cn/vking34-books/)
+- [elrebelde21/NovaBot-MD](https://github.qdkfweb.cn/elrebelde21-novabot-md/)
+- [USTC-Hackergame/hackergame2023-writeups](https://github.qdkfweb.cn/ustc-hackergame-hackergame2023-writeups/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
