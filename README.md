@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [vueschool/ai-chatbot-course](https://github.qdkfweb.cn/vueschool-ai-chatbot-course/)
-- [ratatui-org/ratatui-book](https://github.qdkfweb.cn/ratatui-org-ratatui-book/)
-- [vking34/books](https://github.qdkfweb.cn/vking34-books/)
-- [elrebelde21/NovaBot-MD](https://github.qdkfweb.cn/elrebelde21-novabot-md/)
-- [USTC-Hackergame/hackergame2023-writeups](https://github.qdkfweb.cn/ustc-hackergame-hackergame2023-writeups/)
+- [Adamant-im/adamant-wallets](https://github.qdkfweb.cn/adamant-im-adamant-wallets/)
+- [professica/box-model-common-props](https://github.qdkfweb.cn/professica-box-model-common-props/)
+- [zaadevofc/projects](https://github.qdkfweb.cn/zaadevofc-projects/)
+- [milenafelix/flowers](https://github.qdkfweb.cn/milenafelix-flowers/)
+- [sussygamedeveloper/FNAF2](https://github.qdkfweb.cn/sussygamedeveloper-fnaf2/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
