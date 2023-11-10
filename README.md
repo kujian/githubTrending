@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [nbuntsch/examen-2](https://github.qdkfweb.cn/nbuntsch-examen-2/)
+- [kuafuai/DevOpsGPT](https://github.qdkfweb.cn/kuafuai-devopsgpt/)
+- [realpython/materials](https://github.qdkfweb.cn/realpython-materials/)
 - [sfccdevops/sfcc_developers_core](https://github.qdkfweb.cn/sfccdevops-sfcc_developers_core/)
 - [henripar/scrollbar](https://github.qdkfweb.cn/henripar-scrollbar/)
-- [brettjurgens/illinipikapp](https://github.qdkfweb.cn/brettjurgens-illinipikapp/)
-- [Atlas-OS/docs](https://github.qdkfweb.cn/atlas-os-docs/)
-- [NebulaServices/Nebula](https://github.qdkfweb.cn/nebulaservices-nebula/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
