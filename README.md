@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [mulingyuer/Typecho_Theme_JJ](https://github.qdkfweb.cn/mulingyuer-typecho_theme_jj/)
-- [learning-software-engineering/learning-software-engineering.github.io](https://github.qdkfweb.cn/learning-software-engineering-learning-software-engineering-github-io/)
-- [datguypiko/Firefox-Mod-Blur](https://github.qdkfweb.cn/datguypiko-firefox-mod-blur/)
-- [antipachita/HTML-builder](https://github.qdkfweb.cn/antipachita-html-builder/)
-- [wendywarren/customizing-bootstrap](https://github.qdkfweb.cn/wendywarren-customizing-bootstrap/)
+- [hepengwei/visualization-collection-vue](https://github.qdkfweb.cn/hepengwei-visualization-collection-vue/)
+- [shuhongfan/sl-express](https://github.qdkfweb.cn/shuhongfan-sl-express/)
+- [web-dev-open/pizza](https://github.qdkfweb.cn/web-dev-open-pizza/)
+- [microsoft/LLaVA-Med](https://github.qdkfweb.cn/microsoft-llava-med/)
+- [ruiduobao/gaode_MAP_CUN](https://github.qdkfweb.cn/ruiduobao-gaode_map_cun/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
