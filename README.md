@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [hepengwei/visualization-collection-vue](https://github.qdkfweb.cn/hepengwei-visualization-collection-vue/)
-- [shuhongfan/sl-express](https://github.qdkfweb.cn/shuhongfan-sl-express/)
-- [web-dev-open/pizza](https://github.qdkfweb.cn/web-dev-open-pizza/)
-- [microsoft/LLaVA-Med](https://github.qdkfweb.cn/microsoft-llava-med/)
-- [ruiduobao/gaode_MAP_CUN](https://github.qdkfweb.cn/ruiduobao-gaode_map_cun/)
+- [hslr-s/sun-panel](https://github.qdkfweb.cn/hslr-s-sun-panel/)
+- [youlaitech/vue3-element-admin](https://github.qdkfweb.cn/youlaitech-vue3-element-admin/)
+- [Code-Pop/Real-World-Vue-3-New-Syntax](https://github.qdkfweb.cn/code-pop-real-world-vue-3-new-syntax/)
+- [toeverything/AFFiNE.pro](https://github.qdkfweb.cn/toeverything-affine-pro/)
+- [krsunm/Aurora](https://github.qdkfweb.cn/krsunm-aurora/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
