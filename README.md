@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [hslr-s/sun-panel](https://github.qdkfweb.cn/hslr-s-sun-panel/)
-- [youlaitech/vue3-element-admin](https://github.qdkfweb.cn/youlaitech-vue3-element-admin/)
-- [Code-Pop/Real-World-Vue-3-New-Syntax](https://github.qdkfweb.cn/code-pop-real-world-vue-3-new-syntax/)
-- [toeverything/AFFiNE.pro](https://github.qdkfweb.cn/toeverything-affine-pro/)
-- [krsunm/Aurora](https://github.qdkfweb.cn/krsunm-aurora/)
+- [EstebanFuentealba/MALVEKE-Flipper-Zero](https://github.qdkfweb.cn/estebanfuentealba-malveke-flipper-zero/)
+- [0140454/hackbar](https://github.qdkfweb.cn/0140454-hackbar/)
+- [SandraRodgers/Ask-AI](https://github.qdkfweb.cn/sandrarodgers-ask-ai/)
+- [liu673cn/box](https://github.qdkfweb.cn/liu673cn-box/)
+- [judygab/nextjs-portfolio](https://github.qdkfweb.cn/judygab-nextjs-portfolio/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
