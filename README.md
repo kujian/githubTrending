@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [FilipJirsak-Czechitas/j2w-ukol06](https://github.qdkfweb.cn/filipjirsak-czechitas-j2w-ukol06/)
-- [scratchfoundation/scratch-gui](https://github.qdkfweb.cn/scratchfoundation-scratch-gui/)
-- [chetanverma16/react-portfolio-template](https://github.qdkfweb.cn/chetanverma16-react-portfolio-template/)
-- [EstebanFuentealba/MALVEKE-Flipper-Zero](https://github.qdkfweb.cn/estebanfuentealba-malveke-flipper-zero/)
-- [0140454/hackbar](https://github.qdkfweb.cn/0140454-hackbar/)
+- [romeojeremiah/javascript-projects-for-beginners](https://github.qdkfweb.cn/romeojeremiah-javascript-projects-for-beginners/)
+- [TheBridge-FullStackDeveloper/rick-and-morty-characters](https://github.qdkfweb.cn/thebridge-fullstackdeveloper-rick-and-morty-characters/)
+- [cyz/ada-lovelace-page](https://github.qdkfweb.cn/cyz-ada-lovelace-page/)
+- [wanteddev/wanted-sans](https://github.qdkfweb.cn/wanteddev-wanted-sans/)
+- [bikashdev01/Section-code](https://github.qdkfweb.cn/bikashdev01-section-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
