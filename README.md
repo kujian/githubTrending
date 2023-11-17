@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [romeojeremiah/javascript-projects-for-beginners](https://github.qdkfweb.cn/romeojeremiah-javascript-projects-for-beginners/)
-- [TheBridge-FullStackDeveloper/rick-and-morty-characters](https://github.qdkfweb.cn/thebridge-fullstackdeveloper-rick-and-morty-characters/)
-- [cyz/ada-lovelace-page](https://github.qdkfweb.cn/cyz-ada-lovelace-page/)
-- [wanteddev/wanted-sans](https://github.qdkfweb.cn/wanteddev-wanted-sans/)
-- [bikashdev01/Section-code](https://github.qdkfweb.cn/bikashdev01-section-code/)
+- [congchu/web-porfolio](https://github.qdkfweb.cn/congchu-web-porfolio/)
+- [fork-commit-merge/fork-commit-merge](https://github.qdkfweb.cn/fork-commit-merge-fork-commit-merge/)
+- [wozulong/ChatGPTAuthHelper](https://github.qdkfweb.cn/wozulong-chatgptauthhelper/)
+- [StringManolo/hackingTermux101](https://github.qdkfweb.cn/stringmanolo-hackingtermux101/)
+- [harisahmad59/Hypefolio](https://github.qdkfweb.cn/harisahmad59-hypefolio/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
