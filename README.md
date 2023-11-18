@@ -7,11 +7,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新Github日报](https://github.com/kujian/githubTrending/issues)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2692](https://github.com/kujian/githubTrending/issues/2692) in [kujian/githubTrending](https://github.com/kujian/githubTrending)
-2. ❗ Opened issue [#1546](https://github.com/kujian/frontendDaily/issues/1546) in [kujian/frontendDaily](https://github.com/kujian/frontendDaily)
-3. ❗ Opened issue [#2691](https://github.com/kujian/githubTrending/issues/2691) in [kujian/githubTrending](https://github.com/kujian/githubTrending)
-4. ❗ Opened issue [#1545](https://github.com/kujian/frontendDaily/issues/1545) in [kujian/frontendDaily](https://github.com/kujian/frontendDaily)
-5. ❗ Opened issue [#2690](https://github.com/kujian/githubTrending/issues/2690) in [kujian/githubTrending](https://github.com/kujian/githubTrending)
+1. ❗ Opened issue [#2693](https://github.com/kujian/githubTrending/issues/2693) in [kujian/githubTrending](https://github.com/kujian/githubTrending)
+2. ❗ Opened issue [#1547](https://github.com/kujian/frontendDaily/issues/1547) in [kujian/frontendDaily](https://github.com/kujian/frontendDaily)
+3. ❗ Opened issue [#2692](https://github.com/kujian/githubTrending/issues/2692) in [kujian/githubTrending](https://github.com/kujian/githubTrending)
+4. ❗ Opened issue [#1546](https://github.com/kujian/frontendDaily/issues/1546) in [kujian/frontendDaily](https://github.com/kujian/frontendDaily)
+5. ❗ Opened issue [#2691](https://github.com/kujian/githubTrending/issues/2691) in [kujian/githubTrending](https://github.com/kujian/githubTrending)
 <!--END_SECTION:activity-->
 
 
