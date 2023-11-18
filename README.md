@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [didi/xiaoju-survey](https://github.qdkfweb.cn/didi-xiaoju-survey/)
+- [pusher-community/html5-realtime-push-notifications](https://github.qdkfweb.cn/pusher-community-html5-realtime-push-notifications/)
+- [lovefc/china_school_badge](https://github.qdkfweb.cn/lovefc-china_school_badge/)
+- [jsdoc/jsdoc](https://github.qdkfweb.cn/jsdoc-jsdoc/)
 - [congchu/web-porfolio](https://github.qdkfweb.cn/congchu-web-porfolio/)
-- [fork-commit-merge/fork-commit-merge](https://github.qdkfweb.cn/fork-commit-merge-fork-commit-merge/)
-- [wozulong/ChatGPTAuthHelper](https://github.qdkfweb.cn/wozulong-chatgptauthhelper/)
-- [StringManolo/hackingTermux101](https://github.qdkfweb.cn/stringmanolo-hackingtermux101/)
-- [harisahmad59/Hypefolio](https://github.qdkfweb.cn/harisahmad59-hypefolio/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
