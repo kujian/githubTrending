@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [mywebc/le-vue](https://github.qdkfweb.cn/mywebc-le-vue/)
-- [Yanyutin753/PandoraNext-TokensTool](https://github.qdkfweb.cn/yanyutin753-pandoranext-tokenstool/)
-- [sub-store-org/Sub-Store-Front-End](https://github.qdkfweb.cn/sub-store-org-sub-store-front-end/)
-- [ed-roh/react-admin-dashboard](https://github.qdkfweb.cn/ed-roh-react-admin-dashboard/)
-- [NotFaceGUI/nikke-balabala](https://github.qdkfweb.cn/notfacegui-nikke-balabala/)
+- [fayazara/zooper](https://github.qdkfweb.cn/fayazara-zooper/)
+- [adaptiOficial/ps-adapti-2023](https://github.qdkfweb.cn/adaptioficial-ps-adapti-2023/)
+- [tkashkin/Adwaita-for-Steam](https://github.qdkfweb.cn/tkashkin-adwaita-for-steam/)
+- [xcanwin/CVE-2023-4357-Chrome-XXE](https://github.qdkfweb.cn/xcanwin-cve-2023-4357-chrome-xxe/)
+- [localForage/localForage](https://github.qdkfweb.cn/localforage-localforage/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
