@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [fayazara/zooper](https://github.qdkfweb.cn/fayazara-zooper/)
-- [adaptiOficial/ps-adapti-2023](https://github.qdkfweb.cn/adaptioficial-ps-adapti-2023/)
-- [tkashkin/Adwaita-for-Steam](https://github.qdkfweb.cn/tkashkin-adwaita-for-steam/)
-- [xcanwin/CVE-2023-4357-Chrome-XXE](https://github.qdkfweb.cn/xcanwin-cve-2023-4357-chrome-xxe/)
-- [localForage/localForage](https://github.qdkfweb.cn/localforage-localforage/)
+- [microsoft/xr-development-for-beginners](https://github.qdkfweb.cn/microsoft-xr-development-for-beginners/)
+- [minghsun/simpleResponsiveSlide](https://github.qdkfweb.cn/minghsun-simpleresponsiveslide/)
+- [gitdagray/js_acme_blogs](https://github.qdkfweb.cn/gitdagray-js_acme_blogs/)
+- [eminsaygi/Firat-Universitesi-Ders](https://github.qdkfweb.cn/eminsaygi-firat-universitesi-ders/)
+- [docker/docs](https://github.qdkfweb.cn/docker-docs/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
