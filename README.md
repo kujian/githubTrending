@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [microsoft/xr-development-for-beginners](https://github.qdkfweb.cn/microsoft-xr-development-for-beginners/)
-- [minghsun/simpleResponsiveSlide](https://github.qdkfweb.cn/minghsun-simpleresponsiveslide/)
-- [gitdagray/js_acme_blogs](https://github.qdkfweb.cn/gitdagray-js_acme_blogs/)
-- [eminsaygi/Firat-Universitesi-Ders](https://github.qdkfweb.cn/eminsaygi-firat-universitesi-ders/)
-- [docker/docs](https://github.qdkfweb.cn/docker-docs/)
+- [nuxt/learn.nuxt.com](https://github.qdkfweb.cn/nuxt-learn-nuxt-com/)
+- [BitWalls-Sec/WhatsAppHacking](https://github.qdkfweb.cn/bitwalls-sec-whatsapphacking/)
+- [tegal1337/CiLocks](https://github.qdkfweb.cn/tegal1337-cilocks/)
+- [bigbrodude6119/flipper-zero-evil-portal](https://github.qdkfweb.cn/bigbrodude6119-flipper-zero-evil-portal/)
+- [wang987742/fanmingming](https://github.qdkfweb.cn/wang987742-fanmingming/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
