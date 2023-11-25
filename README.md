@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [nuxt/learn.nuxt.com](https://github.qdkfweb.cn/nuxt-learn-nuxt-com/)
-- [BitWalls-Sec/WhatsAppHacking](https://github.qdkfweb.cn/bitwalls-sec-whatsapphacking/)
-- [tegal1337/CiLocks](https://github.qdkfweb.cn/tegal1337-cilocks/)
-- [bigbrodude6119/flipper-zero-evil-portal](https://github.qdkfweb.cn/bigbrodude6119-flipper-zero-evil-portal/)
-- [wang987742/fanmingming](https://github.qdkfweb.cn/wang987742-fanmingming/)
+- [4xmen/anubias](https://github.qdkfweb.cn/4xmen-anubias/)
+- [wurencaideli/dumogu-admin](https://github.qdkfweb.cn/wurencaideli-dumogu-admin/)
+- [WuKongOpenSource/Wukong_KnowledgeBase](https://github.qdkfweb.cn/wukongopensource-wukong_knowledgebase/)
+- [WuKongOpenSource/Wukong_Accounting](https://github.qdkfweb.cn/wukongopensource-wukong_accounting/)
+- [WuKongOpenSource/Wukong_ProjectManagement](https://github.qdkfweb.cn/wukongopensource-wukong_projectmanagement/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
