@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [4xmen/anubias](https://github.qdkfweb.cn/4xmen-anubias/)
-- [wurencaideli/dumogu-admin](https://github.qdkfweb.cn/wurencaideli-dumogu-admin/)
-- [WuKongOpenSource/Wukong_KnowledgeBase](https://github.qdkfweb.cn/wukongopensource-wukong_knowledgebase/)
-- [WuKongOpenSource/Wukong_Accounting](https://github.qdkfweb.cn/wukongopensource-wukong_accounting/)
-- [WuKongOpenSource/Wukong_ProjectManagement](https://github.qdkfweb.cn/wukongopensource-wukong_projectmanagement/)
+- [vnyoon/web-magic](https://github.qdkfweb.cn/vnyoon-web-magic/)
+- [ippen/studydrive_downloader](https://github.qdkfweb.cn/ippen-studydrive_downloader/)
+- [Tab-SE/demobuilderportals](https://github.qdkfweb.cn/tab-se-demobuilderportals/)
+- [EvaMarco/Bridging-the-Design-Dev-Gap-workshop](https://github.qdkfweb.cn/evamarco-bridging-the-design-dev-gap-workshop/)
+- [jeycaarce/message](https://github.qdkfweb.cn/jeycaarce-message/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
