@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [vnyoon/web-magic](https://github.qdkfweb.cn/vnyoon-web-magic/)
-- [ippen/studydrive_downloader](https://github.qdkfweb.cn/ippen-studydrive_downloader/)
-- [Tab-SE/demobuilderportals](https://github.qdkfweb.cn/tab-se-demobuilderportals/)
-- [EvaMarco/Bridging-the-Design-Dev-Gap-workshop](https://github.qdkfweb.cn/evamarco-bridging-the-design-dev-gap-workshop/)
-- [jeycaarce/message](https://github.qdkfweb.cn/jeycaarce-message/)
+- [vuejs-translations/docs-fa](https://github.qdkfweb.cn/vuejs-translations-docs-fa/)
+- [christorange/VerticalFox](https://github.qdkfweb.cn/christorange-verticalfox/)
+- [itscodenation/int-u3l3-23-24-student-exercises](https://github.qdkfweb.cn/itscodenation-int-u3l3-23-24-student-exercises/)
+- [codingstella/cool-responsive-portfolio](https://github.qdkfweb.cn/codingstella-cool-responsive-portfolio/)
+- [tansuotv/IPTVindex](https://github.qdkfweb.cn/tansuotv-iptvindex/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
