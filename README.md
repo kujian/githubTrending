@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [vuejs-translations/docs-fa](https://github.qdkfweb.cn/vuejs-translations-docs-fa/)
-- [christorange/VerticalFox](https://github.qdkfweb.cn/christorange-verticalfox/)
-- [itscodenation/int-u3l3-23-24-student-exercises](https://github.qdkfweb.cn/itscodenation-int-u3l3-23-24-student-exercises/)
-- [codingstella/cool-responsive-portfolio](https://github.qdkfweb.cn/codingstella-cool-responsive-portfolio/)
-- [tansuotv/IPTVindex](https://github.qdkfweb.cn/tansuotv-iptvindex/)
+- [chokcoco/broadcastAnimation](https://github.qdkfweb.cn/chokcoco-broadcastanimation/)
+- [baiy/Ctool](https://github.qdkfweb.cn/baiy-ctool/)
+- [zxcodes/Calculator](https://github.qdkfweb.cn/zxcodes-calculator/)
+- [Viiiikedy/Hexo-Quant-Learning-Book](https://github.qdkfweb.cn/viiiikedy-hexo-quant-learning-book/)
+- [HuXn-WebDev/HTML-CSS-JavaScript-100-Projects](https://github.qdkfweb.cn/huxn-webdev-html-css-javascript-100-projects/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
