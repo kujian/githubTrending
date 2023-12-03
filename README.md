@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [asif-daffodil/PHP-eCommerce-dti](https://github.qdkfweb.cn/asif-daffodil-php-ecommerce-dti/)
-- [asif-daffodil/b82m](https://github.qdkfweb.cn/asif-daffodil-b82m/)
-- [asif-daffodil/ims](https://github.qdkfweb.cn/asif-daffodil-ims/)
-- [asif-daffodil/Mern-e-commerce](https://github.qdkfweb.cn/asif-daffodil-mern-e-commerce/)
-- [xiaoqingfengATGH/luci-theme-infinityfreedom](https://github.qdkfweb.cn/xiaoqingfengatgh-luci-theme-infinityfreedom/)
+- [FreeNowOrg/PixivNow](https://github.qdkfweb.cn/freenoworg-pixivnow/)
+- [Preshy62/skylineict-cohort31](https://github.qdkfweb.cn/preshy62-skylineict-cohort31/)
+- [carbon-design-system/carbon-tutorial-nextjs](https://github.qdkfweb.cn/carbon-design-system-carbon-tutorial-nextjs/)
+- [itscodenation/int-u3-project-23-24-starter-code](https://github.qdkfweb.cn/itscodenation-int-u3-project-23-24-starter-code/)
+- [Godiesc/firefox-gx](https://github.qdkfweb.cn/godiesc-firefox-gx/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
