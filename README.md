@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [FreeNowOrg/PixivNow](https://github.qdkfweb.cn/freenoworg-pixivnow/)
-- [Preshy62/skylineict-cohort31](https://github.qdkfweb.cn/preshy62-skylineict-cohort31/)
-- [carbon-design-system/carbon-tutorial-nextjs](https://github.qdkfweb.cn/carbon-design-system-carbon-tutorial-nextjs/)
-- [itscodenation/int-u3-project-23-24-starter-code](https://github.qdkfweb.cn/itscodenation-int-u3-project-23-24-starter-code/)
-- [Godiesc/firefox-gx](https://github.qdkfweb.cn/godiesc-firefox-gx/)
+- [jetlinks/jetlinks-ui-vue](https://github.qdkfweb.cn/jetlinks-jetlinks-ui-vue/)
+- [Dooy/chatgpt-web-midjourney-proxy](https://github.qdkfweb.cn/dooy-chatgpt-web-midjourney-proxy/)
+- [blacktunes/sr-light-cone](https://github.qdkfweb.cn/blacktunes-sr-light-cone/)
+- [yandex-praktikum/slozhno-sosredotochitsya](https://github.qdkfweb.cn/yandex-praktikum-slozhno-sosredotochitsya/)
+- [anonystick/anonystick](https://github.qdkfweb.cn/anonystick-anonystick/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
