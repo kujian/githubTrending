@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [jetlinks/jetlinks-ui-vue](https://github.qdkfweb.cn/jetlinks-jetlinks-ui-vue/)
-- [Dooy/chatgpt-web-midjourney-proxy](https://github.qdkfweb.cn/dooy-chatgpt-web-midjourney-proxy/)
-- [blacktunes/sr-light-cone](https://github.qdkfweb.cn/blacktunes-sr-light-cone/)
-- [yandex-praktikum/slozhno-sosredotochitsya](https://github.qdkfweb.cn/yandex-praktikum-slozhno-sosredotochitsya/)
-- [anonystick/anonystick](https://github.qdkfweb.cn/anonystick-anonystick/)
+- [OriginTrail/houston-v6](https://github.qdkfweb.cn/origintrail-houston-v6/)
+- [DzarelDeveloper/ForYou](https://github.qdkfweb.cn/dzareldeveloper-foryou/)
+- [mwidera/iac-labs](https://github.qdkfweb.cn/mwidera-iac-labs/)
+- [genius-space/genius-lesson-project](https://github.qdkfweb.cn/genius-space-genius-lesson-project/)
+- [JannisX11/blockbench](https://github.qdkfweb.cn/jannisx11-blockbench/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
