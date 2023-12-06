@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [OriginTrail/houston-v6](https://github.qdkfweb.cn/origintrail-houston-v6/)
-- [DzarelDeveloper/ForYou](https://github.qdkfweb.cn/dzareldeveloper-foryou/)
-- [mwidera/iac-labs](https://github.qdkfweb.cn/mwidera-iac-labs/)
-- [genius-space/genius-lesson-project](https://github.qdkfweb.cn/genius-space-genius-lesson-project/)
-- [JannisX11/blockbench](https://github.qdkfweb.cn/jannisx11-blockbench/)
+- [chatpire/chatgpt-web-share](https://github.qdkfweb.cn/chatpire-chatgpt-web-share/)
+- [nikhilsoftwareboy/Real-Estate-Listings-and-Property-Management-Website](https://github.qdkfweb.cn/nikhilsoftwareboy-real-estate-listings-and-property-management-website/)
+- [darylsew/visualizer](https://github.qdkfweb.cn/darylsew-visualizer/)
+- [wundergraph/cosmo](https://github.qdkfweb.cn/wundergraph-cosmo/)
+- [zhimin-dev/iptv-checker](https://github.qdkfweb.cn/zhimin-dev-iptv-checker/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
