@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [chatpire/chatgpt-web-share](https://github.qdkfweb.cn/chatpire-chatgpt-web-share/)
-- [nikhilsoftwareboy/Real-Estate-Listings-and-Property-Management-Website](https://github.qdkfweb.cn/nikhilsoftwareboy-real-estate-listings-and-property-management-website/)
-- [darylsew/visualizer](https://github.qdkfweb.cn/darylsew-visualizer/)
-- [wundergraph/cosmo](https://github.qdkfweb.cn/wundergraph-cosmo/)
-- [zhimin-dev/iptv-checker](https://github.qdkfweb.cn/zhimin-dev-iptv-checker/)
+- [tecg-dcc/js-tp-spread-operator](https://github.qdkfweb.cn/tecg-dcc-js-tp-spread-operator/)
+- [demo-projects/training_resources](https://github.qdkfweb.cn/demo-projects-training_resources/)
+- [tecg-dcc/js-tp-burger-menu](https://github.qdkfweb.cn/tecg-dcc-js-tp-burger-menu/)
+- [nusserstudios/tailbliss](https://github.qdkfweb.cn/nusserstudios-tailbliss/)
+- [nikhilsoftwareboy/Bing-code](https://github.qdkfweb.cn/nikhilsoftwareboy-bing-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
