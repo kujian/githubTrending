@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [tecg-dcc/js-tp-spread-operator](https://github.qdkfweb.cn/tecg-dcc-js-tp-spread-operator/)
-- [demo-projects/training_resources](https://github.qdkfweb.cn/demo-projects-training_resources/)
-- [tecg-dcc/js-tp-burger-menu](https://github.qdkfweb.cn/tecg-dcc-js-tp-burger-menu/)
-- [nusserstudios/tailbliss](https://github.qdkfweb.cn/nusserstudios-tailbliss/)
-- [nikhilsoftwareboy/Bing-code](https://github.qdkfweb.cn/nikhilsoftwareboy-bing-code/)
+- [elebumm/YouTubeAIExtension](https://github.qdkfweb.cn/elebumm-youtubeaiextension/)
+- [Skoolgq/Polaris](https://github.qdkfweb.cn/skoolgq-polaris/)
+- [nikhilsoftwareboy/Solid-Waste-Management-LPU](https://github.qdkfweb.cn/nikhilsoftwareboy-solid-waste-management-lpu/)
+- [nikhilsoftwareboy/Apple-Clone](https://github.qdkfweb.cn/nikhilsoftwareboy-apple-clone/)
+- [dragon731012/-WORKING-bookmarklets-and-games](https://github.qdkfweb.cn/dragon731012-working-bookmarklets-and-games/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
