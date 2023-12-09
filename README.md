@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [elebumm/YouTubeAIExtension](https://github.qdkfweb.cn/elebumm-youtubeaiextension/)
-- [Skoolgq/Polaris](https://github.qdkfweb.cn/skoolgq-polaris/)
-- [nikhilsoftwareboy/Solid-Waste-Management-LPU](https://github.qdkfweb.cn/nikhilsoftwareboy-solid-waste-management-lpu/)
-- [nikhilsoftwareboy/Apple-Clone](https://github.qdkfweb.cn/nikhilsoftwareboy-apple-clone/)
-- [dragon731012/-WORKING-bookmarklets-and-games](https://github.qdkfweb.cn/dragon731012-working-bookmarklets-and-games/)
+- [zyronon/typing-word](https://github.qdkfweb.cn/zyronon-typing-word/)
+- [MrXujiang/vue3-drag-demo](https://github.qdkfweb.cn/mrxujiang-vue3-drag-demo/)
+- [dataease/dataease](https://github.qdkfweb.cn/dataease-dataease/)
+- [stilleshan/dockerfiles](https://github.qdkfweb.cn/stilleshan-dockerfiles/)
+- [intro-llm/intro-llm.github.io](https://github.qdkfweb.cn/intro-llm-intro-llm-github-io/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
