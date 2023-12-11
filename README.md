@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Thecosy/IceCMS](https://github.qdkfweb.cn/thecosy-icecms/)
+- [liuzhihang/halo-theme-hao](https://github.qdkfweb.cn/liuzhihang-halo-theme-hao/)
+- [libccy/noname](https://github.qdkfweb.cn/libccy-noname/)
+- [Aylur/dotfiles](https://github.qdkfweb.cn/aylur-dotfiles/)
 - [pickle69420/picklebox](https://github.qdkfweb.cn/pickle69420-picklebox/)
-- [amyyalex/simple-contribution](https://github.qdkfweb.cn/amyyalex-simple-contribution/)
-- [smartfoloo/platformer.io](https://github.qdkfweb.cn/smartfoloo-platformer-io/)
-- [zyronon/typing-word](https://github.qdkfweb.cn/zyronon-typing-word/)
-- [MrXujiang/vue3-drag-demo](https://github.qdkfweb.cn/mrxujiang-vue3-drag-demo/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
