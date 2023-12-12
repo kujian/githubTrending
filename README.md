@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Thecosy/IceCMS](https://github.qdkfweb.cn/thecosy-icecms/)
-- [liuzhihang/halo-theme-hao](https://github.qdkfweb.cn/liuzhihang-halo-theme-hao/)
-- [libccy/noname](https://github.qdkfweb.cn/libccy-noname/)
-- [Aylur/dotfiles](https://github.qdkfweb.cn/aylur-dotfiles/)
-- [pickle69420/picklebox](https://github.qdkfweb.cn/pickle69420-picklebox/)
+- [wayn111/waynboot-mobile](https://github.qdkfweb.cn/wayn111-waynboot-mobile/)
+- [edurekacontent/dockerContent](https://github.qdkfweb.cn/edurekacontent-dockercontent/)
+- [cropsync/CropSync](https://github.qdkfweb.cn/cropsync-cropsync/)
+- [GTNewHorizons/GT-New-Horizons-Modpack](https://github.qdkfweb.cn/gtnewhorizons-gt-new-horizons-modpack/)
+- [AsmrProg-YT/100-days-of-javascript](https://github.qdkfweb.cn/asmrprog-yt-100-days-of-javascript/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
