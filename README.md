@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [wayn111/waynboot-mobile](https://github.qdkfweb.cn/wayn111-waynboot-mobile/)
-- [edurekacontent/dockerContent](https://github.qdkfweb.cn/edurekacontent-dockercontent/)
-- [cropsync/CropSync](https://github.qdkfweb.cn/cropsync-cropsync/)
-- [GTNewHorizons/GT-New-Horizons-Modpack](https://github.qdkfweb.cn/gtnewhorizons-gt-new-horizons-modpack/)
-- [AsmrProg-YT/100-days-of-javascript](https://github.qdkfweb.cn/asmrprog-yt-100-days-of-javascript/)
+- [inovector/mixpost](https://github.qdkfweb.cn/inovector-mixpost/)
+- [creativetimofficial/argon-design-system-react](https://github.qdkfweb.cn/creativetimofficial-argon-design-system-react/)
+- [fajarnurwahid/adminhub](https://github.qdkfweb.cn/fajarnurwahid-adminhub/)
+- [fleming-23/DWEC_UNI4_PRAC1](https://github.qdkfweb.cn/fleming-23-dwec_uni4_prac1/)
+- [ronaldchan333/QR-Code-Scan](https://github.qdkfweb.cn/ronaldchan333-qr-code-scan/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
