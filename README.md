@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Orbiter-Finance/OrbiterFE-V2](https://github.qdkfweb.cn/orbiter-finance-orbiterfe-v2/)
-- [AbyssServices/Abyss-Web](https://github.qdkfweb.cn/abyssservices-abyss-web/)
-- [lomzik/lomzik.github.com](https://github.qdkfweb.cn/lomzik-lomzik-github-com/)
-- [SteamDatabase/GameTracking-CS2](https://github.qdkfweb.cn/steamdatabase-gametracking-cs2/)
-- [shanjairaj7/openweathermap](https://github.qdkfweb.cn/shanjairaj7-openweathermap/)
+- [scottyzen/woonuxt](https://github.qdkfweb.cn/scottyzen-woonuxt/)
+- [tovifun/VivalArc](https://github.qdkfweb.cn/tovifun-vivalarc/)
+- [X-LANCE/StoryTTS](https://github.qdkfweb.cn/x-lance-storytts/)
+- [fosatech/STK-Sweep](https://github.qdkfweb.cn/fosatech-stk-sweep/)
+- [Script-Hub-Org/Script-Hub](https://github.qdkfweb.cn/script-hub-org-script-hub/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
