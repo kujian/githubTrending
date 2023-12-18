@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [scottyzen/woonuxt](https://github.qdkfweb.cn/scottyzen-woonuxt/)
-- [tovifun/VivalArc](https://github.qdkfweb.cn/tovifun-vivalarc/)
-- [X-LANCE/StoryTTS](https://github.qdkfweb.cn/x-lance-storytts/)
-- [fosatech/STK-Sweep](https://github.qdkfweb.cn/fosatech-stk-sweep/)
-- [Script-Hub-Org/Script-Hub](https://github.qdkfweb.cn/script-hub-org-script-hub/)
+- [Tfh-Yqf/erp](https://github.qdkfweb.cn/tfh-yqf-erp/)
+- [wenyikun/chat-electron-app](https://github.qdkfweb.cn/wenyikun-chat-electron-app/)
+- [webtutorialsw/css_sliding_cards](https://github.qdkfweb.cn/webtutorialsw-css_sliding_cards/)
+- [pulsar-edit/pulsar](https://github.qdkfweb.cn/pulsar-edit-pulsar/)
+- [yokoffing/Betterfox](https://github.qdkfweb.cn/yokoffing-betterfox/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
