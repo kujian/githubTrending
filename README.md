@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Tfh-Yqf/erp](https://github.qdkfweb.cn/tfh-yqf-erp/)
-- [wenyikun/chat-electron-app](https://github.qdkfweb.cn/wenyikun-chat-electron-app/)
-- [webtutorialsw/css_sliding_cards](https://github.qdkfweb.cn/webtutorialsw-css_sliding_cards/)
-- [pulsar-edit/pulsar](https://github.qdkfweb.cn/pulsar-edit-pulsar/)
-- [yokoffing/Betterfox](https://github.qdkfweb.cn/yokoffing-betterfox/)
+- [DeepSourceCorp/good-first-issue](https://github.qdkfweb.cn/deepsourcecorp-good-first-issue/)
+- [jiangyuxiaoxiao/Bert-VITS2-UI](https://github.qdkfweb.cn/jiangyuxiaoxiao-bert-vits2-ui/)
+- [34306/iPA](https://github.qdkfweb.cn/34306-ipa/)
+- [OlieWu/tinawina](https://github.qdkfweb.cn/oliewu-tinawina/)
+- [devopshobbies/docker-templates](https://github.qdkfweb.cn/devopshobbies-docker-templates/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
