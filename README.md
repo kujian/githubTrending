@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSourceCorp/good-first-issue](https://github.qdkfweb.cn/deepsourcecorp-good-first-issue/)
-- [jiangyuxiaoxiao/Bert-VITS2-UI](https://github.qdkfweb.cn/jiangyuxiaoxiao-bert-vits2-ui/)
-- [34306/iPA](https://github.qdkfweb.cn/34306-ipa/)
-- [OlieWu/tinawina](https://github.qdkfweb.cn/oliewu-tinawina/)
-- [devopshobbies/docker-templates](https://github.qdkfweb.cn/devopshobbies-docker-templates/)
+- [Atuti/Chato](https://github.qdkfweb.cn/atuti-chato/)
+- [github/actions-learning-pathway](https://github.qdkfweb.cn/github-actions-learning-pathway/)
+- [BuilderIO/hydration-overlay](https://github.qdkfweb.cn/builderio-hydration-overlay/)
+- [ezshine/AwesomeSites](https://github.qdkfweb.cn/ezshine-awesomesites/)
+- [sfter/cias-mint](https://github.qdkfweb.cn/sfter-cias-mint/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
