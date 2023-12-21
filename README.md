@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Atuti/Chato](https://github.qdkfweb.cn/atuti-chato/)
-- [github/actions-learning-pathway](https://github.qdkfweb.cn/github-actions-learning-pathway/)
-- [BuilderIO/hydration-overlay](https://github.qdkfweb.cn/builderio-hydration-overlay/)
-- [ezshine/AwesomeSites](https://github.qdkfweb.cn/ezshine-awesomesites/)
-- [sfter/cias-mint](https://github.qdkfweb.cn/sfter-cias-mint/)
+- [nuxt-ui-pro/landing](https://github.qdkfweb.cn/nuxt-ui-pro-landing/)
+- [arkwnet/569](https://github.qdkfweb.cn/arkwnet-569/)
+- [cesurvmnc/navidad](https://github.qdkfweb.cn/cesurvmnc-navidad/)
+- [DasLampe/KluftBoerse](https://github.qdkfweb.cn/daslampe-kluftboerse/)
+- [ABPozharliev19/11th-grade-azure-static-web-app](https://github.qdkfweb.cn/abpozharliev19-11th-grade-azure-static-web-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
