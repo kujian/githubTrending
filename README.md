@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [nuxt-ui-pro/landing](https://github.qdkfweb.cn/nuxt-ui-pro-landing/)
-- [arkwnet/569](https://github.qdkfweb.cn/arkwnet-569/)
-- [cesurvmnc/navidad](https://github.qdkfweb.cn/cesurvmnc-navidad/)
-- [DasLampe/KluftBoerse](https://github.qdkfweb.cn/daslampe-kluftboerse/)
-- [ABPozharliev19/11th-grade-azure-static-web-app](https://github.qdkfweb.cn/abpozharliev19-11th-grade-azure-static-web-app/)
+- [xiaoxiaolulu/EasyPost](https://github.qdkfweb.cn/xiaoxiaolulu-easypost/)
+- [Ritika-Agrawal811/css-and-js-code-snippets](https://github.qdkfweb.cn/ritika-agrawal811-css-and-js-code-snippets/)
+- [dbarzin/deming](https://github.qdkfweb.cn/dbarzin-deming/)
+- [linkedin/dph-framework](https://github.qdkfweb.cn/linkedin-dph-framework/)
+- [lxieyang/chrome-extension-boilerplate-react](https://github.qdkfweb.cn/lxieyang-chrome-extension-boilerplate-react/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
