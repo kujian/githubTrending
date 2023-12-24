@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [xiaoqing-tan/vue3dashboard](https://github.qdkfweb.cn/xiaoqing-tan-vue3dashboard/)
-- [MetaLowCodeTeam/MetaLowCode](https://github.qdkfweb.cn/metalowcodeteam-metalowcode/)
-- [creativetimofficial/material-dashboard-django](https://github.qdkfweb.cn/creativetimofficial-material-dashboard-django/)
-- [hyperweek/mx3-revamped](https://github.qdkfweb.cn/hyperweek-mx3-revamped/)
-- [Balackburn/Apollo](https://github.qdkfweb.cn/balackburn-apollo/)
+- [langgenius/dify](https://github.qdkfweb.cn/langgenius-dify/)
+- [babaohuang/GeminiProChat](https://github.qdkfweb.cn/babaohuang-geminiprochat/)
+- [damo-vilab/AnyDoor](https://github.qdkfweb.cn/damo-vilab-anydoor/)
+- [AmruthPillai/Reactive-Resume](https://github.qdkfweb.cn/amruthpillai-reactive-resume/)
+- [ton-community/tsc5](https://github.qdkfweb.cn/ton-community-tsc5/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
