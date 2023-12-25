@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [langgenius/dify](https://github.qdkfweb.cn/langgenius-dify/)
-- [babaohuang/GeminiProChat](https://github.qdkfweb.cn/babaohuang-geminiprochat/)
-- [damo-vilab/AnyDoor](https://github.qdkfweb.cn/damo-vilab-anydoor/)
-- [AmruthPillai/Reactive-Resume](https://github.qdkfweb.cn/amruthpillai-reactive-resume/)
-- [ton-community/tsc5](https://github.qdkfweb.cn/ton-community-tsc5/)
+- [aksharahegde/nuxt-glow](https://github.qdkfweb.cn/aksharahegde-nuxt-glow/)
+- [liujuntao123/chines-history-video](https://github.qdkfweb.cn/liujuntao123-chines-history-video/)
+- [cndiandian/zuanbot.com](https://github.qdkfweb.cn/cndiandian-zuanbot-com/)
+- [eazybytes/spring](https://github.qdkfweb.cn/eazybytes-spring/)
+- [elifgazioglu/doyouwannagooutwithme](https://github.qdkfweb.cn/elifgazioglu-doyouwannagooutwithme/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
