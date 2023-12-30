@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [helloqyg/MettShortOverseas](https://github.qdkfweb.cn/helloqyg-mettshortoverseas/)
-- [apache/apache-website-template](https://github.qdkfweb.cn/apache-apache-website-template/)
-- [heliboo/hai](https://github.qdkfweb.cn/heliboo-hai/)
-- [akshkgd/how-to-css](https://github.qdkfweb.cn/akshkgd-how-to-css/)
-- [ProbiusOfficial/Hello-CTF](https://github.qdkfweb.cn/probiusofficial-hello-ctf/)
+- [Yuyz0112/vx.dev](https://github.qdkfweb.cn/yuyz0112-vx-dev/)
+- [JulietaUla/Montserrat](https://github.qdkfweb.cn/julietaula-montserrat/)
+- [vishaltewatia/gift](https://github.qdkfweb.cn/vishaltewatia-gift/)
+- [vishaltewatia/propose-your-gf](https://github.qdkfweb.cn/vishaltewatia-propose-your-gf/)
+- [uiverse-io/galaxy](https://github.qdkfweb.cn/uiverse-io-galaxy/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
