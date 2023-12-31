@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Yuyz0112/vx.dev](https://github.qdkfweb.cn/yuyz0112-vx-dev/)
-- [JulietaUla/Montserrat](https://github.qdkfweb.cn/julietaula-montserrat/)
-- [vishaltewatia/gift](https://github.qdkfweb.cn/vishaltewatia-gift/)
-- [vishaltewatia/propose-your-gf](https://github.qdkfweb.cn/vishaltewatia-propose-your-gf/)
-- [uiverse-io/galaxy](https://github.qdkfweb.cn/uiverse-io-galaxy/)
+- [galaxy-s10/billd-live](https://github.qdkfweb.cn/galaxy-s10-billd-live/)
+- [kaifangqian/open-sign-vue](https://github.qdkfweb.cn/kaifangqian-open-sign-vue/)
+- [Jazee6/cloudflare-ai-web](https://github.qdkfweb.cn/jazee6-cloudflare-ai-web/)
+- [mattstratton/castanet](https://github.qdkfweb.cn/mattstratton-castanet/)
+- [shayne/hwinfo-streamdeck](https://github.qdkfweb.cn/shayne-hwinfo-streamdeck/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
