@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [galaxy-s10/billd-live](https://github.qdkfweb.cn/galaxy-s10-billd-live/)
-- [kaifangqian/open-sign-vue](https://github.qdkfweb.cn/kaifangqian-open-sign-vue/)
-- [Jazee6/cloudflare-ai-web](https://github.qdkfweb.cn/jazee6-cloudflare-ai-web/)
-- [mattstratton/castanet](https://github.qdkfweb.cn/mattstratton-castanet/)
-- [shayne/hwinfo-streamdeck](https://github.qdkfweb.cn/shayne-hwinfo-streamdeck/)
+- [LOUSANPANG/fe-workflow](https://github.qdkfweb.cn/lousanpang-fe-workflow/)
+- [CircleCI-Public/sample-javascript-cfd](https://github.qdkfweb.cn/circleci-public-sample-javascript-cfd/)
+- [TWBug/GoldCardHenge](https://github.qdkfweb.cn/twbug-goldcardhenge/)
+- [codewithsadee/portfolio](https://github.qdkfweb.cn/codewithsadee-portfolio/)
+- [Carlettoh/NotebooksProcesamientoIA](https://github.qdkfweb.cn/carlettoh-notebooksprocesamientoia/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
