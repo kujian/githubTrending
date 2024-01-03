@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [gkd-kit/inspect](https://github.qdkfweb.cn/gkd-kit-inspect/)
-- [CodeCompleteYT/react-portfolio](https://github.qdkfweb.cn/codecompleteyt-react-portfolio/)
-- [akshu20791/apachewebsite](https://github.qdkfweb.cn/akshu20791-apachewebsite/)
-- [thinkingjimmy/Learning-Prompt](https://github.qdkfweb.cn/thinkingjimmy-learning-prompt/)
-- [jaysomani/firstspot](https://github.qdkfweb.cn/jaysomani-firstspot/)
+- [JanLunge/pog](https://github.qdkfweb.cn/janlunge-pog/)
+- [jaaksii/sublink](https://github.qdkfweb.cn/jaaksii-sublink/)
+- [wudengyao/admin_vue3_vite](https://github.qdkfweb.cn/wudengyao-admin_vue3_vite/)
+- [helloqyg/MettShort](https://github.qdkfweb.cn/helloqyg-mettshort/)
+- [JAYESHBATRA/Virtuo-Learn](https://github.qdkfweb.cn/jayeshbatra-virtuo-learn/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
