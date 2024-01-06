@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [zammad/frontend-coding-test-ts](https://github.qdkfweb.cn/zammad-frontend-coding-test-ts/)
+- [netease-youdao/QAnything](https://github.qdkfweb.cn/netease-youdao-qanything/)
+- [TechForPalestine/boycott-israeli-tech-companies-dataset](https://github.qdkfweb.cn/techforpalestine-boycott-israeli-tech-companies-dataset/)
+- [speer-technologies/aircall](https://github.qdkfweb.cn/speer-technologies-aircall/)
 - [ZhiShuYun/HubFrontend](https://github.qdkfweb.cn/zhishuyun-hubfrontend/)
-- [creativetimofficial/argon-dashboard-django](https://github.qdkfweb.cn/creativetimofficial-argon-dashboard-django/)
-- [Rysera-Innovations/Rysera-web](https://github.qdkfweb.cn/rysera-innovations-rysera-web/)
-- [Rahulvaishnav9/Login-Page](https://github.qdkfweb.cn/rahulvaishnav9-login-page/)
-- [OpenClassrooms-Student-Center/P12_Front-end](https://github.qdkfweb.cn/openclassrooms-student-center-p12_front-end/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
