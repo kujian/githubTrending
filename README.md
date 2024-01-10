@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [amvstrm/amvstrm](https://github.qdkfweb.cn/amvstrm-amvstrm/)
-- [promptdesk/promptdesk](https://github.qdkfweb.cn/promptdesk-promptdesk/)
-- [MagicMirrorOrg/MagicMirror](https://github.qdkfweb.cn/magicmirrororg-magicmirror/)
-- [adrianhajdin/docker-course](https://github.qdkfweb.cn/adrianhajdin-docker-course/)
-- [GradientSurfer/Draw2Img](https://github.qdkfweb.cn/gradientsurfer-draw2img/)
+- [felipeAguiarCode/js-music-keyboard-virtual](https://github.qdkfweb.cn/felipeaguiarcode-js-music-keyboard-virtual/)
+- [s8sg/goflow](https://github.qdkfweb.cn/s8sg-goflow/)
+- [ankitects/anki-manual](https://github.qdkfweb.cn/ankitects-anki-manual/)
+- [Rasxtt/perdon](https://github.qdkfweb.cn/rasxtt-perdon/)
+- [vishaltewatia/Impress-your-crush](https://github.qdkfweb.cn/vishaltewatia-impress-your-crush/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
