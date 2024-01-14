@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Soheil-Rasouli/internet-origin](https://github.qdkfweb.cn/soheil-rasouli-internet-origin/)
-- [kleo/evilportals](https://github.qdkfweb.cn/kleo-evilportals/)
-- [apu52/Travel_Website](https://github.qdkfweb.cn/apu52-travel_website/)
-- [itscodenation/int-u3l6-23-24-student-exercises](https://github.qdkfweb.cn/itscodenation-int-u3l6-23-24-student-exercises/)
-- [HumanSignal/label-studio](https://github.qdkfweb.cn/humansignal-label-studio/)
+- [Viglino/font-gis](https://github.qdkfweb.cn/viglino-font-gis/)
+- [HansNewbie/hansnewbie.github.io](https://github.qdkfweb.cn/hansnewbie-hansnewbie-github-io/)
+- [shelcia/dynamic-portfolio](https://github.qdkfweb.cn/shelcia-dynamic-portfolio/)
+- [mawerty/Is-Prime](https://github.qdkfweb.cn/mawerty-is-prime/)
+- [prabathLK/PRABATH-MD](https://github.qdkfweb.cn/prabathlk-prabath-md/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
