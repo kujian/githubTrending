@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Viglino/font-gis](https://github.qdkfweb.cn/viglino-font-gis/)
-- [HansNewbie/hansnewbie.github.io](https://github.qdkfweb.cn/hansnewbie-hansnewbie-github-io/)
-- [shelcia/dynamic-portfolio](https://github.qdkfweb.cn/shelcia-dynamic-portfolio/)
-- [mawerty/Is-Prime](https://github.qdkfweb.cn/mawerty-is-prime/)
-- [prabathLK/PRABATH-MD](https://github.qdkfweb.cn/prabathlk-prabath-md/)
+- [pauliceia/pauliceia](https://github.qdkfweb.cn/pauliceia-pauliceia/)
+- [WhiteCosmos/Gotcha-Rest-Client](https://github.qdkfweb.cn/whitecosmos-gotcha-rest-client/)
+- [VueTorrent/VueTorrent](https://github.qdkfweb.cn/vuetorrent-vuetorrent/)
+- [szmxx/template-landing-page](https://github.qdkfweb.cn/szmxx-template-landing-page/)
+- [vishaltewatia/Thankyoubook](https://github.qdkfweb.cn/vishaltewatia-thankyoubook/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
