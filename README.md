@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [pauliceia/pauliceia](https://github.qdkfweb.cn/pauliceia-pauliceia/)
-- [WhiteCosmos/Gotcha-Rest-Client](https://github.qdkfweb.cn/whitecosmos-gotcha-rest-client/)
-- [VueTorrent/VueTorrent](https://github.qdkfweb.cn/vuetorrent-vuetorrent/)
-- [szmxx/template-landing-page](https://github.qdkfweb.cn/szmxx-template-landing-page/)
-- [vishaltewatia/Thankyoubook](https://github.qdkfweb.cn/vishaltewatia-thankyoubook/)
+- [GUI-for-Cores/GUI.for.SingBox](https://github.qdkfweb.cn/gui-for-cores-gui-for-singbox/)
+- [feedox/alt-gpt](https://github.qdkfweb.cn/feedox-alt-gpt/)
+- [Corrupteddisk/SpotifycloneWeb](https://github.qdkfweb.cn/corrupteddisk-spotifycloneweb/)
+- [moelzanaty3/react-18-workshop](https://github.qdkfweb.cn/moelzanaty3-react-18-workshop/)
+- [YouTransfer/YouTransfer](https://github.qdkfweb.cn/youtransfer-youtransfer/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
