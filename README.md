@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [GUI-for-Cores/GUI.for.SingBox](https://github.qdkfweb.cn/gui-for-cores-gui-for-singbox/)
-- [feedox/alt-gpt](https://github.qdkfweb.cn/feedox-alt-gpt/)
-- [Corrupteddisk/SpotifycloneWeb](https://github.qdkfweb.cn/corrupteddisk-spotifycloneweb/)
-- [moelzanaty3/react-18-workshop](https://github.qdkfweb.cn/moelzanaty3-react-18-workshop/)
-- [YouTransfer/YouTransfer](https://github.qdkfweb.cn/youtransfer-youtransfer/)
+- [OpenCSGs/csghub](https://github.qdkfweb.cn/opencsgs-csghub/)
+- [VladilenItStep/maket](https://github.qdkfweb.cn/vladilenitstep-maket/)
+- [Jagroop2001/AcmeRockets](https://github.qdkfweb.cn/jagroop2001-acmerockets/)
+- [dchristl/esp32_nat_router_extended](https://github.qdkfweb.cn/dchristl-esp32_nat_router_extended/)
+- [swarnade/webdesign-switch](https://github.qdkfweb.cn/swarnade-webdesign-switch/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
