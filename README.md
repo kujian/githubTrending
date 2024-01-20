@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [nuxt-ui-pro/saas](https://github.qdkfweb.cn/nuxt-ui-pro-saas/)
-- [besscroft/kamera](https://github.qdkfweb.cn/besscroft-kamera/)
-- [black-fruit/NineAi-Frontend](https://github.qdkfweb.cn/black-fruit-nineai-frontend/)
-- [mihonapp/website](https://github.qdkfweb.cn/mihonapp-website/)
-- [CodeSpace-Academy/sdf-student-projects](https://github.qdkfweb.cn/codespace-academy-sdf-student-projects/)
+- [fre123-com/fre123-info-flow](https://github.qdkfweb.cn/fre123-com-fre123-info-flow/)
+- [fre123-com/fre123-nav](https://github.qdkfweb.cn/fre123-com-fre123-nav/)
+- [creativetimofficial/argon-dashboard-asp-net](https://github.qdkfweb.cn/creativetimofficial-argon-dashboard-asp-net/)
+- [openscholar/starterkit](https://github.qdkfweb.cn/openscholar-starterkit/)
+- [Comfy-Themes/Discord](https://github.qdkfweb.cn/comfy-themes-discord/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
