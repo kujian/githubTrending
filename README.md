@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [ykdojo/OpenStream](https://github.qdkfweb.cn/ykdojo-openstream/)
+- [nicknochnack/MLTradingBot](https://github.qdkfweb.cn/nicknochnack-mltradingbot/)
+- [alura-es-cursos/js-curso-2](https://github.qdkfweb.cn/alura-es-cursos-js-curso-2/)
+- [LiteLoaderQQNT/LiteLoaderQQNT](https://github.qdkfweb.cn/liteloaderqqnt-liteloaderqqnt/)
 - [mizhexiaoxiao/vue-fastapi-admin](https://github.qdkfweb.cn/mizhexiaoxiao-vue-fastapi-admin/)
-- [doshea/xword](https://github.qdkfweb.cn/doshea-xword/)
-- [Animesh606/WeatherForcasting](https://github.qdkfweb.cn/animesh606-weatherforcasting/)
-- [iuricode/recursos-gratuitos](https://github.qdkfweb.cn/iuricode-recursos-gratuitos/)
-- [microsoft/SATechnicalOnboarding](https://github.qdkfweb.cn/microsoft-satechnicalonboarding/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
