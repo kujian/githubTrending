@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [MUKAPP/LiteLoaderQQNT-MSpring-Theme](https://github.qdkfweb.cn/mukapp-liteloaderqqnt-mspring-theme/)
-- [alura-cursos/spotify-imersao](https://github.qdkfweb.cn/alura-cursos-spotify-imersao/)
-- [novice88/jetbra](https://github.qdkfweb.cn/novice88-jetbra/)
-- [vovannat/darknet-markets-links](https://github.qdkfweb.cn/vovannat-darknet-markets-links/)
-- [GeoGuess/GeoGuess](https://github.qdkfweb.cn/geoguess-geoguess/)
+- [binglog/V2b-Theme-Sleek](https://github.qdkfweb.cn/binglog-v2b-theme-sleek/)
+- [vvandk/kinit](https://github.qdkfweb.cn/vvandk-kinit/)
+- [zhontai/Admin.Core](https://github.qdkfweb.cn/zhontai-admin-core/)
+- [waelmas/frameless-bitb](https://github.qdkfweb.cn/waelmas-frameless-bitb/)
+- [RodrigoHarder/imersao-frontend](https://github.qdkfweb.cn/rodrigoharder-imersao-frontend/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
