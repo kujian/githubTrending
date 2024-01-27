@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [binglog/V2b-Theme-Sleek](https://github.qdkfweb.cn/binglog-v2b-theme-sleek/)
-- [vvandk/kinit](https://github.qdkfweb.cn/vvandk-kinit/)
-- [zhontai/Admin.Core](https://github.qdkfweb.cn/zhontai-admin-core/)
-- [waelmas/frameless-bitb](https://github.qdkfweb.cn/waelmas-frameless-bitb/)
-- [RodrigoHarder/imersao-frontend](https://github.qdkfweb.cn/rodrigoharder-imersao-frontend/)
+- [Virtual-Browser/VirtualBrowser](https://github.qdkfweb.cn/virtual-browser-virtualbrowser/)
+- [ironhack-labs/lab-js-countdown](https://github.qdkfweb.cn/ironhack-labs-lab-js-countdown/)
+- [shr670377723/CMSSYSTEM](https://github.qdkfweb.cn/shr670377723-cmssystem/)
+- [Corgea/retriever](https://github.qdkfweb.cn/corgea-retriever/)
+- [swyxio/ai-notes](https://github.qdkfweb.cn/swyxio-ai-notes/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
