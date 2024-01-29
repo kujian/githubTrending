@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [MohmmedAshraf/laravel-translations](https://github.qdkfweb.cn/mohmmedashraf-laravel-translations/)
-- [knva/PalWorld_server_config](https://github.qdkfweb.cn/knva-palworld_server_config/)
-- [NightProxy/Night](https://github.qdkfweb.cn/nightproxy-night/)
-- [calcom/font](https://github.qdkfweb.cn/calcom-font/)
-- [Ritwika-14/CoupEarn](https://github.qdkfweb.cn/ritwika-14-coupearn/)
+- [Justin3go/SearchSearchGo](https://github.qdkfweb.cn/justin3go-searchsearchgo/)
+- [kenngigz/App-For-PC](https://github.qdkfweb.cn/kenngigz-app-for-pc/)
+- [kepano/flexoki-obsidian](https://github.qdkfweb.cn/kepano-flexoki-obsidian/)
+- [nota-lang/bene](https://github.qdkfweb.cn/nota-lang-bene/)
+- [kanton-bern/hellodata-be](https://github.qdkfweb.cn/kanton-bern-hellodata-be/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
