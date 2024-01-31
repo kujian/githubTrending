@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [ping-pub/explorer](https://github.qdkfweb.cn/ping-pub-explorer/)
-- [202252197/ChatGPT_JCM](https://github.qdkfweb.cn/202252197-chatgpt_jcm/)
-- [YangMr/usianOA](https://github.qdkfweb.cn/yangmr-usianoa/)
-- [smolnp/IPTVru](https://github.qdkfweb.cn/smolnp-iptvru/)
-- [builtbybel/CoMachina](https://github.qdkfweb.cn/builtbybel-comachina/)
+- [jareddantis/gwa-calc](https://github.qdkfweb.cn/jareddantis-gwa-calc/)
+- [creativetimofficial/muse-vue-ant-design-dashboard](https://github.qdkfweb.cn/creativetimofficial-muse-vue-ant-design-dashboard/)
+- [guyzyl/whatsapp-contact-sync](https://github.qdkfweb.cn/guyzyl-whatsapp-contact-sync/)
+- [suruibuas/eui](https://github.qdkfweb.cn/suruibuas-eui/)
+- [HashimThePassionate/django-for-absolute-beginners](https://github.qdkfweb.cn/hashimthepassionate-django-for-absolute-beginners/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
