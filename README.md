@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [avnibilgin/dotfiles](https://github.qdkfweb.cn/avnibilgin-dotfiles/)
+- [the-code-crusader/ValentinesSite](https://github.qdkfweb.cn/the-code-crusader-valentinessite/)
 - [wancheng/forgetwall](https://github.qdkfweb.cn/wancheng-forgetwall/)
 - [TykTechnologies/tyk-dev-portal-quickstart](https://github.qdkfweb.cn/tyktechnologies-tyk-dev-portal-quickstart/)
 - [AsmrProg-YT/Responsive-Music-Website](https://github.qdkfweb.cn/asmrprog-yt-responsive-music-website/)
-- [Qihoo360/WatchAD2.0](https://github.qdkfweb.cn/qihoo360-watchad2-0/)
-- [expo/examples](https://github.qdkfweb.cn/expo-examples/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
