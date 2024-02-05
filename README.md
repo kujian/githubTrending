@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [sssain/simple-portfolio](https://github.qdkfweb.cn/sssain-simple-portfolio/)
-- [benaston/buttons.css](https://github.qdkfweb.cn/benaston-buttons-css/)
-- [rutuja091/car-rental-and-booking-system-Group-project-1-ICP-7](https://github.qdkfweb.cn/rutuja091-car-rental-and-booking-system-group-project-1-icp-7/)
-- [EricFormar/clima-app](https://github.qdkfweb.cn/ericformar-clima-app/)
-- [fabiorochafg/joomla-3-blank-template](https://github.qdkfweb.cn/fabiorochafg-joomla-3-blank-template/)
+- [jw-12138/r2-uploader](https://github.qdkfweb.cn/jw-12138-r2-uploader/)
+- [developergtm24/portfolio](https://github.qdkfweb.cn/developergtm24-portfolio/)
+- [AsmrProg-YT/Responsive-NFT-Website](https://github.qdkfweb.cn/asmrprog-yt-responsive-nft-website/)
+- [rishabhnmishra/Portfolio-Website-Template](https://github.qdkfweb.cn/rishabhnmishra-portfolio-website-template/)
+- [janraasch/hugo-bearblog](https://github.qdkfweb.cn/janraasch-hugo-bearblog/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
