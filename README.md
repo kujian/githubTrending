@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [jw-12138/r2-uploader](https://github.qdkfweb.cn/jw-12138-r2-uploader/)
-- [developergtm24/portfolio](https://github.qdkfweb.cn/developergtm24-portfolio/)
-- [AsmrProg-YT/Responsive-NFT-Website](https://github.qdkfweb.cn/asmrprog-yt-responsive-nft-website/)
-- [rishabhnmishra/Portfolio-Website-Template](https://github.qdkfweb.cn/rishabhnmishra-portfolio-website-template/)
-- [janraasch/hugo-bearblog](https://github.qdkfweb.cn/janraasch-hugo-bearblog/)
+- [yzqzy/wechat-assistant](https://github.qdkfweb.cn/yzqzy-wechat-assistant/)
+- [aafifr/Flower](https://github.qdkfweb.cn/aafifr-flower/)
+- [Naezr/ShyFox](https://github.qdkfweb.cn/naezr-shyfox/)
+- [hiteshchoudhary/fun-with-tailwind](https://github.qdkfweb.cn/hiteshchoudhary-fun-with-tailwind/)
+- [jgm/djot](https://github.qdkfweb.cn/jgm-djot/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
