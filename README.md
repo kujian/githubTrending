@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [BizSpringSource/bizspring-vue3-opensource](https://github.qdkfweb.cn/bizspringsource-bizspring-vue3-opensource/)
-- [Edge-coordinates/Waterfall_picture_viewer](https://github.qdkfweb.cn/edge-coordinates-waterfall_picture_viewer/)
-- [GovindCodes/ValentineWish](https://github.qdkfweb.cn/govindcodes-valentinewish/)
-- [yzqzy/wechat-assistant](https://github.qdkfweb.cn/yzqzy-wechat-assistant/)
-- [aafifr/Flower](https://github.qdkfweb.cn/aafifr-flower/)
+- [selemondev/marquee](https://github.qdkfweb.cn/selemondev-marquee/)
+- [echelon-theme/echelon](https://github.qdkfweb.cn/echelon-theme-echelon/)
+- [rajaprerak/rajaprerak.github.io](https://github.qdkfweb.cn/rajaprerak-rajaprerak-github-io/)
+- [zanfranceschi/rinha-de-backend-2024-q1](https://github.qdkfweb.cn/zanfranceschi-rinha-de-backend-2024-q1/)
+- [safak/next-animated-portfolio](https://github.qdkfweb.cn/safak-next-animated-portfolio/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
