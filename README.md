@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [selemondev/marquee](https://github.qdkfweb.cn/selemondev-marquee/)
-- [echelon-theme/echelon](https://github.qdkfweb.cn/echelon-theme-echelon/)
-- [rajaprerak/rajaprerak.github.io](https://github.qdkfweb.cn/rajaprerak-rajaprerak-github-io/)
-- [zanfranceschi/rinha-de-backend-2024-q1](https://github.qdkfweb.cn/zanfranceschi-rinha-de-backend-2024-q1/)
-- [safak/next-animated-portfolio](https://github.qdkfweb.cn/safak-next-animated-portfolio/)
+- [Deltares/fews-web-oc](https://github.qdkfweb.cn/deltares-fews-web-oc/)
+- [EvolutionAPI/evolution-manager](https://github.qdkfweb.cn/evolutionapi-evolution-manager/)
+- [lost-ark-dev/loa-details](https://github.qdkfweb.cn/lost-ark-dev-loa-details/)
+- [webdino/lyceum-pokemon](https://github.qdkfweb.cn/webdino-lyceum-pokemon/)
+- [stackblitz/docs](https://github.qdkfweb.cn/stackblitz-docs/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
