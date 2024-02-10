@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Deltares/fews-web-oc](https://github.qdkfweb.cn/deltares-fews-web-oc/)
-- [EvolutionAPI/evolution-manager](https://github.qdkfweb.cn/evolutionapi-evolution-manager/)
-- [lost-ark-dev/loa-details](https://github.qdkfweb.cn/lost-ark-dev-loa-details/)
-- [webdino/lyceum-pokemon](https://github.qdkfweb.cn/webdino-lyceum-pokemon/)
-- [stackblitz/docs](https://github.qdkfweb.cn/stackblitz-docs/)
+- [imsyy/Snavigation](https://github.qdkfweb.cn/imsyy-snavigation/)
+- [vue-leaflet/vue-leaflet](https://github.qdkfweb.cn/vue-leaflet-vue-leaflet/)
+- [Gr33nW33n/nuxtship-template](https://github.qdkfweb.cn/gr33nw33n-nuxtship-template/)
+- [hrynko/vue-pdf-embed](https://github.qdkfweb.cn/hrynko-vue-pdf-embed/)
+- [diydiagnostics/App2-HelloWorld2024](https://github.qdkfweb.cn/diydiagnostics-app2-helloworld2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
