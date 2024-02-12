@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [yrestom/POS-Awesome](https://github.qdkfweb.cn/yrestom-pos-awesome/)
-- [danielroe/page-speed.dev](https://github.qdkfweb.cn/danielroe-page-speed-dev/)
-- [matter-labs/zksync-wallet-vue](https://github.qdkfweb.cn/matter-labs-zksync-wallet-vue/)
-- [DilemmaGX/shields-maker](https://github.qdkfweb.cn/dilemmagx-shields-maker/)
-- [JessicaaSun/randomly-moving-button](https://github.qdkfweb.cn/jessicaasun-randomly-moving-button/)
+- [oku-ui/motion](https://github.qdkfweb.cn/oku-ui-motion/)
+- [Lynx-Shortener/Lynx](https://github.qdkfweb.cn/lynx-shortener-lynx/)
+- [Narmis-E/hyprland-dots](https://github.qdkfweb.cn/narmis-e-hyprland-dots/)
+- [andriipaziuk/valentine](https://github.qdkfweb.cn/andriipaziuk-valentine/)
+- [citizenfx/cfx-server-data](https://github.qdkfweb.cn/citizenfx-cfx-server-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
