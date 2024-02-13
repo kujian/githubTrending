@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [oku-ui/motion](https://github.qdkfweb.cn/oku-ui-motion/)
-- [Lynx-Shortener/Lynx](https://github.qdkfweb.cn/lynx-shortener-lynx/)
-- [Narmis-E/hyprland-dots](https://github.qdkfweb.cn/narmis-e-hyprland-dots/)
-- [andriipaziuk/valentine](https://github.qdkfweb.cn/andriipaziuk-valentine/)
-- [citizenfx/cfx-server-data](https://github.qdkfweb.cn/citizenfx-cfx-server-data/)
+- [KUN1007/kun-galgame-nuxt3](https://github.qdkfweb.cn/kun1007-kun-galgame-nuxt3/)
+- [jsbenchmark/jsbenchmark](https://github.qdkfweb.cn/jsbenchmark-jsbenchmark/)
+- [shoqqan/valentine-day-invitation](https://github.qdkfweb.cn/shoqqan-valentine-day-invitation/)
+- [practicehealth/spotify-clone-assignment](https://github.qdkfweb.cn/practicehealth-spotify-clone-assignment/)
+- [availproject/availproject.github.io](https://github.qdkfweb.cn/availproject-availproject-github-io/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
