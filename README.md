@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [ViMaSter/gdqreminder-mobile](https://github.qdkfweb.cn/vimaster-gdqreminder-mobile/)
-- [massCodeIO/masscode.io](https://github.qdkfweb.cn/masscodeio-masscode-io/)
-- [streamsync-cloud/streamsync](https://github.qdkfweb.cn/streamsync-cloud-streamsync/)
-- [harlan-zw/request-indexing](https://github.qdkfweb.cn/harlan-zw-request-indexing/)
-- [AlexxAdrian/heart_letter](https://github.qdkfweb.cn/alexxadrian-heart_letter/)
+- [cascadefox/cascade](https://github.qdkfweb.cn/cascadefox-cascade/)
+- [hedyorg/hedy](https://github.qdkfweb.cn/hedyorg-hedy/)
+- [Set-Creative-Studio/cube-boilerplate](https://github.qdkfweb.cn/set-creative-studio-cube-boilerplate/)
+- [hossaini-f/css-envelope-letter-animation](https://github.qdkfweb.cn/hossaini-f-css-envelope-letter-animation/)
+- [YCLA-Coding/webreels](https://github.qdkfweb.cn/ycla-coding-webreels/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
