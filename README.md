@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [cascadefox/cascade](https://github.qdkfweb.cn/cascadefox-cascade/)
-- [hedyorg/hedy](https://github.qdkfweb.cn/hedyorg-hedy/)
-- [Set-Creative-Studio/cube-boilerplate](https://github.qdkfweb.cn/set-creative-studio-cube-boilerplate/)
-- [hossaini-f/css-envelope-letter-animation](https://github.qdkfweb.cn/hossaini-f-css-envelope-letter-animation/)
-- [YCLA-Coding/webreels](https://github.qdkfweb.cn/ycla-coding-webreels/)
+- [alireza0/s-ui](https://github.qdkfweb.cn/alireza0-s-ui/)
+- [roxsross/terraform-level100](https://github.qdkfweb.cn/roxsross-terraform-level100/)
+- [kat9897/Virtual-Valentine-Card](https://github.qdkfweb.cn/kat9897-virtual-valentine-card/)
+- [Geeks-edu/Valentinka](https://github.qdkfweb.cn/geeks-edu-valentinka/)
+- [gevendra2004/gevstack](https://github.qdkfweb.cn/gevendra2004-gevstack/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
