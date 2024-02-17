@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [alireza0/s-ui](https://github.qdkfweb.cn/alireza0-s-ui/)
-- [roxsross/terraform-level100](https://github.qdkfweb.cn/roxsross-terraform-level100/)
-- [kat9897/Virtual-Valentine-Card](https://github.qdkfweb.cn/kat9897-virtual-valentine-card/)
-- [Geeks-edu/Valentinka](https://github.qdkfweb.cn/geeks-edu-valentinka/)
-- [gevendra2004/gevstack](https://github.qdkfweb.cn/gevendra2004-gevstack/)
+- [julienbourdeau/debugbar](https://github.qdkfweb.cn/julienbourdeau-debugbar/)
+- [diydiagnostics/App3-coldorallergy](https://github.qdkfweb.cn/diydiagnostics-app3-coldorallergy/)
+- [mmdmrishabh/Coding-assessment-l2-Boilerplate-code](https://github.qdkfweb.cn/mmdmrishabh-coding-assessment-l2-boilerplate-code/)
+- [patriksm/10b_JavasScript_3D](https://github.qdkfweb.cn/patriksm-10b_javasscript_3d/)
+- [builtbybel/WhyNotWinAI](https://github.qdkfweb.cn/builtbybel-whynotwinai/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
