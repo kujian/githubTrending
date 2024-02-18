@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [rr210/blazeB2](https://github.qdkfweb.cn/rr210-blazeb2/)
+- [artsyfriedchicken/EdgyArc-fr](https://github.qdkfweb.cn/artsyfriedchicken-edgyarc-fr/)
+- [hammerjs/hammer.js](https://github.qdkfweb.cn/hammerjs-hammer-js/)
+- [zed-industries/extensions](https://github.qdkfweb.cn/zed-industries-extensions/)
 - [julienbourdeau/debugbar](https://github.qdkfweb.cn/julienbourdeau-debugbar/)
-- [diydiagnostics/App3-coldorallergy](https://github.qdkfweb.cn/diydiagnostics-app3-coldorallergy/)
-- [mmdmrishabh/Coding-assessment-l2-Boilerplate-code](https://github.qdkfweb.cn/mmdmrishabh-coding-assessment-l2-boilerplate-code/)
-- [patriksm/10b_JavasScript_3D](https://github.qdkfweb.cn/patriksm-10b_javasscript_3d/)
-- [builtbybel/WhyNotWinAI](https://github.qdkfweb.cn/builtbybel-whynotwinai/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
