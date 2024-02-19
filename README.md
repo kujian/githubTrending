@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [rr210/blazeB2](https://github.qdkfweb.cn/rr210-blazeb2/)
-- [artsyfriedchicken/EdgyArc-fr](https://github.qdkfweb.cn/artsyfriedchicken-edgyarc-fr/)
-- [hammerjs/hammer.js](https://github.qdkfweb.cn/hammerjs-hammer-js/)
-- [zed-industries/extensions](https://github.qdkfweb.cn/zed-industries-extensions/)
-- [julienbourdeau/debugbar](https://github.qdkfweb.cn/julienbourdeau-debugbar/)
+- [FRC2834/blackhawks-scouting](https://github.qdkfweb.cn/frc2834-blackhawks-scouting/)
+- [joeroe/risotto](https://github.qdkfweb.cn/joeroe-risotto/)
+- [SoftUni/Programming-Basics-Book-Python-BG](https://github.qdkfweb.cn/softuni-programming-basics-book-python-bg/)
+- [Zarbalou/ilyass-port](https://github.qdkfweb.cn/zarbalou-ilyass-port/)
+- [bmFtZQ/edge-frfox](https://github.qdkfweb.cn/bmftzq-edge-frfox/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
