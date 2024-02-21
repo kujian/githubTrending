@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [YunYouJun/ai-sfc](https://github.qdkfweb.cn/yunyoujun-ai-sfc/)
-- [catsats/backpack_exchange](https://github.qdkfweb.cn/catsats-backpack_exchange/)
-- [mut-ex/gligen-gui](https://github.qdkfweb.cn/mut-ex-gligen-gui/)
-- [FRC2834/blackhawks-scouting](https://github.qdkfweb.cn/frc2834-blackhawks-scouting/)
-- [joeroe/risotto](https://github.qdkfweb.cn/joeroe-risotto/)
+- [Kukaina/DnsTools](https://github.qdkfweb.cn/kukaina-dnstools/)
+- [bgola/bikeanjo](https://github.qdkfweb.cn/bgola-bikeanjo/)
+- [XNM1/linux-nixos-hyprland-config-dotfiles](https://github.qdkfweb.cn/xnm1-linux-nixos-hyprland-config-dotfiles/)
+- [nextcloud/spreed](https://github.qdkfweb.cn/nextcloud-spreed/)
+- [yize8888/maotai](https://github.qdkfweb.cn/yize8888-maotai/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
