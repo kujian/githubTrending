@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Kukaina/DnsTools](https://github.qdkfweb.cn/kukaina-dnstools/)
-- [bgola/bikeanjo](https://github.qdkfweb.cn/bgola-bikeanjo/)
-- [XNM1/linux-nixos-hyprland-config-dotfiles](https://github.qdkfweb.cn/xnm1-linux-nixos-hyprland-config-dotfiles/)
-- [nextcloud/spreed](https://github.qdkfweb.cn/nextcloud-spreed/)
-- [yize8888/maotai](https://github.qdkfweb.cn/yize8888-maotai/)
+- [sidd-harth/mule4-mcd-level2](https://github.qdkfweb.cn/sidd-harth-mule4-mcd-level2/)
+- [SkylineCommunications/dataminer-docs-connectors](https://github.qdkfweb.cn/skylinecommunications-dataminer-docs-connectors/)
+- [bgao/express-boilerplate](https://github.qdkfweb.cn/bgao-express-boilerplate/)
+- [kazemnejad/jekyll-course-website-template](https://github.qdkfweb.cn/kazemnejad-jekyll-course-website-template/)
+- [zapll/chatgpt-next-share](https://github.qdkfweb.cn/zapll-chatgpt-next-share/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
