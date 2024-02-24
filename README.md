@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [statick88/lista-compras-svelte](https://github.qdkfweb.cn/statick88-lista-compras-svelte/)
-- [HyperPlay-Gaming/hyperplay-desktop-client](https://github.qdkfweb.cn/hyperplay-gaming-hyperplay-desktop-client/)
-- [Shploop/Blooket-Cheats](https://github.qdkfweb.cn/shploop-blooket-cheats/)
-- [bradtraversy/property-pulse](https://github.qdkfweb.cn/bradtraversy-property-pulse/)
-- [IsraC0d33/Proyecto1Marcas](https://github.qdkfweb.cn/israc0d33-proyecto1marcas/)
+- [LvHuaiSheng/gzm-design](https://github.qdkfweb.cn/lvhuaisheng-gzm-design/)
+- [uwidcit/info1601a1](https://github.qdkfweb.cn/uwidcit-info1601a1/)
+- [K-Daksh/Exitlag](https://github.qdkfweb.cn/k-daksh-exitlag/)
+- [kawika-git/wechatAPI](https://github.qdkfweb.cn/kawika-git-wechatapi/)
+- [taniagd/Ejercicios-Intro-HTML—CH38](https://github.qdkfweb.cn/taniagd-ejercicios-intro-html-ch38/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
