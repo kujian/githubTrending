@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [simulaiofficial/simulai](https://github.qdkfweb.cn/simulaiofficial-simulai/)
-- [i7eo/google-translate-select](https://github.qdkfweb.cn/i7eo-google-translate-select/)
-- [YoYoGames/GMEXT-FMOD](https://github.qdkfweb.cn/yoyogames-gmext-fmod/)
-- [codewithsadee/anon-ecommerce-website](https://github.qdkfweb.cn/codewithsadee-anon-ecommerce-website/)
-- [rolling-scopes-school/news-JS](https://github.qdkfweb.cn/rolling-scopes-school-news-js/)
+- [yxhpy/Vue3-Magic-Generator](https://github.qdkfweb.cn/yxhpy-vue3-magic-generator/)
+- [ethereum-optimism/community-hub](https://github.qdkfweb.cn/ethereum-optimism-community-hub/)
+- [chenbimo/yinav](https://github.qdkfweb.cn/chenbimo-yinav/)
+- [Perseus333/One-Fox](https://github.qdkfweb.cn/perseus333-one-fox/)
+- [datawhalechina/hugging-multi-agent](https://github.qdkfweb.cn/datawhalechina-hugging-multi-agent/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
