@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [yxhpy/Vue3-Magic-Generator](https://github.qdkfweb.cn/yxhpy-vue3-magic-generator/)
-- [ethereum-optimism/community-hub](https://github.qdkfweb.cn/ethereum-optimism-community-hub/)
-- [chenbimo/yinav](https://github.qdkfweb.cn/chenbimo-yinav/)
-- [Perseus333/One-Fox](https://github.qdkfweb.cn/perseus333-one-fox/)
-- [datawhalechina/hugging-multi-agent](https://github.qdkfweb.cn/datawhalechina-hugging-multi-agent/)
+- [lelandrichardson/knockout-paged](https://github.qdkfweb.cn/lelandrichardson-knockout-paged/)
+- [textmate/themes.tmbundle](https://github.qdkfweb.cn/textmate-themes-tmbundle/)
+- [kallewoof/bitcoin-faucet](https://github.qdkfweb.cn/kallewoof-bitcoin-faucet/)
+- [taniagd/Ejercicios-Intro-CSS-CH38](https://github.qdkfweb.cn/taniagd-ejercicios-intro-css-ch38/)
+- [ninjas-code-official/food-delivery-multivendor](https://github.qdkfweb.cn/ninjas-code-official-food-delivery-multivendor/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
