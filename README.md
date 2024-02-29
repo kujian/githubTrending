@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [lelandrichardson/knockout-paged](https://github.qdkfweb.cn/lelandrichardson-knockout-paged/)
-- [textmate/themes.tmbundle](https://github.qdkfweb.cn/textmate-themes-tmbundle/)
-- [kallewoof/bitcoin-faucet](https://github.qdkfweb.cn/kallewoof-bitcoin-faucet/)
-- [taniagd/Ejercicios-Intro-CSS-CH38](https://github.qdkfweb.cn/taniagd-ejercicios-intro-css-ch38/)
-- [ninjas-code-official/food-delivery-multivendor](https://github.qdkfweb.cn/ninjas-code-official-food-delivery-multivendor/)
+- [jiaming743/DataV](https://github.qdkfweb.cn/jiaming743-datav/)
+- [MariiaH1/todo-app-starter](https://github.qdkfweb.cn/mariiah1-todo-app-starter/)
+- [janily/background-erase](https://github.qdkfweb.cn/janily-background-erase/)
+- [gethyas/doks](https://github.qdkfweb.cn/gethyas-doks/)
+- [tensorchord/ai-infra-landscape](https://github.qdkfweb.cn/tensorchord-ai-infra-landscape/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
