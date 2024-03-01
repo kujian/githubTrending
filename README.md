@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [jiaming743/DataV](https://github.qdkfweb.cn/jiaming743-datav/)
-- [MariiaH1/todo-app-starter](https://github.qdkfweb.cn/mariiah1-todo-app-starter/)
-- [janily/background-erase](https://github.qdkfweb.cn/janily-background-erase/)
-- [gethyas/doks](https://github.qdkfweb.cn/gethyas-doks/)
-- [tensorchord/ai-infra-landscape](https://github.qdkfweb.cn/tensorchord-ai-infra-landscape/)
+- [diydiagnostics/DesktopTestRepository](https://github.qdkfweb.cn/diydiagnostics-desktoptestrepository/)
+- [diydiagnostics/App4-Base_Code](https://github.qdkfweb.cn/diydiagnostics-app4-base_code/)
+- [nrxschool/bootcamp-optimism](https://github.qdkfweb.cn/nrxschool-bootcamp-optimism/)
+- [JayZeeDesign/realtime-conversation-copilot](https://github.qdkfweb.cn/jayzeedesign-realtime-conversation-copilot/)
+- [aws-samples/public-file-browser-for-amazon-s3](https://github.qdkfweb.cn/aws-samples-public-file-browser-for-amazon-s3/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
