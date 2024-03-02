@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [diydiagnostics/DesktopTestRepository](https://github.qdkfweb.cn/diydiagnostics-desktoptestrepository/)
-- [diydiagnostics/App4-Base_Code](https://github.qdkfweb.cn/diydiagnostics-app4-base_code/)
-- [nrxschool/bootcamp-optimism](https://github.qdkfweb.cn/nrxschool-bootcamp-optimism/)
-- [JayZeeDesign/realtime-conversation-copilot](https://github.qdkfweb.cn/jayzeedesign-realtime-conversation-copilot/)
-- [aws-samples/public-file-browser-for-amazon-s3](https://github.qdkfweb.cn/aws-samples-public-file-browser-for-amazon-s3/)
+- [bluenex/baansuan_prannok](https://github.qdkfweb.cn/bluenex-baansuan_prannok/)
+- [acgeospatial/awesome-earthobservation-code](https://github.qdkfweb.cn/acgeospatial-awesome-earthobservation-code/)
+- [cyu/rack-cors](https://github.qdkfweb.cn/cyu-rack-cors/)
+- [polyfillpolyfill/fetch](https://github.qdkfweb.cn/polyfillpolyfill-fetch/)
+- [HumanAIGC/emote-portrait-alive](https://github.qdkfweb.cn/humanaigc-emote-portrait-alive/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
