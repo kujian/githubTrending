@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [zDyanTB/HyprNova](https://github.qdkfweb.cn/zdyantb-hyprnova/)
-- [nurilanwaralabsory/laravel-pustik](https://github.qdkfweb.cn/nurilanwaralabsory-laravel-pustik/)
-- [pinceladasdaweb/Frontend-Snippets](https://github.qdkfweb.cn/pinceladasdaweb-frontend-snippets/)
-- [ltlittlekk/OTTO](https://github.qdkfweb.cn/ltlittlekk-otto/)
-- [bluenex/baansuan_prannok](https://github.qdkfweb.cn/bluenex-baansuan_prannok/)
+- [nutui-uniapp/nutui-uniapp](https://github.qdkfweb.cn/nutui-uniapp-nutui-uniapp/)
+- [danaleko/Login-Form-By-Dan-Aleko](https://github.qdkfweb.cn/danaleko-login-form-by-dan-aleko/)
+- [ahmadbilaldev/langui](https://github.qdkfweb.cn/ahmadbilaldev-langui/)
+- [nanographs/Open-Beam-Interface](https://github.qdkfweb.cn/nanographs-open-beam-interface/)
+- [piyush-eon/mern-chat-app](https://github.qdkfweb.cn/piyush-eon-mern-chat-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
