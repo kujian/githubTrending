@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [nutui-uniapp/nutui-uniapp](https://github.qdkfweb.cn/nutui-uniapp-nutui-uniapp/)
-- [danaleko/Login-Form-By-Dan-Aleko](https://github.qdkfweb.cn/danaleko-login-form-by-dan-aleko/)
-- [ahmadbilaldev/langui](https://github.qdkfweb.cn/ahmadbilaldev-langui/)
-- [nanographs/Open-Beam-Interface](https://github.qdkfweb.cn/nanographs-open-beam-interface/)
-- [piyush-eon/mern-chat-app](https://github.qdkfweb.cn/piyush-eon-mern-chat-app/)
+- [nuxt-hub/starter](https://github.qdkfweb.cn/nuxt-hub-starter/)
+- [colleengreene/colleengreene](https://github.qdkfweb.cn/colleengreene-colleengreene/)
+- [10-6-pursuit/lab-css-selectors](https://github.qdkfweb.cn/10-6-pursuit-lab-css-selectors/)
+- [Zproger/bspwm-dotfiles](https://github.qdkfweb.cn/zproger-bspwm-dotfiles/)
+- [ADORSYS-GIS/e2e-banking-app](https://github.qdkfweb.cn/adorsys-gis-e2e-banking-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
