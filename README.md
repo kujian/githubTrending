@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [sugarforever/chat-ollama](https://github.qdkfweb.cn/sugarforever-chat-ollama/)
-- [CodegirlSchool/pomodoro-timer](https://github.qdkfweb.cn/codegirlschool-pomodoro-timer/)
-- [jjoao/h5i](https://github.qdkfweb.cn/jjoao-h5i/)
-- [1amSimp1e/dots](https://github.qdkfweb.cn/1amsimp1e-dots/)
-- [kaloslazo/Habu](https://github.qdkfweb.cn/kaloslazo-habu/)
+- [xzh1730932805/TimeSlotSelector](https://github.qdkfweb.cn/xzh1730932805-timeslotselector/)
+- [Ryujinx/Ryujinx-Website](https://github.qdkfweb.cn/ryujinx-ryujinx-website/)
+- [pineappleEA/pineappleEA.github.io](https://github.qdkfweb.cn/pineappleea-pineappleea-github-io/)
+- [pengp25/RateMySupervisor](https://github.qdkfweb.cn/pengp25-ratemysupervisor/)
+- [hundredblocks/transcription_demo](https://github.qdkfweb.cn/hundredblocks-transcription_demo/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
