@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [xzh1730932805/TimeSlotSelector](https://github.qdkfweb.cn/xzh1730932805-timeslotselector/)
-- [Ryujinx/Ryujinx-Website](https://github.qdkfweb.cn/ryujinx-ryujinx-website/)
-- [pineappleEA/pineappleEA.github.io](https://github.qdkfweb.cn/pineappleea-pineappleea-github-io/)
-- [pengp25/RateMySupervisor](https://github.qdkfweb.cn/pengp25-ratemysupervisor/)
-- [hundredblocks/transcription_demo](https://github.qdkfweb.cn/hundredblocks-transcription_demo/)
+- [yjl9903/resonance-market](https://github.qdkfweb.cn/yjl9903-resonance-market/)
+- [LemmyNet/lemmy-ui](https://github.qdkfweb.cn/lemmynet-lemmy-ui/)
+- [nksaraf/vinxi](https://github.qdkfweb.cn/nksaraf-vinxi/)
+- [barry-ran/QtScrcpy](https://github.qdkfweb.cn/barry-ran-qtscrcpy/)
+- [onevcat/Kingfisher](https://github.qdkfweb.cn/onevcat-kingfisher/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
