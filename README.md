@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [yjl9903/resonance-market](https://github.qdkfweb.cn/yjl9903-resonance-market/)
-- [LemmyNet/lemmy-ui](https://github.qdkfweb.cn/lemmynet-lemmy-ui/)
-- [nksaraf/vinxi](https://github.qdkfweb.cn/nksaraf-vinxi/)
-- [barry-ran/QtScrcpy](https://github.qdkfweb.cn/barry-ran-qtscrcpy/)
-- [onevcat/Kingfisher](https://github.qdkfweb.cn/onevcat-kingfisher/)
+- [naumen-student/naumen.scala.course.2024.spring](https://github.qdkfweb.cn/naumen-student-naumen-scala-course-2024-spring/)
+- [brainsum/cookieconsent](https://github.qdkfweb.cn/brainsum-cookieconsent/)
+- [redphx/better-xcloud](https://github.qdkfweb.cn/redphx-better-xcloud/)
+- [mayfer/claude-app-generator-demo](https://github.qdkfweb.cn/mayfer-claude-app-generator-demo/)
+- [QuivrHQ/quivr](https://github.qdkfweb.cn/quivrhq-quivr/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
