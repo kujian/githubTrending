@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [naumen-student/naumen.scala.course.2024.spring](https://github.qdkfweb.cn/naumen-student-naumen-scala-course-2024-spring/)
-- [brainsum/cookieconsent](https://github.qdkfweb.cn/brainsum-cookieconsent/)
-- [redphx/better-xcloud](https://github.qdkfweb.cn/redphx-better-xcloud/)
-- [mayfer/claude-app-generator-demo](https://github.qdkfweb.cn/mayfer-claude-app-generator-demo/)
-- [QuivrHQ/quivr](https://github.qdkfweb.cn/quivrhq-quivr/)
+- [moyuc1966/netherworld-console](https://github.qdkfweb.cn/moyuc1966-netherworld-console/)
+- [Workintech/fsweb-s7-challenge-pizza](https://github.qdkfweb.cn/workintech-fsweb-s7-challenge-pizza/)
+- [agicto/agi-proxy](https://github.qdkfweb.cn/agicto-agi-proxy/)
+- [fauzan1892/pos-kasir-php](https://github.qdkfweb.cn/fauzan1892-pos-kasir-php/)
+- [McShelby/hugo-theme-relearn](https://github.qdkfweb.cn/mcshelby-hugo-theme-relearn/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
