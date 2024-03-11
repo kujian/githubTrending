@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [moyuc1966/netherworld-console](https://github.qdkfweb.cn/moyuc1966-netherworld-console/)
-- [Workintech/fsweb-s7-challenge-pizza](https://github.qdkfweb.cn/workintech-fsweb-s7-challenge-pizza/)
-- [agicto/agi-proxy](https://github.qdkfweb.cn/agicto-agi-proxy/)
-- [fauzan1892/pos-kasir-php](https://github.qdkfweb.cn/fauzan1892-pos-kasir-php/)
-- [McShelby/hugo-theme-relearn](https://github.qdkfweb.cn/mcshelby-hugo-theme-relearn/)
+- [Holo-Host/host-console-ui](https://github.qdkfweb.cn/holo-host-host-console-ui/)
+- [holochain/launcher](https://github.qdkfweb.cn/holochain-launcher/)
+- [MafernandaMeneses/login](https://github.qdkfweb.cn/mafernandameneses-login/)
+- [ZYYO666/homepage](https://github.qdkfweb.cn/zyyo666-homepage/)
+- [BugBearer/GPT-INT](https://github.qdkfweb.cn/bugbearer-gpt-int/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
