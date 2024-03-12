@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Holo-Host/host-console-ui](https://github.qdkfweb.cn/holo-host-host-console-ui/)
-- [holochain/launcher](https://github.qdkfweb.cn/holochain-launcher/)
-- [MafernandaMeneses/login](https://github.qdkfweb.cn/mafernandameneses-login/)
-- [ZYYO666/homepage](https://github.qdkfweb.cn/zyyo666-homepage/)
-- [BugBearer/GPT-INT](https://github.qdkfweb.cn/bugbearer-gpt-int/)
+- [YangMr/elm-ui](https://github.qdkfweb.cn/yangmr-elm-ui/)
+- [ad-on-is/resticity](https://github.qdkfweb.cn/ad-on-is-resticity/)
+- [Shina-SG/Shina-Fox](https://github.qdkfweb.cn/shina-sg-shina-fox/)
+- [florinsdistortedvision/silverfox](https://github.qdkfweb.cn/florinsdistortedvision-silverfox/)
+- [EricksonAtHome/blackeye](https://github.qdkfweb.cn/ericksonathome-blackeye/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
