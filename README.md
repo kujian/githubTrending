@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [YangMr/v3-ts-project](https://github.qdkfweb.cn/yangmr-v3-ts-project/)
-- [unilei/image-watermark-tool](https://github.qdkfweb.cn/unilei-image-watermark-tool/)
-- [Futur3Sn0w/futur3f0x](https://github.qdkfweb.cn/futur3sn0w-futur3f0x/)
-- [Thilac06/pro](https://github.qdkfweb.cn/thilac06-pro/)
-- [learn-co-curriculum/phase-0-css-fundamentals-lab](https://github.qdkfweb.cn/learn-co-curriculum-phase-0-css-fundamentals-lab/)
+- [Jorky09/iobit-uninstaller-crck](https://github.qdkfweb.cn/jorky09-iobit-uninstaller-crck/)
+- [metabrainz/geordi](https://github.qdkfweb.cn/metabrainz-geordi/)
+- [jumanjiman/puppetcamp_nyc_2013](https://github.qdkfweb.cn/jumanjiman-puppetcamp_nyc_2013/)
+- [sarbajitD-24/zon-coffee](https://github.qdkfweb.cn/sarbajitd-24-zon-coffee/)
+- [vishalsodani/trackactivity](https://github.qdkfweb.cn/vishalsodani-trackactivity/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
