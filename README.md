@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [rnmeow/nekohuan.cyou](https://github.qdkfweb.cn/rnmeow-nekohuan-cyou/)
-- [Phillip-England/templ-quickstart](https://github.qdkfweb.cn/phillip-england-templ-quickstart/)
-- [Abhishekyadav450/CipherGuard](https://github.qdkfweb.cn/abhishekyadav450-cipherguard/)
-- [beeper/themes](https://github.qdkfweb.cn/beeper-themes/)
-- [Mojang/bedrock-protocol-docs](https://github.qdkfweb.cn/mojang-bedrock-protocol-docs/)
+- [trobonox/kanri](https://github.qdkfweb.cn/trobonox-kanri/)
+- [unjs/runtime-compat](https://github.qdkfweb.cn/unjs-runtime-compat/)
+- [LukasLen/Privacy-Extension-For-WhatsApp-Web](https://github.qdkfweb.cn/lukaslen-privacy-extension-for-whatsapp-web/)
+- [adityanavgurukul/weather-app-group4](https://github.qdkfweb.cn/adityanavgurukul-weather-app-group4/)
+- [gathpadeepak/ZeroOneCodeClub_FirstWebDevProject](https://github.qdkfweb.cn/gathpadeepak-zeroonecodeclub_firstwebdevproject/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
