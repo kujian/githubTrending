@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [trobonox/kanri](https://github.qdkfweb.cn/trobonox-kanri/)
-- [unjs/runtime-compat](https://github.qdkfweb.cn/unjs-runtime-compat/)
-- [LukasLen/Privacy-Extension-For-WhatsApp-Web](https://github.qdkfweb.cn/lukaslen-privacy-extension-for-whatsapp-web/)
-- [adityanavgurukul/weather-app-group4](https://github.qdkfweb.cn/adityanavgurukul-weather-app-group4/)
-- [gathpadeepak/ZeroOneCodeClub_FirstWebDevProject](https://github.qdkfweb.cn/gathpadeepak-zeroonecodeclub_firstwebdevproject/)
+- [narasimhareddyprostack/March-FS-5](https://github.qdkfweb.cn/narasimhareddyprostack-march-fs-5/)
+- [edouard-gv/ue22-p23-web-calculator](https://github.qdkfweb.cn/edouard-gv-ue22-p23-web-calculator/)
+- [TheBridge-FullStackDeveloper/react-poke](https://github.qdkfweb.cn/thebridge-fullstackdeveloper-react-poke/)
+- [aprxi/letsbuild-ai](https://github.qdkfweb.cn/aprxi-letsbuild-ai/)
+- [bradtraversy/react-crash-2024](https://github.qdkfweb.cn/bradtraversy-react-crash-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
