@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Hyizhou1/tg_hongbao](https://github.qdkfweb.cn/hyizhou1-tg_hongbao/)
-- [palxiao/poster-design](https://github.qdkfweb.cn/palxiao-poster-design/)
-- [typicode/mistcss](https://github.qdkfweb.cn/typicode-mistcss/)
-- [yesmore/vmail](https://github.qdkfweb.cn/yesmore-vmail/)
-- [CISOfy/lynis](https://github.qdkfweb.cn/cisofy-lynis/)
+- [hussein4alaa/laravel-g4t-swagger-auto-generate](https://github.qdkfweb.cn/hussein4alaa-laravel-g4t-swagger-auto-generate/)
+- [MrVivekRajan/Hypr-Dots](https://github.qdkfweb.cn/mrvivekrajan-hypr-dots/)
+- [mist64/64er-magazin.de](https://github.qdkfweb.cn/mist64-64er-magazin-de/)
+- [Xtremilicious/projectlearn-project-based-learning](https://github.qdkfweb.cn/xtremilicious-projectlearn-project-based-learning/)
+- [ThePrimeagen/fem-git](https://github.qdkfweb.cn/theprimeagen-fem-git/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
