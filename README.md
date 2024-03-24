@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [hussein4alaa/laravel-g4t-swagger-auto-generate](https://github.qdkfweb.cn/hussein4alaa-laravel-g4t-swagger-auto-generate/)
-- [MrVivekRajan/Hypr-Dots](https://github.qdkfweb.cn/mrvivekrajan-hypr-dots/)
-- [mist64/64er-magazin.de](https://github.qdkfweb.cn/mist64-64er-magazin-de/)
-- [Xtremilicious/projectlearn-project-based-learning](https://github.qdkfweb.cn/xtremilicious-projectlearn-project-based-learning/)
-- [ThePrimeagen/fem-git](https://github.qdkfweb.cn/theprimeagen-fem-git/)
+- [snoozbuster/is-smm-beaten-yet](https://github.qdkfweb.cn/snoozbuster-is-smm-beaten-yet/)
+- [CodeSpace-Academy/Module_4_StudentNo_Classcode_Group_Name-Surname_SDF04](https://github.qdkfweb.cn/codespace-academy-module_4_studentno_classcode_group_name-surname_sdf04/)
+- [rootknight/Miniflux-Theme-Reeder](https://github.qdkfweb.cn/rootknight-miniflux-theme-reeder/)
+- [christian7gonzalez/davinci-resolve-studio-18-download](https://github.qdkfweb.cn/christian7gonzalez-davinci-resolve-studio-18-download/)
+- [Darshika-Mishra/CBTCIP-2](https://github.qdkfweb.cn/darshika-mishra-cbtcip-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
