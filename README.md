@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [snoozbuster/is-smm-beaten-yet](https://github.qdkfweb.cn/snoozbuster-is-smm-beaten-yet/)
-- [CodeSpace-Academy/Module_4_StudentNo_Classcode_Group_Name-Surname_SDF04](https://github.qdkfweb.cn/codespace-academy-module_4_studentno_classcode_group_name-surname_sdf04/)
-- [rootknight/Miniflux-Theme-Reeder](https://github.qdkfweb.cn/rootknight-miniflux-theme-reeder/)
-- [christian7gonzalez/davinci-resolve-studio-18-download](https://github.qdkfweb.cn/christian7gonzalez-davinci-resolve-studio-18-download/)
-- [Darshika-Mishra/CBTCIP-2](https://github.qdkfweb.cn/darshika-mishra-cbtcip-2/)
+- [EngRobot33/ZED](https://github.qdkfweb.cn/engrobot33-zed/)
+- [una/better-faster-stronger-web-ui](https://github.qdkfweb.cn/una-better-faster-stronger-web-ui/)
+- [jayofelony/pwnagotchi](https://github.qdkfweb.cn/jayofelony-pwnagotchi/)
+- [Snapchat/KeyDB](https://github.qdkfweb.cn/snapchat-keydb/)
+- [jasonppy/VoiceCraft](https://github.qdkfweb.cn/jasonppy-voicecraft/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
