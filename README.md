@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure-Samples/azure-sql-db-developers-workshop](https://github.qdkfweb.cn/azure-samples-azure-sql-db-developers-workshop/)
-- [lindsaymarkward/theadviceshop](https://github.qdkfweb.cn/lindsaymarkward-theadviceshop/)
-- [Chotifz/Hotel-harisenin](https://github.qdkfweb.cn/chotifz-hotel-harisenin/)
-- [Codewithshobhit/Happy-Holi-Animation-Using-HTML-And-CSS](https://github.qdkfweb.cn/codewithshobhit-happy-holi-animation-using-html-and-css/)
-- [susam/fxyt](https://github.qdkfweb.cn/susam-fxyt/)
+- [phamvulinh18/thutinh](https://github.qdkfweb.cn/phamvulinh18-thutinh/)
+- [techeonn/crush](https://github.qdkfweb.cn/techeonn-crush/)
+- [0-RTT/telegraph](https://github.qdkfweb.cn/0-rtt-telegraph/)
+- [LeoDJ/FW-EC-DongleHiderPlus](https://github.qdkfweb.cn/leodj-fw-ec-donglehiderplus/)
+- [sahir2k/twitter_face_swap](https://github.qdkfweb.cn/sahir2k-twitter_face_swap/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
