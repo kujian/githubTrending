@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [phamvulinh18/thutinh](https://github.qdkfweb.cn/phamvulinh18-thutinh/)
-- [techeonn/crush](https://github.qdkfweb.cn/techeonn-crush/)
-- [0-RTT/telegraph](https://github.qdkfweb.cn/0-rtt-telegraph/)
-- [LeoDJ/FW-EC-DongleHiderPlus](https://github.qdkfweb.cn/leodj-fw-ec-donglehiderplus/)
-- [sahir2k/twitter_face_swap](https://github.qdkfweb.cn/sahir2k-twitter_face_swap/)
+- [ATQQ/sugar-blog](https://github.qdkfweb.cn/atqq-sugar-blog/)
+- [phamvulinh18/HPBD](https://github.qdkfweb.cn/phamvulinh18-hpbd/)
+- [creativetimofficial/argon-dashboard-flask](https://github.qdkfweb.cn/creativetimofficial-argon-dashboard-flask/)
+- [gorbadil/Cohort2OfficeHours](https://github.qdkfweb.cn/gorbadil-cohort2officehours/)
+- [a9fm/a9fm.github.io](https://github.qdkfweb.cn/a9fm-a9fm-github-io/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
