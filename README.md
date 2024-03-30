@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [incentius-foss/WhatTheDuck](https://github.qdkfweb.cn/incentius-foss-whattheduck/)
-- [prs-teacher/LayoutParts-Part2](https://github.qdkfweb.cn/prs-teacher-layoutparts-part2/)
-- [creativetimofficial/material-dashboard-laravel-bs4](https://github.qdkfweb.cn/creativetimofficial-material-dashboard-laravel-bs4/)
-- [arcba/DDS-Ejercicio-Matriculacion](https://github.qdkfweb.cn/arcba-dds-ejercicio-matriculacion/)
-- [Winnie09/GPTCelltype](https://github.qdkfweb.cn/winnie09-gptcelltype/)
+- [CodeLouisville/webdev_c1_knowcheck_01](https://github.qdkfweb.cn/codelouisville-webdev_c1_knowcheck_01/)
+- [mehmetkahya0/temp-mail](https://github.qdkfweb.cn/mehmetkahya0-temp-mail/)
+- [0xeb/TheBigPromptLibrary](https://github.qdkfweb.cn/0xeb-thebigpromptlibrary/)
+- [k1nd0ne/VolWeb](https://github.qdkfweb.cn/k1nd0ne-volweb/)
+- [asyncapi/generator](https://github.qdkfweb.cn/asyncapi-generator/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
