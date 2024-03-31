@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [CodeLouisville/webdev_c1_knowcheck_01](https://github.qdkfweb.cn/codelouisville-webdev_c1_knowcheck_01/)
-- [mehmetkahya0/temp-mail](https://github.qdkfweb.cn/mehmetkahya0-temp-mail/)
-- [0xeb/TheBigPromptLibrary](https://github.qdkfweb.cn/0xeb-thebigpromptlibrary/)
-- [k1nd0ne/VolWeb](https://github.qdkfweb.cn/k1nd0ne-volweb/)
-- [asyncapi/generator](https://github.qdkfweb.cn/asyncapi-generator/)
+- [quarkusio/quarkus-super-heroes](https://github.qdkfweb.cn/quarkusio-quarkus-super-heroes/)
+- [bernardodangelo/CS2-SkinChanger](https://github.qdkfweb.cn/bernardodangelo-cs2-skinchanger/)
+- [iOS17/Jailbreak](https://github.qdkfweb.cn/ios17-jailbreak/)
+- [okta/okta-sdk-java](https://github.qdkfweb.cn/okta-okta-sdk-java/)
+- [syhily/algorithm-anime](https://github.qdkfweb.cn/syhily-algorithm-anime/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
