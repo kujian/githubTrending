@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [quarkusio/quarkus-super-heroes](https://github.qdkfweb.cn/quarkusio-quarkus-super-heroes/)
-- [bernardodangelo/CS2-SkinChanger](https://github.qdkfweb.cn/bernardodangelo-cs2-skinchanger/)
-- [iOS17/Jailbreak](https://github.qdkfweb.cn/ios17-jailbreak/)
-- [okta/okta-sdk-java](https://github.qdkfweb.cn/okta-okta-sdk-java/)
-- [syhily/algorithm-anime](https://github.qdkfweb.cn/syhily-algorithm-anime/)
+- [eslint/config-inspector](https://github.qdkfweb.cn/eslint-config-inspector/)
+- [york11122/quasar-admin-vue3-typescript](https://github.qdkfweb.cn/york11122-quasar-admin-vue3-typescript/)
+- [ferdium/ferdium-recipes](https://github.qdkfweb.cn/ferdium-ferdium-recipes/)
+- [CyanVoxel/Obsidian-Notebook-Themes](https://github.qdkfweb.cn/cyanvoxel-obsidian-notebook-themes/)
+- [EPFLXplore/XRE_LeggedRobot_HW](https://github.qdkfweb.cn/epflxplore-xre_leggedrobot_hw/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
