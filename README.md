@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [eslint/config-inspector](https://github.qdkfweb.cn/eslint-config-inspector/)
-- [york11122/quasar-admin-vue3-typescript](https://github.qdkfweb.cn/york11122-quasar-admin-vue3-typescript/)
-- [ferdium/ferdium-recipes](https://github.qdkfweb.cn/ferdium-ferdium-recipes/)
-- [CyanVoxel/Obsidian-Notebook-Themes](https://github.qdkfweb.cn/cyanvoxel-obsidian-notebook-themes/)
-- [EPFLXplore/XRE_LeggedRobot_HW](https://github.qdkfweb.cn/epflxplore-xre_leggedrobot_hw/)
+- [Hardhat-Enterprises/website](https://github.qdkfweb.cn/hardhat-enterprises-website/)
+- [simonw/tools](https://github.qdkfweb.cn/simonw-tools/)
+- [tiangolo/typer](https://github.qdkfweb.cn/tiangolo-typer/)
+- [iv-org/invidious](https://github.qdkfweb.cn/iv-org-invidious/)
+- [TencentARC/BrushNet](https://github.qdkfweb.cn/tencentarc-brushnet/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
