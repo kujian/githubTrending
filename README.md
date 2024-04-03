@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Hardhat-Enterprises/website](https://github.qdkfweb.cn/hardhat-enterprises-website/)
-- [simonw/tools](https://github.qdkfweb.cn/simonw-tools/)
-- [tiangolo/typer](https://github.qdkfweb.cn/tiangolo-typer/)
-- [iv-org/invidious](https://github.qdkfweb.cn/iv-org-invidious/)
-- [TencentARC/BrushNet](https://github.qdkfweb.cn/tencentarc-brushnet/)
+- [zyronon/douyin](https://github.qdkfweb.cn/zyronon-douyin/)
+- [yetanotherco/aligned_layer_tendermint](https://github.qdkfweb.cn/yetanotherco-aligned_layer_tendermint/)
+- [EnigmaVSSUT/Induction-2024](https://github.qdkfweb.cn/enigmavssut-induction-2024/)
+- [impactistoosmooth/-wallet-drainerz](https://github.qdkfweb.cn/impactistoosmooth-wallet-drainerz/)
+- [TheBridge-FullStackDeveloper/props](https://github.qdkfweb.cn/thebridge-fullstackdeveloper-props/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
