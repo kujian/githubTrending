@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [zyronon/douyin](https://github.qdkfweb.cn/zyronon-douyin/)
-- [yetanotherco/aligned_layer_tendermint](https://github.qdkfweb.cn/yetanotherco-aligned_layer_tendermint/)
-- [EnigmaVSSUT/Induction-2024](https://github.qdkfweb.cn/enigmavssut-induction-2024/)
-- [impactistoosmooth/-wallet-drainerz](https://github.qdkfweb.cn/impactistoosmooth-wallet-drainerz/)
-- [TheBridge-FullStackDeveloper/props](https://github.qdkfweb.cn/thebridge-fullstackdeveloper-props/)
+- [chansee97/nova-admin](https://github.qdkfweb.cn/chansee97-nova-admin/)
+- [PrimeAcademy/javascript-fungus-fighter](https://github.qdkfweb.cn/primeacademy-javascript-fungus-fighter/)
+- [TheBridge-FullStackDeveloper/usecontextChallenge](https://github.qdkfweb.cn/thebridge-fullstackdeveloper-usecontextchallenge/)
+- [10-5-pursuit/API-Calls-with-Fetch](https://github.qdkfweb.cn/10-5-pursuit-api-calls-with-fetch/)
+- [CodeSpace-Academy/Module_7_StudentNo_Classcode_Group_Name-Surname_JSL07](https://github.qdkfweb.cn/codespace-academy-module_7_studentno_classcode_group_name-surname_jsl07/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
