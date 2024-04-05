@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [chansee97/nova-admin](https://github.qdkfweb.cn/chansee97-nova-admin/)
-- [PrimeAcademy/javascript-fungus-fighter](https://github.qdkfweb.cn/primeacademy-javascript-fungus-fighter/)
-- [TheBridge-FullStackDeveloper/usecontextChallenge](https://github.qdkfweb.cn/thebridge-fullstackdeveloper-usecontextchallenge/)
-- [10-5-pursuit/API-Calls-with-Fetch](https://github.qdkfweb.cn/10-5-pursuit-api-calls-with-fetch/)
-- [CodeSpace-Academy/Module_7_StudentNo_Classcode_Group_Name-Surname_JSL07](https://github.qdkfweb.cn/codespace-academy-module_7_studentno_classcode_group_name-surname_jsl07/)
+- [lhlyu/vue-virtual-waterfall](https://github.qdkfweb.cn/lhlyu-vue-virtual-waterfall/)
+- [OnZeng/chatgpt-allai-client](https://github.qdkfweb.cn/onzeng-chatgpt-allai-client/)
+- [fjykTec/ModernWMS](https://github.qdkfweb.cn/fjyktec-modernwms/)
+- [antonreshetov/timefall](https://github.qdkfweb.cn/antonreshetov-timefall/)
+- [dsouloficial/SPA-Universe-](https://github.qdkfweb.cn/dsouloficial-spa-universe/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
