@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [lhlyu/vue-virtual-waterfall](https://github.qdkfweb.cn/lhlyu-vue-virtual-waterfall/)
-- [OnZeng/chatgpt-allai-client](https://github.qdkfweb.cn/onzeng-chatgpt-allai-client/)
-- [fjykTec/ModernWMS](https://github.qdkfweb.cn/fjyktec-modernwms/)
-- [antonreshetov/timefall](https://github.qdkfweb.cn/antonreshetov-timefall/)
-- [dsouloficial/SPA-Universe-](https://github.qdkfweb.cn/dsouloficial-spa-universe/)
+- [tranxuanthang/lrcget](https://github.qdkfweb.cn/tranxuanthang-lrcget/)
+- [stephenjason89/NuxtVGP](https://github.qdkfweb.cn/stephenjason89-nuxtvgp/)
+- [ExpTechTW/TREM-tauri](https://github.qdkfweb.cn/exptechtw-trem-tauri/)
+- [K3rr/PandaBuy](https://github.qdkfweb.cn/k3rr-pandabuy/)
+- [CodeSpace-Academy/Module_3_StudentNo_Classcode_Group_Name-Surname_SDF03](https://github.qdkfweb.cn/codespace-academy-module_3_studentno_classcode_group_name-surname_sdf03/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
