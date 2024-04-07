@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [tranxuanthang/lrcget](https://github.qdkfweb.cn/tranxuanthang-lrcget/)
-- [stephenjason89/NuxtVGP](https://github.qdkfweb.cn/stephenjason89-nuxtvgp/)
-- [ExpTechTW/TREM-tauri](https://github.qdkfweb.cn/exptechtw-trem-tauri/)
-- [K3rr/PandaBuy](https://github.qdkfweb.cn/k3rr-pandabuy/)
-- [CodeSpace-Academy/Module_3_StudentNo_Classcode_Group_Name-Surname_SDF03](https://github.qdkfweb.cn/codespace-academy-module_3_studentno_classcode_group_name-surname_sdf03/)
+- [DependencyTrack/frontend](https://github.qdkfweb.cn/dependencytrack-frontend/)
+- [geoglify/geoglify](https://github.qdkfweb.cn/geoglify-geoglify/)
+- [ljxi/Cloudflare-R2-oss](https://github.qdkfweb.cn/ljxi-cloudflare-r2-oss/)
+- [Flosciante/nuxt-image-gallery](https://github.qdkfweb.cn/flosciante-nuxt-image-gallery/)
+- [itscodenation/int-u4l6-23-24-student-exercises](https://github.qdkfweb.cn/itscodenation-int-u4l6-23-24-student-exercises/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
