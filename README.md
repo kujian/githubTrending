@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Frontesque/scrcpy-plus](https://github.qdkfweb.cn/frontesque-scrcpy-plus/)
-- [techeonn/lifeline-Shradha-kapoor](https://github.qdkfweb.cn/techeonn-lifeline-shradha-kapoor/)
-- [RedByte1337/GraphSpy](https://github.qdkfweb.cn/redbyte1337-graphspy/)
-- [kolbytn/mindcraft](https://github.qdkfweb.cn/kolbytn-mindcraft/)
-- [curtisf/logger](https://github.qdkfweb.cn/curtisf-logger/)
+- [CodegirlSchool/shopping-list](https://github.qdkfweb.cn/codegirlschool-shopping-list/)
+- [devemdobro/projeto-gta](https://github.qdkfweb.cn/devemdobro-projeto-gta/)
+- [novice88/jetbra-server-rust](https://github.qdkfweb.cn/novice88-jetbra-server-rust/)
+- [namastedev/namaste-frontend-system-design](https://github.qdkfweb.cn/namastedev-namaste-frontend-system-design/)
+- [ircfspace/location](https://github.qdkfweb.cn/ircfspace-location/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
