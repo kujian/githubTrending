@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [CodegirlSchool/shopping-list](https://github.qdkfweb.cn/codegirlschool-shopping-list/)
-- [devemdobro/projeto-gta](https://github.qdkfweb.cn/devemdobro-projeto-gta/)
-- [novice88/jetbra-server-rust](https://github.qdkfweb.cn/novice88-jetbra-server-rust/)
-- [namastedev/namaste-frontend-system-design](https://github.qdkfweb.cn/namastedev-namaste-frontend-system-design/)
-- [ircfspace/location](https://github.qdkfweb.cn/ircfspace-location/)
+- [chenjw/hacktools](https://github.qdkfweb.cn/chenjw-hacktools/)
+- [iamstevendao/vue-tel-input](https://github.qdkfweb.cn/iamstevendao-vue-tel-input/)
+- [TheBridge-FullStackDeveloper/hooks](https://github.qdkfweb.cn/thebridge-fullstackdeveloper-hooks/)
+- [piyushsachdeva/10weeksofcloudops](https://github.qdkfweb.cn/piyushsachdeva-10weeksofcloudops/)
+- [tennc/fuzzdb](https://github.qdkfweb.cn/tennc-fuzzdb/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
