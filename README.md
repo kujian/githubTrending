@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [chenjw/hacktools](https://github.qdkfweb.cn/chenjw-hacktools/)
-- [iamstevendao/vue-tel-input](https://github.qdkfweb.cn/iamstevendao-vue-tel-input/)
-- [TheBridge-FullStackDeveloper/hooks](https://github.qdkfweb.cn/thebridge-fullstackdeveloper-hooks/)
-- [piyushsachdeva/10weeksofcloudops](https://github.qdkfweb.cn/piyushsachdeva-10weeksofcloudops/)
-- [tennc/fuzzdb](https://github.qdkfweb.cn/tennc-fuzzdb/)
+- [apache/dubbo-website](https://github.qdkfweb.cn/apache-dubbo-website/)
+- [TheBridge-FullStackDeveloper/redux-task](https://github.qdkfweb.cn/thebridge-fullstackdeveloper-redux-task/)
+- [MuriithiEric/plp-task-management](https://github.qdkfweb.cn/muriithieric-plp-task-management/)
+- [kpman/blog](https://github.qdkfweb.cn/kpman-blog/)
+- [parthwebdev/UI-Components](https://github.qdkfweb.cn/parthwebdev-ui-components/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
