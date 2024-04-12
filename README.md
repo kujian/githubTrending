@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [apache/dubbo-website](https://github.qdkfweb.cn/apache-dubbo-website/)
-- [TheBridge-FullStackDeveloper/redux-task](https://github.qdkfweb.cn/thebridge-fullstackdeveloper-redux-task/)
-- [MuriithiEric/plp-task-management](https://github.qdkfweb.cn/muriithieric-plp-task-management/)
-- [kpman/blog](https://github.qdkfweb.cn/kpman-blog/)
-- [parthwebdev/UI-Components](https://github.qdkfweb.cn/parthwebdev-ui-components/)
+- [day-day-dreamer/threejs-learning](https://github.qdkfweb.cn/day-day-dreamer-threejs-learning/)
+- [insistence/RuoYi-Vue3-FastAPI](https://github.qdkfweb.cn/insistence-ruoyi-vue3-fastapi/)
+- [open-webui/docs](https://github.qdkfweb.cn/open-webui-docs/)
+- [BethMassi/HybridSharedUI](https://github.qdkfweb.cn/bethmassi-hybridsharedui/)
+- [WuSuoV/YioveGetIP](https://github.qdkfweb.cn/wusuov-yiovegetip/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
