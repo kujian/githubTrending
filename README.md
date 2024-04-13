@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [day-day-dreamer/threejs-learning](https://github.qdkfweb.cn/day-day-dreamer-threejs-learning/)
-- [insistence/RuoYi-Vue3-FastAPI](https://github.qdkfweb.cn/insistence-ruoyi-vue3-fastapi/)
-- [open-webui/docs](https://github.qdkfweb.cn/open-webui-docs/)
-- [BethMassi/HybridSharedUI](https://github.qdkfweb.cn/bethmassi-hybridsharedui/)
-- [WuSuoV/YioveGetIP](https://github.qdkfweb.cn/wusuov-yiovegetip/)
+- [ISM6225/Assignment_LookAndFeel](https://github.qdkfweb.cn/ism6225-assignment_lookandfeel/)
+- [ShreyNaithani/Movavi-Free-Crack](https://github.qdkfweb.cn/shreynaithani-movavi-free-crack/)
+- [sapondanaisriwan/AdashimaaTube](https://github.qdkfweb.cn/sapondanaisriwan-adashimaatube/)
+- [github-copilot-workshop/copilot-petclinic](https://github.qdkfweb.cn/github-copilot-workshop-copilot-petclinic/)
+- [naxiaoduo/1000UserGuide](https://github.qdkfweb.cn/naxiaoduo-1000userguide/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
