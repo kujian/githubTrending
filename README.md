@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [ISM6225/Assignment_LookAndFeel](https://github.qdkfweb.cn/ism6225-assignment_lookandfeel/)
-- [ShreyNaithani/Movavi-Free-Crack](https://github.qdkfweb.cn/shreynaithani-movavi-free-crack/)
-- [sapondanaisriwan/AdashimaaTube](https://github.qdkfweb.cn/sapondanaisriwan-adashimaatube/)
-- [github-copilot-workshop/copilot-petclinic](https://github.qdkfweb.cn/github-copilot-workshop-copilot-petclinic/)
-- [naxiaoduo/1000UserGuide](https://github.qdkfweb.cn/naxiaoduo-1000userguide/)
+- [spring-projects/spring-ai](https://github.qdkfweb.cn/spring-projects-spring-ai/)
+- [Lightning-AI/litgpt](https://github.qdkfweb.cn/lightning-ai-litgpt/)
+- [GopeedLab/gopeed](https://github.qdkfweb.cn/gopeedlab-gopeed/)
+- [zed-industries/zed](https://github.qdkfweb.cn/zed-industries-zed/)
+- [TheBridge-FullStackDeveloper/gitData](https://github.qdkfweb.cn/thebridge-fullstackdeveloper-gitdata/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
