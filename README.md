@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [spring-projects/spring-ai](https://github.qdkfweb.cn/spring-projects-spring-ai/)
-- [Lightning-AI/litgpt](https://github.qdkfweb.cn/lightning-ai-litgpt/)
-- [GopeedLab/gopeed](https://github.qdkfweb.cn/gopeedlab-gopeed/)
-- [zed-industries/zed](https://github.qdkfweb.cn/zed-industries-zed/)
-- [TheBridge-FullStackDeveloper/gitData](https://github.qdkfweb.cn/thebridge-fullstackdeveloper-gitdata/)
+- [Bambosh/unofficial-homestuck-collection](https://github.qdkfweb.cn/bambosh-unofficial-homestuck-collection/)
+- [10-5-pursuit/lab-react-state-objects](https://github.qdkfweb.cn/10-5-pursuit-lab-react-state-objects/)
+- [pyOpenSci/python-package-guide](https://github.qdkfweb.cn/pyopensci-python-package-guide/)
+- [mahfuz0001/onyxium-sass](https://github.qdkfweb.cn/mahfuz0001-onyxium-sass/)
+- [tomitokko/ai-blog-article-generator](https://github.qdkfweb.cn/tomitokko-ai-blog-article-generator/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
