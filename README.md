@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Bambosh/unofficial-homestuck-collection](https://github.qdkfweb.cn/bambosh-unofficial-homestuck-collection/)
-- [10-5-pursuit/lab-react-state-objects](https://github.qdkfweb.cn/10-5-pursuit-lab-react-state-objects/)
-- [pyOpenSci/python-package-guide](https://github.qdkfweb.cn/pyopensci-python-package-guide/)
-- [mahfuz0001/onyxium-sass](https://github.qdkfweb.cn/mahfuz0001-onyxium-sass/)
-- [tomitokko/ai-blog-article-generator](https://github.qdkfweb.cn/tomitokko-ai-blog-article-generator/)
+- [JunaidShamnad/SignIn-SignUp-Form](https://github.qdkfweb.cn/junaidshamnad-signin-signup-form/)
+- [FQQD/MCServer-Web-Template](https://github.qdkfweb.cn/fqqd-mcserver-web-template/)
+- [edudark1000/Veteran-Loader-70-Games-Supported](https://github.qdkfweb.cn/edudark1000-veteran-loader-70-games-supported/)
+- [TheBridge-FullStackDeveloper/colors](https://github.qdkfweb.cn/thebridge-fullstackdeveloper-colors/)
+- [NaishengZhang/blog](https://github.qdkfweb.cn/naishengzhang-blog/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
