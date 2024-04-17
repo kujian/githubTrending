@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [JunaidShamnad/SignIn-SignUp-Form](https://github.qdkfweb.cn/junaidshamnad-signin-signup-form/)
-- [FQQD/MCServer-Web-Template](https://github.qdkfweb.cn/fqqd-mcserver-web-template/)
-- [edudark1000/Veteran-Loader-70-Games-Supported](https://github.qdkfweb.cn/edudark1000-veteran-loader-70-games-supported/)
-- [TheBridge-FullStackDeveloper/colors](https://github.qdkfweb.cn/thebridge-fullstackdeveloper-colors/)
-- [NaishengZhang/blog](https://github.qdkfweb.cn/naishengzhang-blog/)
+- [typora/theme.typora.io](https://github.qdkfweb.cn/typora-theme-typora-io/)
+- [Technigo/project-labyrinth-zustand-vite](https://github.qdkfweb.cn/technigo-project-labyrinth-zustand-vite/)
+- [mayanks/wisetrack](https://github.qdkfweb.cn/mayanks-wisetrack/)
+- [Bistutu/FluentRead](https://github.qdkfweb.cn/bistutu-fluentread/)
+- [skydoves/pokedex-compose](https://github.qdkfweb.cn/skydoves-pokedex-compose/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
