@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [typora/theme.typora.io](https://github.qdkfweb.cn/typora-theme-typora-io/)
-- [Technigo/project-labyrinth-zustand-vite](https://github.qdkfweb.cn/technigo-project-labyrinth-zustand-vite/)
-- [mayanks/wisetrack](https://github.qdkfweb.cn/mayanks-wisetrack/)
-- [Bistutu/FluentRead](https://github.qdkfweb.cn/bistutu-fluentread/)
-- [skydoves/pokedex-compose](https://github.qdkfweb.cn/skydoves-pokedex-compose/)
+- [Easterok/telegram-onboarding-kit](https://github.qdkfweb.cn/easterok-telegram-onboarding-kit/)
+- [pinky-pig/arvin](https://github.qdkfweb.cn/pinky-pig-arvin/)
+- [Gurupatil0003/Learn-Ed](https://github.qdkfweb.cn/gurupatil0003-learn-ed/)
+- [tobychui/zoraxy](https://github.qdkfweb.cn/tobychui-zoraxy/)
+- [LondheShubham153/tws-portfolio](https://github.qdkfweb.cn/londheshubham153-tws-portfolio/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
