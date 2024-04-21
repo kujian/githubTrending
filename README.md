@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [kingwrcy/moments](https://github.qdkfweb.cn/kingwrcy-moments/)
-- [classfang/AIHub](https://github.qdkfweb.cn/classfang-aihub/)
-- [xunlu129/teriteri-admin](https://github.qdkfweb.cn/xunlu129-teriteri-admin/)
-- [xunlu129/teriteri-client](https://github.qdkfweb.cn/xunlu129-teriteri-client/)
-- [farzadasgari/CodeSkillz](https://github.qdkfweb.cn/farzadasgari-codeskillz/)
+- [reflex-dev/reflex](https://github.qdkfweb.cn/reflex-dev-reflex/)
+- [PixArt-alpha/PixArt-sigma](https://github.qdkfweb.cn/pixart-alpha-pixart-sigma/)
+- [openai/simple-evals](https://github.qdkfweb.cn/openai-simple-evals/)
+- [gcui-art/suno-api](https://github.qdkfweb.cn/gcui-art-suno-api/)
+- [Azure-Samples/serverless-chat-langchainjs](https://github.qdkfweb.cn/azure-samples-serverless-chat-langchainjs/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
