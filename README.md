@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [reflex-dev/reflex](https://github.qdkfweb.cn/reflex-dev-reflex/)
-- [PixArt-alpha/PixArt-sigma](https://github.qdkfweb.cn/pixart-alpha-pixart-sigma/)
-- [openai/simple-evals](https://github.qdkfweb.cn/openai-simple-evals/)
-- [gcui-art/suno-api](https://github.qdkfweb.cn/gcui-art-suno-api/)
-- [Azure-Samples/serverless-chat-langchainjs](https://github.qdkfweb.cn/azure-samples-serverless-chat-langchainjs/)
+- [aws-samples/generative-ai-use-cases-jp](https://github.qdkfweb.cn/aws-samples-generative-ai-use-cases-jp/)
+- [mikro-orm/mikro-orm](https://github.qdkfweb.cn/mikro-orm-mikro-orm/)
+- [calcom/cal.com](https://github.qdkfweb.cn/calcom-cal-com/)
+- [Vencord/Vesktop](https://github.qdkfweb.cn/vencord-vesktop/)
+- [a2i-code-For-Govstack/sp-service-solutions-frontend](https://github.qdkfweb.cn/a2i-code-for-govstack-sp-service-solutions-frontend/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
