@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [aws-samples/generative-ai-use-cases-jp](https://github.qdkfweb.cn/aws-samples-generative-ai-use-cases-jp/)
-- [mikro-orm/mikro-orm](https://github.qdkfweb.cn/mikro-orm-mikro-orm/)
-- [calcom/cal.com](https://github.qdkfweb.cn/calcom-cal-com/)
-- [Vencord/Vesktop](https://github.qdkfweb.cn/vencord-vesktop/)
-- [a2i-code-For-Govstack/sp-service-solutions-frontend](https://github.qdkfweb.cn/a2i-code-for-govstack-sp-service-solutions-frontend/)
+- [pingdotgg/uploadthing](https://github.qdkfweb.cn/pingdotgg-uploadthing/)
+- [1024-lab/smart-admin](https://github.qdkfweb.cn/1024-lab-smart-admin/)
+- [HelgeSverre/ollama-gui](https://github.qdkfweb.cn/helgesverre-ollama-gui/)
+- [BewlyBewly/BewlyBewly](https://github.qdkfweb.cn/bewlybewly-bewlybewly/)
+- [clashcross/AuroraForV2board](https://github.qdkfweb.cn/clashcross-auroraforv2board/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
