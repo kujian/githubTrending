@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [pingdotgg/uploadthing](https://github.qdkfweb.cn/pingdotgg-uploadthing/)
-- [1024-lab/smart-admin](https://github.qdkfweb.cn/1024-lab-smart-admin/)
-- [HelgeSverre/ollama-gui](https://github.qdkfweb.cn/helgesverre-ollama-gui/)
-- [BewlyBewly/BewlyBewly](https://github.qdkfweb.cn/bewlybewly-bewlybewly/)
-- [clashcross/AuroraForV2board](https://github.qdkfweb.cn/clashcross-auroraforv2board/)
+- [CodeSpace-Academy/JSL_Portfolio_Piece_StudentNo_Classcode_Group_Name-Surname_JSL11](https://github.qdkfweb.cn/codespace-academy-jsl_portfolio_piece_studentno_classcode_group_name-surname_jsl11/)
+- [rustx-labs/effective-rust-cn](https://github.qdkfweb.cn/rustx-labs-effective-rust-cn/)
+- [save-nix-together/open-letter](https://github.qdkfweb.cn/save-nix-together-open-letter/)
+- [lrita/lrita.github.io](https://github.qdkfweb.cn/lrita-lrita-github-io/)
+- [themesberg/landwind](https://github.qdkfweb.cn/themesberg-landwind/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
