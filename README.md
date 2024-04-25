@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [CodeSpace-Academy/JSL_Portfolio_Piece_StudentNo_Classcode_Group_Name-Surname_JSL11](https://github.qdkfweb.cn/codespace-academy-jsl_portfolio_piece_studentno_classcode_group_name-surname_jsl11/)
-- [rustx-labs/effective-rust-cn](https://github.qdkfweb.cn/rustx-labs-effective-rust-cn/)
-- [save-nix-together/open-letter](https://github.qdkfweb.cn/save-nix-together-open-letter/)
-- [lrita/lrita.github.io](https://github.qdkfweb.cn/lrita-lrita-github-io/)
-- [themesberg/landwind](https://github.qdkfweb.cn/themesberg-landwind/)
+- [toeverything/blocksuite](https://github.qdkfweb.cn/toeverything-blocksuite/)
+- [shenxiancaiCCC/Vue-Springboot-Library](https://github.qdkfweb.cn/shenxiancaiccc-vue-springboot-library/)
+- [Yandex-Practicum/go_final_project](https://github.qdkfweb.cn/yandex-practicum-go_final_project/)
+- [gromo/jquery.scrollbar](https://github.qdkfweb.cn/gromo-jquery-scrollbar/)
+- [rhildred/UX308PracticeFinal](https://github.qdkfweb.cn/rhildred-ux308practicefinal/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
