@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [toeverything/blocksuite](https://github.qdkfweb.cn/toeverything-blocksuite/)
-- [shenxiancaiCCC/Vue-Springboot-Library](https://github.qdkfweb.cn/shenxiancaiccc-vue-springboot-library/)
-- [Yandex-Practicum/go_final_project](https://github.qdkfweb.cn/yandex-practicum-go_final_project/)
-- [gromo/jquery.scrollbar](https://github.qdkfweb.cn/gromo-jquery-scrollbar/)
-- [rhildred/UX308PracticeFinal](https://github.qdkfweb.cn/rhildred-ux308practicefinal/)
+- [total-typescript/total-typescript-book](https://github.qdkfweb.cn/total-typescript-total-typescript-book/)
+- [xororz/web-realesrgan](https://github.qdkfweb.cn/xororz-web-realesrgan/)
+- [github-copilot-resources/copilot-metrics-viewer](https://github.qdkfweb.cn/github-copilot-resources-copilot-metrics-viewer/)
+- [matthewkent/wedding-website](https://github.qdkfweb.cn/matthewkent-wedding-website/)
+- [IndraMahayana/to-do-List](https://github.qdkfweb.cn/indramahayana-to-do-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
