@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [wasp-lang/wasp](https://github.qdkfweb.cn/wasp-lang-wasp/)
-- [ivanfioravanti/chatbot-ollama](https://github.qdkfweb.cn/ivanfioravanti-chatbot-ollama/)
-- [huggingface/chat-ui](https://github.qdkfweb.cn/huggingface-chat-ui/)
-- [plasmicapp/plasmic](https://github.qdkfweb.cn/plasmicapp-plasmic/)
-- [mempool/mempool](https://github.qdkfweb.cn/mempool-mempool/)
+- [langchain-ai/langgraph](https://github.qdkfweb.cn/langchain-ai-langgraph/)
+- [rhasspy/piper](https://github.qdkfweb.cn/rhasspy-piper/)
+- [TencentARC/InstantMesh](https://github.qdkfweb.cn/tencentarc-instantmesh/)
+- [pytorch/executorch](https://github.qdkfweb.cn/pytorch-executorch/)
+- [lxfater/inpaint-web](https://github.qdkfweb.cn/lxfater-inpaint-web/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
