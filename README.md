@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [langchain-ai/langgraph](https://github.qdkfweb.cn/langchain-ai-langgraph/)
-- [rhasspy/piper](https://github.qdkfweb.cn/rhasspy-piper/)
-- [TencentARC/InstantMesh](https://github.qdkfweb.cn/tencentarc-instantmesh/)
-- [pytorch/executorch](https://github.qdkfweb.cn/pytorch-executorch/)
-- [lxfater/inpaint-web](https://github.qdkfweb.cn/lxfater-inpaint-web/)
+- [vuejs/core](https://github.qdkfweb.cn/vuejs-core/)
+- [mui/mui-x](https://github.qdkfweb.cn/mui-mui-x/)
+- [labring/FastGPT](https://github.qdkfweb.cn/labring-fastgpt/)
+- [shion-app/shion](https://github.qdkfweb.cn/shion-app-shion/)
+- [elidianaandrade/dio-lab-portfolio](https://github.qdkfweb.cn/elidianaandrade-dio-lab-portfolio/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
