@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [vuejs/core](https://github.qdkfweb.cn/vuejs-core/)
-- [mui/mui-x](https://github.qdkfweb.cn/mui-mui-x/)
-- [labring/FastGPT](https://github.qdkfweb.cn/labring-fastgpt/)
-- [shion-app/shion](https://github.qdkfweb.cn/shion-app-shion/)
-- [elidianaandrade/dio-lab-portfolio](https://github.qdkfweb.cn/elidianaandrade-dio-lab-portfolio/)
+- [run-llama/create-llama](https://github.qdkfweb.cn/run-llama-create-llama/)
+- [latentcat/latentbox](https://github.qdkfweb.cn/latentcat-latentbox/)
+- [ibm-developer-skills-network/grihf-frontend_capstone_starter_code](https://github.qdkfweb.cn/ibm-developer-skills-network-grihf-frontend_capstone_starter_code/)
+- [gunners6518/Netflix-clone](https://github.qdkfweb.cn/gunners6518-netflix-clone/)
+- [WinTenDev/ZiziBot-Engine](https://github.qdkfweb.cn/wintendev-zizibot-engine/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
