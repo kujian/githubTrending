@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [measuredco/puck](https://github.qdkfweb.cn/measuredco-puck/)
-- [TacoGuy21/ByeBlocker](https://github.qdkfweb.cn/tacoguy21-byeblocker/)
-- [macadmins/sofa](https://github.qdkfweb.cn/macadmins-sofa/)
-- [iGaoWei/BigDataView](https://github.qdkfweb.cn/igaowei-bigdataview/)
-- [module-federation/core](https://github.qdkfweb.cn/module-federation-core/)
+- [documenso/documenso](https://github.qdkfweb.cn/documenso-documenso/)
+- [microsoft/typespec](https://github.qdkfweb.cn/microsoft-typespec/)
+- [dream-num/univer](https://github.qdkfweb.cn/dream-num-univer/)
+- [efemkay/obsidian-modular-css-layout](https://github.qdkfweb.cn/efemkay-obsidian-modular-css-layout/)
+- [hydralauncher/hydra-website](https://github.qdkfweb.cn/hydralauncher-hydra-website/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
