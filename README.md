@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [documenso/documenso](https://github.qdkfweb.cn/documenso-documenso/)
-- [microsoft/typespec](https://github.qdkfweb.cn/microsoft-typespec/)
-- [dream-num/univer](https://github.qdkfweb.cn/dream-num-univer/)
-- [efemkay/obsidian-modular-css-layout](https://github.qdkfweb.cn/efemkay-obsidian-modular-css-layout/)
-- [hydralauncher/hydra-website](https://github.qdkfweb.cn/hydralauncher-hydra-website/)
+- [HugoRCD/canvas](https://github.qdkfweb.cn/hugorcd-canvas/)
+- [zqliang-01/lego-admin](https://github.qdkfweb.cn/zqliang-01-lego-admin/)
+- [927621BAD019/IBM-PROJECT—MALNUTRITION-](https://github.qdkfweb.cn/927621bad019-ibm-project-malnutrition/)
+- [TacoGuy21/Greatsword-V3](https://github.qdkfweb.cn/tacoguy21-greatsword-v3/)
+- [mouricedevs/Gifted-Md](https://github.qdkfweb.cn/mouricedevs-gifted-md/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
