@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [HugoRCD/canvas](https://github.qdkfweb.cn/hugorcd-canvas/)
-- [zqliang-01/lego-admin](https://github.qdkfweb.cn/zqliang-01-lego-admin/)
-- [927621BAD019/IBM-PROJECT—MALNUTRITION-](https://github.qdkfweb.cn/927621bad019-ibm-project-malnutrition/)
-- [TacoGuy21/Greatsword-V3](https://github.qdkfweb.cn/tacoguy21-greatsword-v3/)
-- [mouricedevs/Gifted-Md](https://github.qdkfweb.cn/mouricedevs-gifted-md/)
+- [yangzongzhuan/RuoYi-Cloud-Vue3](https://github.qdkfweb.cn/yangzongzhuan-ruoyi-cloud-vue3/)
+- [Fasoo-LLM-Chat-UI-UX/llmchat-frontend](https://github.qdkfweb.cn/fasoo-llm-chat-ui-ux-llmchat-frontend/)
+- [derisamedia/luci-theme-alpha](https://github.qdkfweb.cn/derisamedia-luci-theme-alpha/)
+- [anuragdevnath/Portfolio](https://github.qdkfweb.cn/anuragdevnath-portfolio/)
+- [The-Marcy-Lab-School/2-2-css-practice-nirvana](https://github.qdkfweb.cn/the-marcy-lab-school-2-2-css-practice-nirvana/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
