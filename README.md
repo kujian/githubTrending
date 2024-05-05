@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [yangzongzhuan/RuoYi-Cloud-Vue3](https://github.qdkfweb.cn/yangzongzhuan-ruoyi-cloud-vue3/)
-- [Fasoo-LLM-Chat-UI-UX/llmchat-frontend](https://github.qdkfweb.cn/fasoo-llm-chat-ui-ux-llmchat-frontend/)
-- [derisamedia/luci-theme-alpha](https://github.qdkfweb.cn/derisamedia-luci-theme-alpha/)
-- [anuragdevnath/Portfolio](https://github.qdkfweb.cn/anuragdevnath-portfolio/)
-- [The-Marcy-Lab-School/2-2-css-practice-nirvana](https://github.qdkfweb.cn/the-marcy-lab-school-2-2-css-practice-nirvana/)
+- [hiddify/hiddify-next](https://github.qdkfweb.cn/hiddify-hiddify-next/)
+- [VRSEN/agency-swarm](https://github.qdkfweb.cn/vrsen-agency-swarm/)
+- [anyproto/anytype-ts](https://github.qdkfweb.cn/anyproto-anytype-ts/)
+- [Aylur/ags](https://github.qdkfweb.cn/aylur-ags/)
+- [CapSoftware/Cap](https://github.qdkfweb.cn/capsoftware-cap/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
