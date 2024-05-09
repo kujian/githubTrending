@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [sst/sst](https://github.qdkfweb.cn/sst-sst/)
-- [baptisteArno/typebot.io](https://github.qdkfweb.cn/baptistearno-typebot-io/)
-- [sachin0987/happy-birthday-css-app](https://github.qdkfweb.cn/sachin0987-happy-birthday-css-app/)
-- [GSAPP-CDP/archive](https://github.qdkfweb.cn/gsapp-cdp-archive/)
-- [emfcamp/numbermanagement](https://github.qdkfweb.cn/emfcamp-numbermanagement/)
+- [run-llama/LlamaIndexTS](https://github.qdkfweb.cn/run-llama-llamaindexts/)
+- [gitbutlerapp/gitbutler](https://github.qdkfweb.cn/gitbutlerapp-gitbutler/)
+- [githubnext/monaspace](https://github.qdkfweb.cn/githubnext-monaspace/)
+- [taozhi1010/nest-admin](https://github.qdkfweb.cn/taozhi1010-nest-admin/)
+- [codewithsadee/weatherio-starter](https://github.qdkfweb.cn/codewithsadee-weatherio-starter/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
