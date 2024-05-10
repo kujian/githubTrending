@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [run-llama/LlamaIndexTS](https://github.qdkfweb.cn/run-llama-llamaindexts/)
-- [gitbutlerapp/gitbutler](https://github.qdkfweb.cn/gitbutlerapp-gitbutler/)
-- [githubnext/monaspace](https://github.qdkfweb.cn/githubnext-monaspace/)
-- [taozhi1010/nest-admin](https://github.qdkfweb.cn/taozhi1010-nest-admin/)
-- [codewithsadee/weatherio-starter](https://github.qdkfweb.cn/codewithsadee-weatherio-starter/)
+- [Lissy93/web-check](https://github.qdkfweb.cn/lissy93-web-check/)
+- [cooderl/wewe-rss](https://github.qdkfweb.cn/cooderl-wewe-rss/)
+- [carlos-paezf/50_Projects_50_days](https://github.qdkfweb.cn/carlos-paezf-50_projects_50_days/)
+- [nikhilkeshava/Online_Inventory_shop](https://github.qdkfweb.cn/nikhilkeshava-online_inventory_shop/)
+- [CodeSpace-Academy/StudentNo_Classcode_Group_Name-Surname_DJS02](https://github.qdkfweb.cn/codespace-academy-studentno_classcode_group_name-surname_djs02/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
