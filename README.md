@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Lissy93/web-check](https://github.qdkfweb.cn/lissy93-web-check/)
-- [cooderl/wewe-rss](https://github.qdkfweb.cn/cooderl-wewe-rss/)
-- [carlos-paezf/50_Projects_50_days](https://github.qdkfweb.cn/carlos-paezf-50_projects_50_days/)
-- [nikhilkeshava/Online_Inventory_shop](https://github.qdkfweb.cn/nikhilkeshava-online_inventory_shop/)
-- [CodeSpace-Academy/StudentNo_Classcode_Group_Name-Surname_DJS02](https://github.qdkfweb.cn/codespace-academy-studentno_classcode_group_name-surname_djs02/)
+- [Eugeny/tabby](https://github.qdkfweb.cn/eugeny-tabby/)
+- [coder/code-server](https://github.qdkfweb.cn/coder-code-server/)
+- [cs-lazy-tools/ChatGPT-On-CS](https://github.qdkfweb.cn/cs-lazy-tools-chatgpt-on-cs/)
+- [openai/openai-assistants-quickstart](https://github.qdkfweb.cn/openai-openai-assistants-quickstart/)
+- [one-click-studio/gabin](https://github.qdkfweb.cn/one-click-studio-gabin/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
