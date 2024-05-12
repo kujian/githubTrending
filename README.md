@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Eugeny/tabby](https://github.qdkfweb.cn/eugeny-tabby/)
-- [coder/code-server](https://github.qdkfweb.cn/coder-code-server/)
-- [cs-lazy-tools/ChatGPT-On-CS](https://github.qdkfweb.cn/cs-lazy-tools-chatgpt-on-cs/)
-- [openai/openai-assistants-quickstart](https://github.qdkfweb.cn/openai-openai-assistants-quickstart/)
-- [one-click-studio/gabin](https://github.qdkfweb.cn/one-click-studio-gabin/)
+- [McGill-NLP/llm2vec](https://github.qdkfweb.cn/mcgill-nlp-llm2vec/)
+- [VikParuchuri/surya](https://github.qdkfweb.cn/vikparuchuri-surya/)
+- [invoke-ai/InvokeAI](https://github.qdkfweb.cn/invoke-ai-invokeai/)
+- [expo/expo](https://github.qdkfweb.cn/expo-expo/)
+- [HimanshuNarware/CareerZunction_Intern](https://github.qdkfweb.cn/himanshunarware-careerzunction_intern/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
