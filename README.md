@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [McGill-NLP/llm2vec](https://github.qdkfweb.cn/mcgill-nlp-llm2vec/)
-- [VikParuchuri/surya](https://github.qdkfweb.cn/vikparuchuri-surya/)
-- [invoke-ai/InvokeAI](https://github.qdkfweb.cn/invoke-ai-invokeai/)
-- [expo/expo](https://github.qdkfweb.cn/expo-expo/)
-- [HimanshuNarware/CareerZunction_Intern](https://github.qdkfweb.cn/himanshunarware-careerzunction_intern/)
+- [siyuan-note/siyuan](https://github.qdkfweb.cn/siyuan-note-siyuan/)
+- [lhrossi/floodMap](https://github.qdkfweb.cn/lhrossi-floodmap/)
+- [cashubtc/cashu.me](https://github.qdkfweb.cn/cashubtc-cashu-me/)
+- [oss-labs/gradus](https://github.qdkfweb.cn/oss-labs-gradus/)
+- [Code-Pop/Real-World-Nuxt-3](https://github.qdkfweb.cn/code-pop-real-world-nuxt-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
