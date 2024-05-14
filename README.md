@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [siyuan-note/siyuan](https://github.qdkfweb.cn/siyuan-note-siyuan/)
-- [lhrossi/floodMap](https://github.qdkfweb.cn/lhrossi-floodmap/)
-- [cashubtc/cashu.me](https://github.qdkfweb.cn/cashubtc-cashu-me/)
-- [oss-labs/gradus](https://github.qdkfweb.cn/oss-labs-gradus/)
-- [Code-Pop/Real-World-Nuxt-3](https://github.qdkfweb.cn/code-pop-real-world-nuxt-3/)
+- [bitwarden/clients](https://github.qdkfweb.cn/bitwarden-clients/)
+- [nongyehong/HuLa-IM-Tauri](https://github.qdkfweb.cn/nongyehong-hula-im-tauri/)
+- [Code-Pop/Touring-Vue-Router-Composition-API](https://github.qdkfweb.cn/code-pop-touring-vue-router-composition-api/)
+- [Code-Pop/build-trello-clone-with-nuxt-3](https://github.qdkfweb.cn/code-pop-build-trello-clone-with-nuxt-3/)
+- [SUGAM-ARORA/UniCollab](https://github.qdkfweb.cn/sugam-arora-unicollab/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
