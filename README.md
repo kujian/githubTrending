@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [disler/omni-complete](https://github.qdkfweb.cn/disler-omni-complete/)
-- [zen-browser/desktop](https://github.qdkfweb.cn/zen-browser-desktop/)
-- [professorrichardson/Agrinho-2024-formacao](https://github.qdkfweb.cn/professorrichardson-agrinho-2024-formacao/)
-- [dkuehl/dkuehl.github.io](https://github.qdkfweb.cn/dkuehl-dkuehl-github-io/)
-- [yuriskinfo/cheat-sheets](https://github.qdkfweb.cn/yuriskinfo-cheat-sheets/)
+- [getsentry/sentry-javascript](https://github.qdkfweb.cn/getsentry-sentry-javascript/)
+- [mattermost/mattermost](https://github.qdkfweb.cn/mattermost-mattermost/)
+- [meetqy/aspoem](https://github.qdkfweb.cn/meetqy-aspoem/)
+- [itscodenation/int-u5l2-23-24-student-exercises](https://github.qdkfweb.cn/itscodenation-int-u5l2-23-24-student-exercises/)
+- [creativetimofficial/paper-dashboard](https://github.qdkfweb.cn/creativetimofficial-paper-dashboard/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
