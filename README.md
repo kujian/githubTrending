@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [BuilderIO/mitosis](https://github.qdkfweb.cn/builderio-mitosis/)
-- [actions/attest-build-provenance](https://github.qdkfweb.cn/actions-attest-build-provenance/)
-- [jamebal/jmal-cloud-view](https://github.qdkfweb.cn/jamebal-jmal-cloud-view/)
-- [Hacker233/resume-design](https://github.qdkfweb.cn/hacker233-resume-design/)
-- [antfu-collective/icones](https://github.qdkfweb.cn/antfu-collective-icones/)
+- [weaigc/bingo](https://github.qdkfweb.cn/weaigc-bingo/)
+- [withastro/starlight](https://github.qdkfweb.cn/withastro-starlight/)
+- [taskforcesh/bullmq](https://github.qdkfweb.cn/taskforcesh-bullmq/)
+- [tegonhq/tegon](https://github.qdkfweb.cn/tegonhq-tegon/)
+- [bufferhead-code/onthisday](https://github.qdkfweb.cn/bufferhead-code-onthisday/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
