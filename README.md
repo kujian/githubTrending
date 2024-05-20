@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [weaigc/bingo](https://github.qdkfweb.cn/weaigc-bingo/)
-- [withastro/starlight](https://github.qdkfweb.cn/withastro-starlight/)
-- [taskforcesh/bullmq](https://github.qdkfweb.cn/taskforcesh-bullmq/)
-- [tegonhq/tegon](https://github.qdkfweb.cn/tegonhq-tegon/)
-- [bufferhead-code/onthisday](https://github.qdkfweb.cn/bufferhead-code-onthisday/)
+- [lightdash/lightdash](https://github.qdkfweb.cn/lightdash-lightdash/)
+- [EsunR/Blog-Index](https://github.qdkfweb.cn/esunr-blog-index/)
+- [colinlienard/githundred](https://github.qdkfweb.cn/colinlienard-githundred/)
+- [Adamant-im/adamant-im](https://github.qdkfweb.cn/adamant-im-adamant-im/)
+- [unilei/aipan-netdisk-search](https://github.qdkfweb.cn/unilei-aipan-netdisk-search/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
