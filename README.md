@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [lightdash/lightdash](https://github.qdkfweb.cn/lightdash-lightdash/)
-- [EsunR/Blog-Index](https://github.qdkfweb.cn/esunr-blog-index/)
-- [colinlienard/githundred](https://github.qdkfweb.cn/colinlienard-githundred/)
-- [Adamant-im/adamant-im](https://github.qdkfweb.cn/adamant-im-adamant-im/)
-- [unilei/aipan-netdisk-search](https://github.qdkfweb.cn/unilei-aipan-netdisk-search/)
+- [ztjhz/BetterChatGPT](https://github.qdkfweb.cn/ztjhz-betterchatgpt/)
+- [apache/skywalking-booster-ui](https://github.qdkfweb.cn/apache-skywalking-booster-ui/)
+- [oliver225/thingsboard-ui-vue3](https://github.qdkfweb.cn/oliver225-thingsboard-ui-vue3/)
+- [Artur-Galstyan/statedict2pytree](https://github.qdkfweb.cn/artur-galstyan-statedict2pytree/)
+- [jaganjavid/100-Project](https://github.qdkfweb.cn/jaganjavid-100-project/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
