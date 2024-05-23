@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Bin-Huang/chatbox](https://github.qdkfweb.cn/bin-huang-chatbox/)
-- [openai/openai-node](https://github.qdkfweb.cn/openai-openai-node/)
-- [newmanix/form-processing](https://github.qdkfweb.cn/newmanix-form-processing/)
-- [OCA/crm](https://github.qdkfweb.cn/oca-crm/)
-- [V2RaySSR/Free-VLESS](https://github.qdkfweb.cn/v2rayssr-free-vless/)
+- [EvolutionAPI/evolution-api](https://github.qdkfweb.cn/evolutionapi-evolution-api/)
+- [kysely-org/kysely](https://github.qdkfweb.cn/kysely-org-kysely/)
+- [Canner/WrenAI](https://github.qdkfweb.cn/canner-wrenai/)
+- [hieuhani/techgoda](https://github.qdkfweb.cn/hieuhani-techgoda/)
+- [timothywarner/actions-cert-prep](https://github.qdkfweb.cn/timothywarner-actions-cert-prep/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
