@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [lich0821/WeChatFerry](https://github.qdkfweb.cn/lich0821-wechatferry/)
-- [Shubhamsaboo/awesome-llm-apps](https://github.qdkfweb.cn/shubhamsaboo-awesome-llm-apps/)
-- [Zelda64Recomp/Zelda64Recomp](https://github.qdkfweb.cn/zelda64recomp-zelda64recomp/)
-- [cioraneanu/firefly-pico](https://github.qdkfweb.cn/cioraneanu-firefly-pico/)
-- [microsoft/prompty](https://github.qdkfweb.cn/microsoft-prompty/)
+- [wasp-lang/open-saas](https://github.qdkfweb.cn/wasp-lang-open-saas/)
+- [ifzc/Shkjem](https://github.qdkfweb.cn/ifzc-shkjem/)
+- [bobvinch/comfyui-webdemo](https://github.qdkfweb.cn/bobvinch-comfyui-webdemo/)
+- [RituKumari98/imgIN](https://github.qdkfweb.cn/ritukumari98-imgin/)
+- [lowlighter/matcha](https://github.qdkfweb.cn/lowlighter-matcha/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
