@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [wasp-lang/open-saas](https://github.qdkfweb.cn/wasp-lang-open-saas/)
-- [ifzc/Shkjem](https://github.qdkfweb.cn/ifzc-shkjem/)
-- [bobvinch/comfyui-webdemo](https://github.qdkfweb.cn/bobvinch-comfyui-webdemo/)
-- [RituKumari98/imgIN](https://github.qdkfweb.cn/ritukumari98-imgin/)
-- [lowlighter/matcha](https://github.qdkfweb.cn/lowlighter-matcha/)
+- [Worklenz/worklenz](https://github.qdkfweb.cn/worklenz-worklenz/)
+- [solidSpoon/DashPlayer](https://github.qdkfweb.cn/solidspoon-dashplayer/)
+- [alcorexchange/alcor-ui](https://github.qdkfweb.cn/alcorexchange-alcor-ui/)
+- [Libertai/libertai-website](https://github.qdkfweb.cn/libertai-libertai-website/)
+- [secure-77/Perlite](https://github.qdkfweb.cn/secure-77-perlite/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
