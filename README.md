@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Worklenz/worklenz](https://github.qdkfweb.cn/worklenz-worklenz/)
-- [solidSpoon/DashPlayer](https://github.qdkfweb.cn/solidspoon-dashplayer/)
-- [alcorexchange/alcor-ui](https://github.qdkfweb.cn/alcorexchange-alcor-ui/)
-- [Libertai/libertai-website](https://github.qdkfweb.cn/libertai-libertai-website/)
-- [secure-77/Perlite](https://github.qdkfweb.cn/secure-77-perlite/)
+- [vercel/ai-chatbot](https://github.qdkfweb.cn/vercel-ai-chatbot/)
+- [angular/components](https://github.qdkfweb.cn/angular-components/)
+- [Samadeen/intro-component-with-signup](https://github.qdkfweb.cn/samadeen-intro-component-with-signup/)
+- [Poooooooo01/sirusa](https://github.qdkfweb.cn/poooooooo01-sirusa/)
+- [OpenLake/GitStartedWithUs](https://github.qdkfweb.cn/openlake-gitstartedwithus/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
