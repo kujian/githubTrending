@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [vercel/ai-chatbot](https://github.qdkfweb.cn/vercel-ai-chatbot/)
-- [angular/components](https://github.qdkfweb.cn/angular-components/)
-- [Samadeen/intro-component-with-signup](https://github.qdkfweb.cn/samadeen-intro-component-with-signup/)
-- [Poooooooo01/sirusa](https://github.qdkfweb.cn/poooooooo01-sirusa/)
-- [OpenLake/GitStartedWithUs](https://github.qdkfweb.cn/openlake-gitstartedwithus/)
+- [Openpanel-dev/openpanel](https://github.qdkfweb.cn/openpanel-dev-openpanel/)
+- [solidjs/solid](https://github.qdkfweb.cn/solidjs-solid/)
+- [woowacourse/react-basecamp](https://github.qdkfweb.cn/woowacourse-react-basecamp/)
+- [idgaram/projet1_wild_code_school](https://github.qdkfweb.cn/idgaram-projet1_wild_code_school/)
+- [sbchou/sbchou.github.io](https://github.qdkfweb.cn/sbchou-sbchou-github-io/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
