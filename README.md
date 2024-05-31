@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Openpanel-dev/openpanel](https://github.qdkfweb.cn/openpanel-dev-openpanel/)
-- [solidjs/solid](https://github.qdkfweb.cn/solidjs-solid/)
-- [woowacourse/react-basecamp](https://github.qdkfweb.cn/woowacourse-react-basecamp/)
-- [idgaram/projet1_wild_code_school](https://github.qdkfweb.cn/idgaram-projet1_wild_code_school/)
-- [sbchou/sbchou.github.io](https://github.qdkfweb.cn/sbchou-sbchou-github-io/)
+- [bluesky-social/atproto](https://github.qdkfweb.cn/bluesky-social-atproto/)
+- [promptfoo/promptfoo](https://github.qdkfweb.cn/promptfoo-promptfoo/)
+- [starsliao/TenSunS](https://github.qdkfweb.cn/starsliao-tensuns/)
+- [Hyk260/PureChat](https://github.qdkfweb.cn/hyk260-purechat/)
+- [SiyangLi99/open-alteryx-macro](https://github.qdkfweb.cn/siyangli99-open-alteryx-macro/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
