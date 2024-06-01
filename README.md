@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [bluesky-social/atproto](https://github.qdkfweb.cn/bluesky-social-atproto/)
-- [promptfoo/promptfoo](https://github.qdkfweb.cn/promptfoo-promptfoo/)
-- [starsliao/TenSunS](https://github.qdkfweb.cn/starsliao-tensuns/)
-- [Hyk260/PureChat](https://github.qdkfweb.cn/hyk260-purechat/)
-- [SiyangLi99/open-alteryx-macro](https://github.qdkfweb.cn/siyangli99-open-alteryx-macro/)
+- [langchain-ai/langchain-nextjs-template](https://github.qdkfweb.cn/langchain-ai-langchain-nextjs-template/)
+- [microsoft/fluentui](https://github.qdkfweb.cn/microsoft-fluentui/)
+- [magicuidesign/magicui](https://github.qdkfweb.cn/magicuidesign-magicui/)
+- [jason5ng32/EasyHomePage](https://github.qdkfweb.cn/jason5ng32-easyhomepage/)
+- [fluxus-executor/fluxus-executor.github.io](https://github.qdkfweb.cn/fluxus-executor-fluxus-executor-github-io/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
