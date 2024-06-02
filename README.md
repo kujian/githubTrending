@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [langchain-ai/langchain-nextjs-template](https://github.qdkfweb.cn/langchain-ai-langchain-nextjs-template/)
-- [microsoft/fluentui](https://github.qdkfweb.cn/microsoft-fluentui/)
-- [magicuidesign/magicui](https://github.qdkfweb.cn/magicuidesign-magicui/)
-- [jason5ng32/EasyHomePage](https://github.qdkfweb.cn/jason5ng32-easyhomepage/)
-- [fluxus-executor/fluxus-executor.github.io](https://github.qdkfweb.cn/fluxus-executor-fluxus-executor-github-io/)
+- [vulhub/vulhub](https://github.qdkfweb.cn/vulhub-vulhub/)
+- [outlines-dev/outlines](https://github.qdkfweb.cn/outlines-dev-outlines/)
+- [AIsouler/GKD_subscription](https://github.qdkfweb.cn/aisouler-gkd_subscription/)
+- [hoarder-app/hoarder](https://github.qdkfweb.cn/hoarder-app-hoarder/)
+- [kingwrcy/discussion](https://github.qdkfweb.cn/kingwrcy-discussion/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
