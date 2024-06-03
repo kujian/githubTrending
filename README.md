@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [vulhub/vulhub](https://github.qdkfweb.cn/vulhub-vulhub/)
-- [outlines-dev/outlines](https://github.qdkfweb.cn/outlines-dev-outlines/)
-- [AIsouler/GKD_subscription](https://github.qdkfweb.cn/aisouler-gkd_subscription/)
-- [hoarder-app/hoarder](https://github.qdkfweb.cn/hoarder-app-hoarder/)
-- [kingwrcy/discussion](https://github.qdkfweb.cn/kingwrcy-discussion/)
+- [M-cheng-web/web-tracing](https://github.qdkfweb.cn/m-cheng-web-web-tracing/)
+- [brocoders/nestjs-boilerplate](https://github.qdkfweb.cn/brocoders-nestjs-boilerplate/)
+- [vfarid/v2ray-worker](https://github.qdkfweb.cn/vfarid-v2ray-worker/)
+- [slab/quill](https://github.qdkfweb.cn/slab-quill/)
+- [bsoc-bitbyte/GetIt](https://github.qdkfweb.cn/bsoc-bitbyte-getit/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
