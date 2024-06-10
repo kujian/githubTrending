@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [state-spaces/mamba](https://github.qdkfweb.cn/state-spaces-mamba/)
-- [folke/lazy.nvim](https://github.qdkfweb.cn/folke-lazy-nvim/)
-- [jianchang512/pyvideotrans](https://github.qdkfweb.cn/jianchang512-pyvideotrans/)
-- [rjmacarthy/twinny](https://github.qdkfweb.cn/rjmacarthy-twinny/)
-- [TypeCellOS/BlockNote](https://github.qdkfweb.cn/typecellos-blocknote/)
+- [livekit/livekit](https://github.qdkfweb.cn/livekit-livekit/)
+- [modelscope/FunClip](https://github.qdkfweb.cn/modelscope-funclip/)
+- [termux/termux-app](https://github.qdkfweb.cn/termux-termux-app/)
+- [KenneyNL/Adobe-Alternatives](https://github.qdkfweb.cn/kenneynl-adobe-alternatives/)
+- [hcengineering/platform](https://github.qdkfweb.cn/hcengineering-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
