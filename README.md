@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [excalidraw/excalidraw](https://github.qdkfweb.cn/excalidraw-excalidraw/)
-- [xaboy/form-create-designer](https://github.qdkfweb.cn/xaboy-form-create-designer/)
-- [karpathy/nanoGPT](https://github.qdkfweb.cn/karpathy-nanogpt/)
-- [k2-fsa/sherpa-onnx](https://github.qdkfweb.cn/k2-fsa-sherpa-onnx/)
-- [alist-org/alist](https://github.qdkfweb.cn/alist-org-alist/)
+- [felixmosh/bull-board](https://github.qdkfweb.cn/felixmosh-bull-board/)
+- [logto-io/logto](https://github.qdkfweb.cn/logto-io-logto/)
+- [withastro/astro](https://github.qdkfweb.cn/withastro-astro/)
+- [ShreyamMaity/student-offers](https://github.qdkfweb.cn/shreyammaity-student-offers/)
+- [tc39/proposal-async-context](https://github.qdkfweb.cn/tc39-proposal-async-context/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
