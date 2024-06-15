@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [nuxt/nuxt](https://github.qdkfweb.cn/nuxt-nuxt/)
-- [paulmillr/chokidar](https://github.qdkfweb.cn/paulmillr-chokidar/)
-- [warpdotdev/Warp](https://github.qdkfweb.cn/warpdotdev-warp/)
-- [fchollet/ARC-AGI](https://github.qdkfweb.cn/fchollet-arc-agi/)
-- [yamada-ui/yamada-ui](https://github.qdkfweb.cn/yamada-ui-yamada-ui/)
+- [writer/writer-framework](https://github.qdkfweb.cn/writer-writer-framework/)
+- [hackthegamezjj/Blooket-Hacks](https://github.qdkfweb.cn/hackthegamezjj-blooket-hacks/)
+- [OCA/maintenance](https://github.qdkfweb.cn/oca-maintenance/)
+- [SAP/ui5-webcomponents](https://github.qdkfweb.cn/sap-ui5-webcomponents/)
+- [OpenZeppelin/openzeppelin-contracts-upgradeable](https://github.qdkfweb.cn/openzeppelin-openzeppelin-contracts-upgradeable/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
