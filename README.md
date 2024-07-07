@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [leptonai/search_with_lepton](https://github.qdkfweb.cn/leptonai-search_with_lepton/)
 - [jhuckaby/performa](https://github.qdkfweb.cn/jhuckaby-performa/)
 - [intuitem/ciso-assistant-community](https://github.qdkfweb.cn/intuitem-ciso-assistant-community/)
 - [bencentra/centrarium](https://github.qdkfweb.cn/bencentra-centrarium/)
 - [ComposioHQ/composio](https://github.qdkfweb.cn/composiohq-composio/)
-- [mehdihadeli/awesome-software-architecture](https://github.qdkfweb.cn/mehdihadeli-awesome-software-architecture/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
