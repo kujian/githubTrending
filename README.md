@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [cvat-ai/cvat](https://github.qdkfweb.cn/cvat-ai-cvat/)
-- [evidence-dev/evidence](https://github.qdkfweb.cn/evidence-dev-evidence/)
-- [bevyengine/bevy](https://github.qdkfweb.cn/bevyengine-bevy/)
-- [NVIDIA/TensorRT](https://github.qdkfweb.cn/nvidia-tensorrt/)
-- [WerWolv/ImHex](https://github.qdkfweb.cn/werwolv-imhex/)
+- [morethanwords/tweb](https://github.qdkfweb.cn/morethanwords-tweb/)
+- [primary-theme/obsidian](https://github.qdkfweb.cn/primary-theme-obsidian/)
+- [Dalufishe/palserver-GUI](https://github.qdkfweb.cn/dalufishe-palserver-gui/)
+- [wangrongding/wechat-bot](https://github.qdkfweb.cn/wangrongding-wechat-bot/)
+- [techschool/simplebank](https://github.qdkfweb.cn/techschool-simplebank/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
