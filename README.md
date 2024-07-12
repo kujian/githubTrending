@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [gridstack/gridstack.js](https://github.qdkfweb.cn/gridstack-gridstack-js/)
+- [roimdev/roim-picx](https://github.qdkfweb.cn/roimdev-roim-picx/)
+- [yuliskov/SmartTube](https://github.qdkfweb.cn/yuliskov-smarttube/)
 - [bcakmakoglu/vue-flow](https://github.qdkfweb.cn/bcakmakoglu-vue-flow/)
 - [aurasphere/gomorra-sql](https://github.qdkfweb.cn/aurasphere-gomorra-sql/)
-- [huggingface/transformers](https://github.qdkfweb.cn/huggingface-transformers/)
-- [grpc/grpc-go](https://github.qdkfweb.cn/grpc-grpc-go/)
-- [ethereum-optimism/optimism](https://github.qdkfweb.cn/ethereum-optimism-optimism/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
