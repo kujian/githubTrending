@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [web-infra-dev/rsbuild](https://github.qdkfweb.cn/web-infra-dev-rsbuild/)
-- [apify/crawlee-python](https://github.qdkfweb.cn/apify-crawlee-python/)
-- [bunkerity/bunkerweb](https://github.qdkfweb.cn/bunkerity-bunkerweb/)
-- [gridstack/gridstack.js](https://github.qdkfweb.cn/gridstack-gridstack-js/)
-- [roimdev/roim-picx](https://github.qdkfweb.cn/roimdev-roim-picx/)
+- [Azure-Samples/graphrag-accelerator](https://github.qdkfweb.cn/azure-samples-graphrag-accelerator/)
+- [JSv4/OpenContracts](https://github.qdkfweb.cn/jsv4-opencontracts/)
+- [Chainlit/chainlit](https://github.qdkfweb.cn/chainlit-chainlit/)
+- [panaverse/learn-typescript](https://github.qdkfweb.cn/panaverse-learn-typescript/)
+- [PaddlePaddle/PaddleOCR](https://github.qdkfweb.cn/paddlepaddle-paddleocr/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
