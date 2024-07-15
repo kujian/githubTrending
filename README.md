@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure-Samples/graphrag-accelerator](https://github.qdkfweb.cn/azure-samples-graphrag-accelerator/)
-- [JSv4/OpenContracts](https://github.qdkfweb.cn/jsv4-opencontracts/)
-- [Chainlit/chainlit](https://github.qdkfweb.cn/chainlit-chainlit/)
-- [panaverse/learn-typescript](https://github.qdkfweb.cn/panaverse-learn-typescript/)
-- [PaddlePaddle/PaddleOCR](https://github.qdkfweb.cn/paddlepaddle-paddleocr/)
+- [NVIDIA/warp](https://github.qdkfweb.cn/nvidia-warp/)
+- [AleoNet/snarkOS](https://github.qdkfweb.cn/aleonet-snarkos/)
+- [vanna-ai/vanna](https://github.qdkfweb.cn/vanna-ai-vanna/)
+- [tigerbeetle/tigerbeetle](https://github.qdkfweb.cn/tigerbeetle-tigerbeetle/)
+- [vitest-dev/vitest](https://github.qdkfweb.cn/vitest-dev-vitest/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
