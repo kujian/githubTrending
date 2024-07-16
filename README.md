@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Tencent/wujie](https://github.qdkfweb.cn/tencent-wujie/)
+- [caorushizi/mediago](https://github.qdkfweb.cn/caorushizi-mediago/)
+- [neo4j-labs/llm-graph-builder](https://github.qdkfweb.cn/neo4j-labs-llm-graph-builder/)
+- [SagerNet/sing-box](https://github.qdkfweb.cn/sagernet-sing-box/)
 - [NVIDIA/warp](https://github.qdkfweb.cn/nvidia-warp/)
-- [AleoNet/snarkOS](https://github.qdkfweb.cn/aleonet-snarkos/)
-- [vanna-ai/vanna](https://github.qdkfweb.cn/vanna-ai-vanna/)
-- [tigerbeetle/tigerbeetle](https://github.qdkfweb.cn/tigerbeetle-tigerbeetle/)
-- [vitest-dev/vitest](https://github.qdkfweb.cn/vitest-dev-vitest/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
