@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [resend/react-email](https://github.qdkfweb.cn/resend-react-email/)
+- [trigaten/The_Prompt_Report](https://github.qdkfweb.cn/trigaten-the_prompt_report/)
+- [mem0ai/mem0](https://github.qdkfweb.cn/mem0ai-mem0/)
+- [goldmansachs/gs-quant](https://github.qdkfweb.cn/goldmansachs-gs-quant/)
 - [GitbookIO/gitbook](https://github.qdkfweb.cn/gitbookio-gitbook/)
-- [zxwk1998/vue-admin-better](https://github.qdkfweb.cn/zxwk1998-vue-admin-better/)
-- [SoftFever/OrcaSlicer](https://github.qdkfweb.cn/softfever-orcaslicer/)
-- [LizardByte/Sunshine](https://github.qdkfweb.cn/lizardbyte-sunshine/)
-- [free-educa/books](https://github.qdkfweb.cn/free-educa-books/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
