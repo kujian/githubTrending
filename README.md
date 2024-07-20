@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [abseil/abseil-cpp](https://github.qdkfweb.cn/abseil-abseil-cpp/)
 - [alibaba/formily](https://github.qdkfweb.cn/alibaba-formily/)
 - [open-telemetry/opentelemetry-demo](https://github.qdkfweb.cn/open-telemetry-opentelemetry-demo/)
 - [prisma/prisma](https://github.qdkfweb.cn/prisma-prisma/)
 - [misskey-dev/misskey](https://github.qdkfweb.cn/misskey-dev-misskey/)
-- [cavi-au/Consent-O-Matic](https://github.qdkfweb.cn/cavi-au-consent-o-matic/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
