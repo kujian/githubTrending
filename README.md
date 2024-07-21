@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [abseil/abseil-cpp](https://github.qdkfweb.cn/abseil-abseil-cpp/)
-- [alibaba/formily](https://github.qdkfweb.cn/alibaba-formily/)
-- [open-telemetry/opentelemetry-demo](https://github.qdkfweb.cn/open-telemetry-opentelemetry-demo/)
-- [prisma/prisma](https://github.qdkfweb.cn/prisma-prisma/)
-- [misskey-dev/misskey](https://github.qdkfweb.cn/misskey-dev-misskey/)
+- [PCSX2/pcsx2](https://github.qdkfweb.cn/pcsx2-pcsx2/)
+- [Dao-AILab/flash-attention](https://github.qdkfweb.cn/dao-ailab-flash-attention/)
+- [pytube/pytube](https://github.qdkfweb.cn/pytube-pytube/)
+- [opendatalab/MinerU](https://github.qdkfweb.cn/opendatalab-mineru/)
+- [rust-lang/reference](https://github.qdkfweb.cn/rust-lang-reference/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
