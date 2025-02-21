@@ -18,11 +18,11 @@ Github 前端开发日报栏目数据来自[Github热榜](https://github.qdkfweb
 ## [最新GitHub项目](https://github.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [spacedriveapp/spacedrive](https://github.qdkfweb.cn/spacedriveapp-spacedrive/)
-- [NVIDIA/open-gpu-kernel-modules](https://github.qdkfweb.cn/nvidia-open-gpu-kernel-modules/)
-- [g1879/DrissionPage](https://github.qdkfweb.cn/g1879-drissionpage/)
-- [PCSX2/pcsx2](https://github.qdkfweb.cn/pcsx2-pcsx2/)
-- [Dao-AILab/flash-attention](https://github.qdkfweb.cn/dao-ailab-flash-attention/)
+- [spf13/cobra](https://github.qdkfweb.cn/spf13-cobra/)
+- [jingyaogong/minimind](https://github.qdkfweb.cn/jingyaogong-minimind/)
+- [78/xiaozhi-esp32](https://github.qdkfweb.cn/78-xiaozhi-esp32/)
+- [mastra-ai/mastra](https://github.qdkfweb.cn/mastra-ai-mastra/)
+- [treetrum/amazon-kindle-bulk-downloader](https://github.qdkfweb.cn/treetrum-amazon-kindle-bulk-downloader/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 2020
